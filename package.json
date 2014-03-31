@@ -1,0 +1,9 @@
+{
+  "name": "example-project",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-sass": "~0.6.0",
+    "load-grunt-tasks": "~0.2.1"
+  }
+}

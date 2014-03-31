@@ -1,0 +1,7 @@
+@import "bootstrap.css";
+
+.thumbnail{
+    display:block;
+    height:140px;
+    overflow:hidden;
+}

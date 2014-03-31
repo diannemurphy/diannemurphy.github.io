@@ -1,0 +1,986 @@
+---
+- id: '2'
+  name: eatup.jpg
+  category: Etching
+  ext: .jpg
+  w: '468'
+  h: '812'
+  alt: Eat Up
+  caption: Eat Up
+  date: '2004-09-11 10:52:01'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+
+- id: '1'
+  name: book.jpg
+  category: Etching
+  ext: .jpg
+  w: '450'
+  h: '604'
+  alt: Everyday I write the book
+  caption: Everyday I write the book
+  date: '2004-09-11 10:16:15'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '3'
+  name: adinfinitum.jpg
+  category: Etching
+  ext: .jpg
+  w: '450'
+  h: '643'
+  alt: Ad Infinitum
+  caption: Colour Inked Etching
+  date: '2004-09-14 20:23:13'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '4'
+  name: baggage.jpg
+  category: Etching
+  ext: .jpg
+  w: '144'
+  h: '559'
+  alt: Baggage
+  caption: Colour Inked Etching
+  date: '2004-09-14 21:02:36'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '5'
+  name: boymeetsgirl.jpg
+  category: Silkscreen Monoprint
+  ext: .jpg
+  w: '450'
+  h: '272'
+  alt: Boy meets girl
+  caption: Silkscreen Monoprint
+  date: '2004-09-14 21:05:01'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '6'
+  name: child.jpg
+  category: Etching
+  ext: .jpg
+  w: '450'
+  h: '564'
+  alt: Child
+  caption: Colour Inked Etching
+  date: '2004-09-14 21:15:45'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '7'
+  name: clapclap.jpg
+  category: Etching
+  ext: .jpg
+  w: '450'
+  h: '707'
+  alt: Clap Clap
+  caption: Colour Inked Etching
+  date: '2004-09-14 21:20:44'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '8'
+  name: overthere.jpg
+  category: Etching
+  ext: .jpg
+  w: '600'
+  h: '335'
+  alt: Over There
+  caption: Colour Inked Etching
+  date: '2004-09-16 22:02:40'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '9'
+  name: overtheredetail.jpg
+  category: ''
+  ext: .jpg
+  w: '148'
+  h: '148'
+  alt: Over There (detail)
+  caption: ''
+  date: '2004-09-14 21:34:41'
+  author: mearso
+  thumbnail: '0'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '10'
+  name: colourmeblue.jpg
+  category: Etching
+  ext: .jpg
+  w: '400'
+  h: '523'
+  alt: Colour me Blue
+  caption: Colour me blue 
+  date: '2005-01-27 13:56:43'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '11'
+  name: danceandbemerry.jpg
+  category: Etching
+  ext: .jpg
+  w: '450'
+  h: '715'
+  alt: Dance and be merry..
+  caption: Dance and be merry...
+  date: '2004-09-25 15:13:23'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '12'
+  name: dontlook.jpg
+  category: Etching
+  ext: .jpg
+  w: '500'
+  h: '491'
+  alt: Don't look back until you drop
+  caption: Don't look back until you drop
+  date: '2004-09-25 15:20:28'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '13'
+  name: eeniemeenie.jpg
+  category: Etching
+  ext: .jpg
+  w: '500'
+  h: '265'
+  alt: Eenie Meenie Miney
+  caption: Eenie Meenie Miney
+  date: '2004-09-25 15:23:43'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '14'
+  name: eesh.jpg
+  category: Etching
+  ext: .jpg
+  w: '500'
+  h: '505'
+  alt: Eesh
+  caption: Eesh
+  date: '2004-09-25 15:26:03'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '15'
+  name: face-values.jpg
+  category: Etching
+  ext: .jpg
+  w: '700'
+  h: '1250'
+  alt: Face value
+  caption: Face value
+  date: '2013-05-16 20:54:31'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '16'
+  name: friday.jpg
+  category: Drypoint
+  ext: .jpg
+  w: '468'
+  h: '691'
+  alt: Friday's child is loving and giving
+  caption: Friday's child is loving and giving
+  date: '2004-09-25 15:35:24'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '17'
+  name: funandgames.jpg
+  category: Etching
+  ext: .jpg
+  w: '453'
+  h: '495'
+  alt: Fun and Games
+  caption: Fun and Games
+  date: '2004-09-25 15:37:40'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '19'
+  name: holdme.jpg
+  category: Etching
+  ext: .jpg
+  w: '450'
+  h: '308'
+  alt: Hold me baby
+  caption: Hold me baby
+  date: '2004-09-25 15:41:10'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '20'
+  name: lifecycles.jpg
+  category: Etching
+  ext: .jpg
+  w: '500'
+  h: '671'
+  alt: Lifecycles
+  caption: Lifecycles
+  date: '2004-09-25 15:43:21'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '21'
+  name: lollies.jpg
+  category: Etching
+  ext: .jpg
+  w: '905'
+  h: '487'
+  alt: Lollies
+  caption: Lollies
+  date: '2004-09-25 15:45:31'
+  author: mearso
+  thumbnail: '0'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '56'
+  name: pencilcase.jpg
+  category: Etching
+  ext: .jpg
+  w: '600'
+  h: '426'
+  alt: Pencil Case
+  caption: Pencil Case
+  date: '2005-02-13 15:12:50'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '57'
+  name: 57.jpg
+  category: Etching
+  ext: .jpg
+  w: '150'
+  h: '339'
+  alt: Star
+  caption: Star
+  date: '2005-04-17 10:31:52'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '23'
+  name: monday.jpg
+  category: Drypoint
+  ext: .jpg
+  w: '477'
+  h: '703'
+  alt: Monday's Child
+  caption: Monday's Child
+  date: '2004-09-25 15:49:00'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '24'
+  name: pencilcase.jpg
+  category: Etching
+  ext: .jpg
+  w: '478'
+  h: '340'
+  alt: Pencil Case
+  caption: Pencil Case
+  date: '2004-09-25 15:51:01'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '25'
+  name: pushmepullyou.jpg
+  category: Silkscreen Monoprint
+  ext: .jpg
+  w: '544'
+  h: '785'
+  alt: Push me Pull you
+  caption: Push me Pull you
+  date: '2004-09-25 15:56:28'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '26'
+  name: sabbath.jpg
+  category: Drypoint
+  ext: .jpg
+  w: '304'
+  h: '441'
+  alt: The child born on the Sabbath
+  caption: The child born on the Sabbath
+  date: '2004-09-25 15:58:02'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '27'
+  name: shove.jpg
+  category: Etching
+  ext: .jpg
+  w: '450'
+  h: '389'
+  alt: Push, Kick and Shove
+  caption: Push, Kick and Shove
+  date: '2004-09-25 16:00:14'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '28'
+  name: spendspendspent.jpg
+  category: Etching
+  ext: .jpg
+  w: '548'
+  h: '629'
+  alt: Spend,Spend, Spent
+  caption: Spend,Spend, Spent
+  date: '2004-09-25 16:02:53'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '29'
+  name: thisthat.jpg
+  category: Etching
+  ext: .jpg
+  w: '410'
+  h: '445'
+  alt: This, that and the other
+  caption: This, that and the other
+  date: '2004-09-25 16:04:27'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '30'
+  name: toolate.jpg
+  category: Etching
+  ext: .jpg
+  w: '458'
+  h: '707'
+  alt: Too late now
+  caption: Too late now
+  date: '2004-09-25 16:05:37'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '31'
+  name: tuesday.jpg
+  category: Drypoint
+  ext: .jpg
+  w: '423'
+  h: '620'
+  alt: Tuesday's Child
+  caption: Tuesday's Child
+  date: '2004-09-25 16:07:49'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '32'
+  name: twist.jpg
+  category: Etching
+  ext: .jpg
+  w: '184'
+  h: '438'
+  alt: Twist
+  caption: Twist
+  date: '2004-09-25 16:10:12'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '33'
+  name: wednesdayschild.jpg
+  category: Drypoint
+  ext: .jpg
+  w: '423'
+  h: '622'
+  alt: Wednesday's Child
+  caption: Wednesday's Child
+  date: '2004-09-25 16:11:28'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '34'
+  name: weelassie.jpg
+  category: Etching
+  ext: .jpg
+  w: '162'
+  h: '287'
+  alt: Wee Lassie
+  caption: Wee Lassie
+  date: '2004-09-25 16:13:13'
+  author: mearso
+  thumbnail: '0'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '35'
+  name: woodenheart.jpg
+  category: Etching
+  ext: .jpg
+  w: '211'
+  h: '546'
+  alt: Wooden Heart
+  caption: Wooden Heart
+  date: '2004-09-25 16:13:57'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '36'
+  name: olympiaetching.jpg
+  category: Etching
+  ext: .jpg
+  w: '600'
+  h: '447'
+  alt: Olympia
+  caption: ''
+  date: '2005-01-21 22:55:43'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '37'
+  name: cant.jpg
+  category: Etching
+  ext: .jpg
+  w: '169'
+  h: '500'
+  alt: Can't Etching
+  caption: Can't Etching
+  date: '2005-01-27 13:57:39'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '39'
+  name: clownio.jpg
+  category: Etching
+  ext: .jpg
+  w: '600'
+  h: '818'
+  alt: Clownio
+  caption: ''
+  date: '2013-05-16 20:45:16'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '40'
+  name: daddydear.jpg
+  category: Etching
+  ext: .jpg
+  w: '400'
+  h: '497'
+  alt: ''
+  caption: ''
+  date: '2005-01-27 14:14:53'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '41'
+  name: desire.jpg
+  category: Etching
+  ext: .jpg
+  w: '200'
+  h: '437'
+  alt: Desire
+  caption: ''
+  date: '2005-01-27 14:19:19'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '42'
+  name: getknotted.jpg
+  category: Etching
+  ext: .jpg
+  w: '200'
+  h: '624'
+  alt: Get knotted
+  caption: ''
+  date: '2005-01-27 14:21:13'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '43'
+  name: juststayyoungandbeautiful.jpg
+  category: Etching
+  ext: .jpg
+  w: '400'
+  h: '528'
+  alt: ''
+  caption: ''
+  date: '2005-01-27 14:23:37'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '44'
+  name: maidorhonour.jpg
+  category: Etching
+  ext: .jpg
+  w: '400'
+  h: '528'
+  alt: Maid or honour
+  caption: ''
+  date: '2005-01-27 14:26:12'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '45'
+  name: makeorbreak.jpg
+  category: Etching
+  ext: .jpg
+  w: '400'
+  h: '535'
+  alt: Make or break
+  caption: ''
+  date: '2005-01-27 14:28:35'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '46'
+  name: pare.jpg
+  category: Etching
+  ext: .jpg
+  w: '400'
+  h: '569'
+  alt: Pare
+  caption: ''
+  date: '2005-01-27 14:30:31'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '47'
+  name: pastcutouts.jpg
+  category: Etching
+  ext: .jpg
+  w: '500'
+  h: '323'
+  alt: Past cut-outs
+  caption: ''
+  date: '2005-01-27 14:32:35'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '48'
+  name: problem-sums.jpg
+  category: Etching
+  ext: .jpg
+  w: '700'
+  h: '490'
+  alt: Problem Sums
+  caption: ''
+  date: '2013-05-16 20:43:29'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '49'
+  name: skeweredmemories.jpg
+  category: Etching
+  ext: .jpg
+  w: '500'
+  h: '333'
+  alt: Skewered Memories
+  caption: ''
+  date: '2005-01-27 14:37:58'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '50'
+  name: strive.jpg
+  category: Etching
+  ext: .jpg
+  w: '200'
+  h: '223'
+  alt: Strive
+  caption: ''
+  date: '2005-01-27 14:40:10'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '51'
+  name: sweet-rewards.jpg
+  category: Etching
+  ext: .jpg
+  w: '770'
+  h: '428'
+  alt: Sweet Rewards
+  caption: ''
+  date: '2013-09-23 19:08:58'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '52'
+  name: thesunthemoomandthestars.jpg
+  category: Etching
+  ext: .jpg
+  w: '500'
+  h: '805'
+  alt: The sun the moon and the stars
+  caption: ''
+  date: '2005-01-27 14:44:31'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '53'
+  name: thethirteenthday.jpg
+  category: Etching
+  ext: .jpg
+  w: '400'
+  h: '578'
+  alt: The thirteenth day
+  caption: ''
+  date: '2005-01-27 14:47:52'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '54'
+  name: weelassie.jpg
+  category: Etching
+  ext: .jpg
+  w: '400'
+  h: '673'
+  alt: Wee Lassie
+  caption: ''
+  date: '2005-01-27 14:50:15'
+  author: mearso
+  thumbnail: '0'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '55'
+  name: lovelygrub.jpg
+  category: Silkscreen Monoprint
+  ext: .jpg
+  w: '600'
+  h: '397'
+  alt: Lovely Grub
+  caption: ''
+  date: '2005-02-13 15:04:03'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '58'
+  name: thursday.jpg
+  category: Drypoint
+  ext: .jpg
+  w: '600'
+  h: '415'
+  alt: Thursday's Child
+  caption: ''
+  date: '2005-02-13 15:21:03'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '59'
+  name: threehailmarys.jpg
+  category: Etching
+  ext: .jpg
+  w: '450'
+  h: '692'
+  alt: Three Hail Marys
+  caption: Three Hail Marys
+  date: '2005-04-17 10:22:12'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '0'
+  thumb_h: '0'
+- id: '61'
+  name: dere-'ma-i-fi.jpg
+  category: Etching
+  ext: .jpg
+  w: '500'
+  h: '911'
+  alt: Etching - Dere'ma i fi
+  caption: ''
+  date: '2013-05-16 20:50:36'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '63'
+  name: no-more-bananas.jpg
+  category: Etching
+  ext: .jpg
+  w: '697'
+  h: '864'
+  alt: ''
+  caption: No More Bananas
+  date: '2012-10-26 18:01:43'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '64'
+  name: astro-man.jpg
+  category: Etching
+  ext: .jpg
+  w: '578'
+  h: '803'
+  alt: ''
+  caption: Astro Man
+  date: '2012-10-27 19:59:08'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '65'
+  name: the-magician-txp.jpg
+  category: Etching
+  ext: .jpg
+  w: '500'
+  h: '698'
+  alt: ''
+  caption: The Magician
+  date: '2013-04-10 19:46:33'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '66'
+  name: square-go.jpg
+  category: Etching
+  ext: .jpg
+  w: '326'
+  h: '600'
+  alt: ''
+  caption: ''
+  date: '2013-03-22 20:40:48'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '67'
+  name: camberwick-blue.jpg
+  category: Etching
+  ext: .jpg
+  w: '1200'
+  h: '856'
+  alt: ''
+  caption: ''
+  date: '2013-03-29 16:50:24'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '68'
+  name: looking-out-or-looking-in?
+  category: Etching
+  ext: .png
+  w: '600'
+  h: '694'
+  alt: ''
+  caption: ''
+  date: '2013-05-11 19:23:11'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '69'
+  name: color-me-blue.jpg
+  category: Etching
+  ext: .jpg
+  w: '600'
+  h: '828'
+  alt: Colour Inked Etching
+  caption: Colour Inked Etching
+  date: '2013-05-12 12:06:25'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '70'
+  name: black-and-white-scraps.jpg
+  category: Etching
+  ext: .jpg
+  w: '700'
+  h: '977'
+  alt: ''
+  caption: Black & White Inked Etching
+  date: '2013-05-12 12:11:20'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '71'
+  name: wee-lassie.jpg
+  category: Etching
+  ext: .jpg
+  w: '500'
+  h: '830'
+  alt: ''
+  caption: ''
+  date: '2013-05-12 12:17:30'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '72'
+  name: edinburgh-rock.jpg
+  category: Etching
+  ext: .jpg
+  w: '800'
+  h: '635'
+  alt: Edinburgh Rock Etching
+  caption: ''
+  date: '2013-05-15 20:40:43'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '73'
+  name: three-hail-marys.jpg
+  category: Etching
+  ext: .jpg
+  w: '600'
+  h: '953'
+  alt: Etching
+  caption: ''
+  date: '2013-05-15 20:44:23'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '74'
+  name: come-play-with-me.jpg
+  category: Etching
+  ext: .jpg
+  w: '700'
+  h: '733'
+  alt: Etching
+  caption: ''
+  date: '2013-05-15 20:48:07'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '75'
+  name: for-i-dont-have-a-wooden-heart.jpg
+  category: Etching
+  ext: .jpg
+  w: '400'
+  h: '819'
+  alt: ''
+  caption: ''
+  date: '2013-05-15 20:54:28'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '76'
+  name: manet's-olympia.jpg
+  category: Etching
+  ext: .jpg
+  w: '800'
+  h: '598'
+  alt: ''
+  caption: ''
+  date: '2013-05-16 20:46:50'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '77'
+  name: twist-textpattern.jpg
+  category: Etching
+  ext: .jpg
+  w: '400'
+  h: '758'
+  alt: ''
+  caption: ''
+  date: '2013-09-23 19:02:34'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '78'
+  name: blessed-with-child.jpg
+  category: Etching
+  ext: .jpg
+  w: '500'
+  h: '671'
+  alt: ''
+  caption: ''
+  date: '2013-10-19 18:52:21'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '79'
+  name: come-play-with-me(bw)
+  category: Etching
+  ext: .jpg
+  w: '500'
+  h: '537'
+  alt: ''
+  caption: ''
+  date: '2013-10-19 18:52:40'
+  author: mearso
+  thumbnail: '1'
+  thumb_w: '50'
+  thumb_h: '50'
+- id: '80'
+  name: african-queen
+  category: Etching
+  ext: .jpg
+  w: '500'
+  h: '629'
+  alt: ''
+  caption: ''
+  date: '2013-10-19 18:53:03'
+  url:   african-queen
+- id: '81'
+  name: the-love-machine
+  category: Etching
+  ext: .jpg
+  w: '16'
+  h: '17.5'
+  alt: 'Etching - The Love Machine'
+  caption: 'The Love Machine'
+  date: '2013-12-07 11:12:58'
+  thumb_w: '50'
+  thumb_h: '50'
+  url: the-love-machine
