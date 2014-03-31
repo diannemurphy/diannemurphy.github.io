@@ -7,6 +7,6 @@ pygments: true
 paginate: 5
 permalink:     none
 
-baseurl:  /dianne-site
+baseurl:  /dianne-site/
 url:      http://localhost:4000
 
