@@ -471,20 +471,30 @@ May 1994 City & Guilds stage II word processing certificate gained
 
 ### Workshops 2008-2010
 
-- August 2008 Abercynon Sheltered Housing, appliqué bags, etc..
+- August 2008
+	- Abercynon Sheltered Housing, appliqué bags, etc..
 - November 2008
 	-Trehopcyn Primary 5x after school sessions
 	- Miskin Commun. First Christmas Print banners
-- February 2009 Cyfartha Castle Ladies appliqué bag workshop evening.
-- March 2009 Fframwaith/Interlink University of Glam print.
-- April 2009 Muni Arts Centre, Disabled Arts Week.
-- June 2009 Trehopcyn 10x after school workshops.
-- May 2009 Muni Arts Centre, Disabled arts week.
-- June 2009 Bryncynon Strategy 2 days in schools artwork for street banners
+- February 2009 
+	- Cyfartha Castle Ladies appliqué bag workshop evening.
+- March 2009
+	- Fframwaith/Interlink University of Glam print.
+- April 2009
+	- Muni Arts Centre, Disabled Arts Week.
+- June 2009
+	-Trehopcyn 10x after school workshops.
+- May 2009
+	-Muni Arts Centre, Disabled arts week.
+- June 2009
+	-Bryncynon Strategy 2 days in schools artwork for street banners
 - November 2009
 	- Trehopcyn 10x after school sessions
 	- Pontshonnorton & Coed-y-Lan primary work up Santa boards 1 Welsh and 1 - English for display in Ynysangharad Park outside Santa’s Grotto.
 	- Ynysangharad Park Christmas fayre workshop.
-- February 2010 Hafol Pinny printing session.
-- March 2010 University of Glamorgan, Learner Voice Event 14 – 19 learning pathways cotton - bag silkscreen printing.
-- April 2010 PoetryQuest, Cyfartha Castle Tipi decoration/museum workshops.
+- February 2010
+	- Hafol Pinny printing session.
+- March 2010
+	- University of Glamorgan, Learner Voice Event 14 – 19 learning pathways cotton - bag silkscreen printing.
+- April 2010
+	- PoetryQuest, Cyfartha Castle Tipi decoration/museum workshops.

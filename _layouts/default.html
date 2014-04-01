@@ -10,23 +10,35 @@
 <script src="/js/jquery-1.10.2.min.js"></script>
 <script src="/js/bootstrap.lightbox.js"></script>
 <link href="/css/bootstrap.lightbox.css" rel="stylesheet" />
+<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700' rel='stylesheet' type='text/css'>
 
 </head>
 <body>
-<div id="pagewidth" class="container">
-  <h1 id="header" >
-    <span>Dianne Murphy </span>
-  </h1>
-
-{% include navigation.html %}
- 
-<!-- center -->
-
-<div class="container">
-
-    {{ content }}
-
-
+<div class="container">	
+	<div class="row">
+		<div class="col-md-4">			
+	
+	  	  <h1 id="header">
+	    	Dianne Murphy
+		  </h1>
+		</div>
+		<div class="col-md-8">				  
+			<ul class="nav nav-pills">
+				<li><a href="/">About</a></li>
+				<li><a href="/cv/">CV</a></li>
+				<li><a href="/gallery/">Gallery</a></li>
+				<li><a href="/links/">Links</a></li>
+			</ul>
+		</div>
+	</div>
 </div>
 
-{% include footer.html %}
+<div class="container">
+	<div class="row">	
+    	{{ content }}
+	</div>
+	{% include footer.html %}
+</div>
+
+
+

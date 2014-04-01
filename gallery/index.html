@@ -4,17 +4,13 @@ layout: default
 
 ---
 
-<div class="row">
 	<ul class="thumbnails list-unstyled" data-toggle="lightbox">
-	{% for image in site.data.images %}
-
-		<li class="col-xs-4 col-md-3 box">
-			<a class="thumbnail" href="/images/{{ image.id }}.jpg" title="{{ image.category }}" data-description="{{ image.caption }} {{ image.date }}">
+		{% for image in site.data.images %}
+			<li class="col-xs-4 col-md-3 box">
+				<a class="thumbnail" href="/images/{{ image.id }}.jpg" title="{{ image.category }}" data-description="{{ image.caption }} {{ image.date | date: '%B %d, %Y' }}">
 				<img src="/images/{{ image.id }}.jpg" alt="{{ image.alt }}" data-title="{{ image.caption }}" data-original-title="{{ image.category }}"  title="">
-			</a>
-		</li>
-
-
+				</a>
+			</li>
 		{% endfor %}
 	</ul>
 
