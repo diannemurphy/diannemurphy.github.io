@@ -1,4 +1,26 @@
 ---
+- id: 'capt-scarlet'
+  name: 'Captain Scarlet (Indestructable)'
+  category: 'Colour Inked Etching'
+  ext: .jpg
+  w: '15'
+  h: '40'
+  alt: 'Colour Inked Etching'
+  caption: 'Captain Scarlet (Indestructable)'
+  date: 2014-03-18
+  url: capt-scarlet
+  
+- id: 'capt-black'
+  name: 'Captain Black (Human Convert)'
+  category: 'Colour Inked Etching'
+  ext: .jpg
+  w: 16
+  h: 40
+  alt: 'Captain Black (Human Convert)'
+  caption: 'Captain Black (Human Convert)'
+  date: 2014-03-18
+  url: capt-black
+	
 - id: 'the-love-machine'
   name: the-love-machine
   category: 'Colour Inked Etching'
