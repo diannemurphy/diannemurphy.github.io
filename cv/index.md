@@ -159,6 +159,8 @@ Youth Cafe, Tredegar. Create 3×9ft banners for bandstand to be displayed during
 May 1994 Featured on The Slate, BBC 2 Wales. Arts magazine programme investigation of my art form technique and chosen topic.
 Degree
 
+### Degree
+
 BA (hons) 2:1 Fine Art (Drawing and Painting)
 1981 -85 Duncan of Jordanstone College of Art Dundee
 
@@ -167,11 +169,11 @@ BA (hons) 2:1 Fine Art (Drawing and Painting)
 1993 First son born
 1998 Second son born
 
-Welsh Language
+### Welsh Language
 
 Level 3 attained (ongoing)
 
-Computer Course
+### Computer Course
 
 May 1994 City & Guilds stage II word processing certificate gained
 
