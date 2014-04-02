@@ -8,8 +8,6 @@
   alt: 'Colour Inked Etching'
   caption: 'The Love Machine'
   date: 2013-12-07 11:12:58
-  thumb_w: '50'
-  thumb_h: '50'
   url: the-love-machine
 - id: '66'
   name: square-go.jpg
@@ -20,10 +18,6 @@
   alt: ''
   caption: ''
   date: '2013-03-22 20:40:48'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '63'
   name: no-more-bananas.jpg
   category: 'Colour Inked Etching'
@@ -33,10 +27,6 @@
   alt: ''
   caption: No More Bananas
   date: '2012-10-26 18:01:43'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '64'
   name: astro-man.jpg
   category: 'Colour Inked Etching'
@@ -46,10 +36,15 @@
   alt: ''
   caption: Astro Man
   date: '2012-10-27 19:59:08'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
+- id: '68'
+  name: 'looking-out-or-looking-in?'
+  category: 'Colour Inked Etching'
+  ext: .png
+  w: '600'
+  h: '694'
+  alt: 'Looking-out-or-looking-in?'
+  caption: 'Looking-out-or-looking-in?'
+  date: '2013-05-11 19:23:11'
 - id: '2'
   name: eatup.jpg
   category: 'Colour Inked Etching'
@@ -59,11 +54,6 @@
   alt: Eat Up
   caption: Eat Up
   date: '2004-09-11 10:52:01'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
-
 - id: '1'
   name: book.jpg
   category: 'Colour Inked Etching'
@@ -73,10 +63,6 @@
   alt: Everyday I write the book
   caption: Everyday I write the book
   date: '2004-09-11 10:16:15'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '3'
   name: adinfinitum.jpg
   category: 'Colour Inked Etching'
@@ -86,10 +72,6 @@
   alt: Ad Infinitum
   caption: Colour Inked 'Colour Inked Etching'
   date: '2004-09-14 20:23:13'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '4'
   name: baggage.jpg
   category: 'Colour Inked Etching'
@@ -99,10 +81,6 @@
   alt: Baggage
   caption: Colour Inked 'Colour Inked Etching'
   date: '2004-09-14 21:02:36'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '5'
   name: boymeetsgirl.jpg
   category: Silkscreen Monoprint
@@ -112,10 +90,6 @@
   alt: Boy meets girl
   caption: Silkscreen Monoprint
   date: '2004-09-14 21:05:01'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '6'
   name: child.jpg
   category: 'Colour Inked Etching'
@@ -125,10 +99,6 @@
   alt: Child
   caption: Colour Inked 'Colour Inked Etching'
   date: '2004-09-14 21:15:45'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '7'
   name: clapclap.jpg
   category: 'Colour Inked Etching'
@@ -138,10 +108,6 @@
   alt: Clap Clap
   caption: Colour Inked 'Colour Inked Etching'
   date: '2004-09-14 21:20:44'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '8'
   name: overthere.jpg
   category: 'Colour Inked Etching'
@@ -151,10 +117,6 @@
   alt: Over There
   caption: Colour Inked 'Colour Inked Etching'
   date: '2004-09-16 22:02:40'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '9'
   name: overtheredetail.jpg
   category: ''
@@ -166,8 +128,6 @@
   date: '2004-09-14 21:34:41'
 
   thumbnail: '0'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '10'
   name: colourmeblue.jpg
   category: 'Colour Inked Etching'
@@ -177,10 +137,6 @@
   alt: Colour me Blue
   caption: Colour me blue 
   date: '2005-01-27 13:56:43'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '11'
   name: danceandbemerry.jpg
   category: 'Colour Inked Etching'
@@ -190,10 +146,6 @@
   alt: Dance and be merry..
   caption: Dance and be merry...
   date: '2004-09-25 15:13:23'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '12'
   name: dontlook.jpg
   category: 'Colour Inked Etching'
@@ -203,10 +155,6 @@
   alt: Don't look back until you drop
   caption: Don't look back until you drop
   date: '2004-09-25 15:20:28'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '13'
   name: eeniemeenie.jpg
   category: 'Colour Inked Etching'
@@ -216,10 +164,6 @@
   alt: Eenie Meenie Miney
   caption: Eenie Meenie Miney
   date: '2004-09-25 15:23:43'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '14'
   name: eesh.jpg
   category: 'Colour Inked Etching'
@@ -229,10 +173,6 @@
   alt: Eesh
   caption: Eesh
   date: '2004-09-25 15:26:03'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '15'
   name: face-values.jpg
   category: 'Colour Inked Etching'
@@ -242,10 +182,6 @@
   alt: Face value
   caption: Face value
   date: '2013-05-16 20:54:31'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '16'
   name: friday.jpg
   category: Drypoint
@@ -255,10 +191,6 @@
   alt: Friday's child is loving and giving
   caption: Friday's child is loving and giving
   date: '2004-09-25 15:35:24'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '17'
   name: funandgames.jpg
   category: 'Colour Inked Etching'
@@ -268,10 +200,6 @@
   alt: Fun and Games
   caption: Fun and Games
   date: '2004-09-25 15:37:40'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '19'
   name: holdme.jpg
   category: 'Colour Inked Etching'
@@ -281,10 +209,6 @@
   alt: Hold me baby
   caption: Hold me baby
   date: '2004-09-25 15:41:10'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '20'
   name: lifecycles.jpg
   category: 'Colour Inked Etching'
@@ -294,10 +218,6 @@
   alt: Lifecycles
   caption: Lifecycles
   date: '2004-09-25 15:43:21'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '21'
   name: lollies.jpg
   category: 'Colour Inked Etching'
@@ -309,8 +229,6 @@
   date: '2004-09-25 15:45:31'
 
   thumbnail: '0'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '56'
   name: pencilcase.jpg
   category: 'Colour Inked Etching'
@@ -320,10 +238,6 @@
   alt: Pencil Case
   caption: Pencil Case
   date: '2005-02-13 15:12:50'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '57'
   name: 57.jpg
   category: 'Colour Inked Etching'
@@ -333,10 +247,6 @@
   alt: Star
   caption: Star
   date: '2005-04-17 10:31:52'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '23'
   name: monday.jpg
   category: Drypoint
@@ -346,10 +256,6 @@
   alt: Monday's Child
   caption: Monday's Child
   date: '2004-09-25 15:49:00'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '24'
   name: pencilcase.jpg
   category: 'Colour Inked Etching'
@@ -359,10 +265,6 @@
   alt: Pencil Case
   caption: Pencil Case
   date: '2004-09-25 15:51:01'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '25'
   name: pushmepullyou.jpg
   category: Silkscreen Monoprint
@@ -372,10 +274,6 @@
   alt: Push me Pull you
   caption: Push me Pull you
   date: '2004-09-25 15:56:28'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '26'
   name: sabbath.jpg
   category: Drypoint
@@ -385,10 +283,6 @@
   alt: The child born on the Sabbath
   caption: The child born on the Sabbath
   date: '2004-09-25 15:58:02'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '27'
   name: shove.jpg
   category: 'Colour Inked Etching'
@@ -398,10 +292,6 @@
   alt: Push, Kick and Shove
   caption: Push, Kick and Shove
   date: '2004-09-25 16:00:14'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '28'
   name: spendspendspent.jpg
   category: 'Colour Inked Etching'
@@ -411,10 +301,6 @@
   alt: Spend,Spend, Spent
   caption: Spend,Spend, Spent
   date: '2004-09-25 16:02:53'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '29'
   name: thisthat.jpg
   category: 'Colour Inked Etching'
@@ -424,10 +310,6 @@
   alt: This, that and the other
   caption: This, that and the other
   date: '2004-09-25 16:04:27'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '30'
   name: toolate.jpg
   category: 'Colour Inked Etching'
@@ -437,10 +319,6 @@
   alt: Too late now
   caption: Too late now
   date: '2004-09-25 16:05:37'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '31'
   name: tuesday.jpg
   category: Drypoint
@@ -450,10 +328,6 @@
   alt: Tuesday's Child
   caption: Tuesday's Child
   date: '2004-09-25 16:07:49'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '32'
   name: twist.jpg
   category: 'Colour Inked Etching'
@@ -463,10 +337,6 @@
   alt: Twist
   caption: Twist
   date: '2004-09-25 16:10:12'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '33'
   name: wednesdayschild.jpg
   category: Drypoint
@@ -476,10 +346,6 @@
   alt: Wednesday's Child
   caption: Wednesday's Child
   date: '2004-09-25 16:11:28'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '34'
   name: weelassie.jpg
   category: 'Colour Inked Etching'
@@ -491,8 +357,6 @@
   date: '2004-09-25 16:13:13'
 
   thumbnail: '0'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '35'
   name: woodenheart.jpg
   category: 'Colour Inked Etching'
@@ -502,10 +366,6 @@
   alt: Wooden Heart
   caption: Wooden Heart
   date: '2004-09-25 16:13:57'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '36'
   name: olympiaetching.jpg
   category: 'Colour Inked Etching'
@@ -515,10 +375,6 @@
   alt: Olympia
   caption: ''
   date: '2005-01-21 22:55:43'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '37'
   name: cant.jpg
   category: 'Colour Inked Etching'
@@ -528,10 +384,6 @@
   alt: Can't 'Colour Inked Etching'
   caption: Can't 'Colour Inked Etching'
   date: '2005-01-27 13:57:39'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '39'
   name: clownio.jpg
   category: 'Colour Inked Etching'
@@ -541,10 +393,6 @@
   alt: Clownio
   caption: ''
   date: '2013-05-16 20:45:16'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '40'
   name: daddydear.jpg
   category: 'Colour Inked Etching'
@@ -554,10 +402,6 @@
   alt: ''
   caption: ''
   date: '2005-01-27 14:14:53'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '41'
   name: desire.jpg
   category: 'Colour Inked Etching'
@@ -567,10 +411,6 @@
   alt: Desire
   caption: ''
   date: '2005-01-27 14:19:19'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '42'
   name: getknotted.jpg
   category: 'Colour Inked Etching'
@@ -580,10 +420,6 @@
   alt: Get knotted
   caption: ''
   date: '2005-01-27 14:21:13'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '43'
   name: juststayyoungandbeautiful.jpg
   category: 'Colour Inked Etching'
@@ -593,10 +429,6 @@
   alt: ''
   caption: ''
   date: '2005-01-27 14:23:37'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '44'
   name: maidorhonour.jpg
   category: 'Colour Inked Etching'
@@ -606,10 +438,6 @@
   alt: Maid or honour
   caption: ''
   date: '2005-01-27 14:26:12'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '45'
   name: makeorbreak.jpg
   category: 'Colour Inked Etching'
@@ -619,10 +447,6 @@
   alt: Make or break
   caption: ''
   date: '2005-01-27 14:28:35'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '46'
   name: pare.jpg
   category: 'Colour Inked Etching'
@@ -632,10 +456,6 @@
   alt: Pare
   caption: ''
   date: '2005-01-27 14:30:31'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '47'
   name: pastcutouts.jpg
   category: 'Colour Inked Etching'
@@ -645,10 +465,6 @@
   alt: Past cut-outs
   caption: ''
   date: '2005-01-27 14:32:35'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '48'
   name: problem-sums.jpg
   category: 'Colour Inked Etching'
@@ -658,10 +474,6 @@
   alt: Problem Sums
   caption: ''
   date: '2013-05-16 20:43:29'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '49'
   name: skeweredmemories.jpg
   category: 'Colour Inked Etching'
@@ -671,10 +483,6 @@
   alt: Skewered Memories
   caption: ''
   date: '2005-01-27 14:37:58'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '50'
   name: strive.jpg
   category: 'Colour Inked Etching'
@@ -684,10 +492,6 @@
   alt: Strive
   caption: ''
   date: '2005-01-27 14:40:10'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '51'
   name: sweet-rewards.jpg
   category: 'Colour Inked Etching'
@@ -697,10 +501,6 @@
   alt: Sweet Rewards
   caption: ''
   date: '2013-09-23 19:08:58'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '52'
   name: thesunthemoomandthestars.jpg
   category: 'Colour Inked Etching'
@@ -710,10 +510,6 @@
   alt: The sun the moon and the stars
   caption: ''
   date: '2005-01-27 14:44:31'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '53'
   name: thethirteenthday.jpg
   category: 'Colour Inked Etching'
@@ -723,10 +519,6 @@
   alt: The thirteenth day
   caption: ''
   date: '2005-01-27 14:47:52'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '54'
   name: weelassie.jpg
   category: 'Colour Inked Etching'
@@ -738,8 +530,6 @@
   date: '2005-01-27 14:50:15'
 
   thumbnail: '0'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '55'
   name: lovelygrub.jpg
   category: Silkscreen Monoprint
@@ -749,10 +539,6 @@
   alt: Lovely Grub
   caption: ''
   date: '2005-02-13 15:04:03'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '58'
   name: thursday.jpg
   category: Drypoint
@@ -762,10 +548,6 @@
   alt: Thursday's Child
   caption: ''
   date: '2005-02-13 15:21:03'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '59'
   name: threehailmarys.jpg
   category: 'Colour Inked Etching'
@@ -775,10 +557,6 @@
   alt: Three Hail Marys
   caption: Three Hail Marys
   date: '2005-04-17 10:22:12'
-
-  thumbnail: '1'
-  thumb_w: '0'
-  thumb_h: '0'
 - id: '61'
   name: dere-'ma-i-fi.jpg
   category: 'Colour Inked Etching'
@@ -788,10 +566,6 @@
   alt: "'Colour Inked Etching' - Dere'ma i fi'"
   caption: ''
   date: '2013-05-16 20:50:36'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '65'
   name: the-magician-txp.jpg
   category: 'Colour Inked Etching'
@@ -801,10 +575,6 @@
   alt: ''
   caption: The Magician
   date: '2013-04-10 19:46:33'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '67'
   name: camberwick-blue.jpg
   category: 'Colour Inked Etching'
@@ -814,23 +584,6 @@
   alt: ''
   caption: ''
   date: '2013-03-29 16:50:24'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
-- id: '68'
-  name: 'looking-out-or-looking-in?'
-  category: 'Colour Inked Etching'
-  ext: .png
-  w: '600'
-  h: '694'
-  alt: ''
-  caption: ''
-  date: '2013-05-11 19:23:11'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '69'
   name: color-me-blue.jpg
   category: 'Colour Inked Etching'
@@ -840,10 +593,6 @@
   alt: Colour Inked 'Colour Inked Etching'
   caption: Colour Inked 'Colour Inked Etching'
   date: '2013-05-12 12:06:25'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '70'
   name: black-and-white-scraps.jpg
   category: 'Colour Inked Etching'
@@ -853,10 +602,6 @@
   alt: ''
   caption: Black & White Inked 'Colour Inked Etching'
   date: '2013-05-12 12:11:20'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '71'
   name: wee-lassie.jpg
   category: 'Colour Inked Etching'
@@ -866,10 +611,6 @@
   alt: ''
   caption: ''
   date: '2013-05-12 12:17:30'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '72'
   name: edinburgh-rock.jpg
   category: 'Colour Inked Etching'
@@ -879,10 +620,6 @@
   alt: Edinburgh Rock 'Colour Inked Etching'
   caption: ''
   date: '2013-05-15 20:40:43'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '73'
   name: three-hail-marys.jpg
   category: 'Colour Inked Etching'
@@ -892,10 +629,6 @@
   alt: 'Colour Inked Etching'
   caption: ''
   date: '2013-05-15 20:44:23'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '74'
   name: come-play-with-me.jpg
   category: 'Colour Inked Etching'
@@ -905,10 +638,6 @@
   alt: 'Colour Inked Etching'
   caption: ''
   date: '2013-05-15 20:48:07'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '75'
   name: for-i-dont-have-a-wooden-heart.jpg
   category: 'Colour Inked Etching'
@@ -918,10 +647,6 @@
   alt: ''
   caption: ''
   date: '2013-05-15 20:54:28'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '76'
   name: manet's-olympia.jpg
   category: 'Colour Inked Etching'
@@ -931,10 +656,6 @@
   alt: ''
   caption: ''
   date: '2013-05-16 20:46:50'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '77'
   name: twist-textpattern.jpg
   category: 'Colour Inked Etching'
@@ -944,10 +665,6 @@
   alt: ''
   caption: ''
   date: '2013-09-23 19:02:34'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: '78'
   name: blessed-with-child.jpg
   category: 'Colour Inked Etching'
@@ -957,10 +674,6 @@
   alt: ''
   caption: ''
   date: '2013-10-19 18:52:21'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: 'come-play-with-me-bw'
   name: come-play-with-me(bw)
   category: 'Colour Inked Etching'
@@ -970,10 +683,6 @@
   alt: ''
   caption: ''
   date: '2013-10-19 18:52:40'
-
-  thumbnail: '1'
-  thumb_w: '50'
-  thumb_h: '50'
 - id: 'african-queen'
   name: african-queen
   category: 'Colour Inked Etching'
