@@ -137,24 +137,6 @@
   alt: Over There
   caption: Colour Inked 'Colour Inked Etching'
   date: '2004-09-16 22:02:40'
-- id: '9'
-  name: overtheredetail.jpg
-  category: ''
-  ext: .jpg
-  w: '148'
-  h: '148'
-  alt: Over There (detail)
-  caption: ''
-  date: '2004-09-14 21:34:41'
-- id: '10'
-  name: colourmeblue.jpg
-  category: 'Colour Inked Etching'
-  ext: .jpg
-  w: '400'
-  h: '523'
-  alt: Colour me Blue
-  caption: Colour me blue 
-  date: '2005-01-27 13:56:43'
 - id: '11'
   name: danceandbemerry.jpg
   category: 'Colour Inked Etching'
@@ -236,15 +218,6 @@
   alt: Lifecycles
   caption: Lifecycles
   date: '2004-09-25 15:43:21'
-- id: '56'
-  name: pencilcase.jpg
-  category: 'Colour Inked Etching'
-  ext: .jpg
-  w: '600'
-  h: '426'
-  alt: Pencil Case
-  caption: Pencil Case
-  date: '2005-02-13 15:12:50'
 - id: '57'
   name: 57.jpg
   category: 'Colour Inked Etching'
@@ -296,8 +269,8 @@
   ext: .jpg
   w: '450'
   h: '389'
-  alt: Push, Kick and Shove
-  caption: Push, Kick and Shove
+  alt: 'Push, Kick and Shove'
+  caption: 'Push, Kick and Shove'
   date: '2004-09-25 16:00:14'
 - id: '28'
   name: spendspendspent.jpg
@@ -305,8 +278,8 @@
   ext: .jpg
   w: '548'
   h: '629'
-  alt: Spend,Spend, Spent
-  caption: Spend,Spend, Spent
+  alt: 'Spend,Spend, Spent'
+  caption: 'Spend,Spend, Spent'
   date: '2004-09-25 16:02:53'
 - id: '29'
   name: thisthat.jpg
@@ -314,8 +287,8 @@
   ext: .jpg
   w: '410'
   h: '445'
-  alt: This, that and the other
-  caption: This, that and the other
+  alt: 'This, that and the other'
+  caption: 'This, that and the other'
   date: '2004-09-25 16:04:27'
 - id: '30'
   name: toolate.jpg
@@ -335,15 +308,6 @@
   alt: Tuesday's Child
   caption: Tuesday's Child
   date: '2004-09-25 16:07:49'
-- id: '32'
-  name: twist.jpg
-  category: 'Colour Inked Etching'
-  ext: .jpg
-  w: '184'
-  h: '438'
-  alt: Twist
-  caption: Twist
-  date: '2004-09-25 16:10:12'
 - id: '33'
   name: wednesdayschild.jpg
   category: Drypoint
@@ -524,15 +488,6 @@
   alt: The thirteenth day
   caption: ''
   date: '2005-01-27 14:47:52'
-- id: '54'
-  name: weelassie.jpg
-  category: 'Colour Inked Etching'
-  ext: .jpg
-  w: '400'
-  h: '673'
-  alt: Wee Lassie
-  caption: ''
-  date: '2005-01-27 14:50:15'
 - id: '55'
   name: lovelygrub.jpg
   category: Silkscreen Monoprint
@@ -593,8 +548,8 @@
   ext: .jpg
   w: '600'
   h: '828'
-  alt: Colour Inked 'Colour Inked Etching'
-  caption: Colour Inked 'Colour Inked Etching'
+  alt: 'Colour Inked Etching'
+  caption: 'Colour Inked Etching'
   date: '2013-05-12 12:06:25'
 - id: '70'
   name: black-and-white-scraps.jpg
@@ -603,7 +558,7 @@
   w: '700'
   h: '977'
   alt: ''
-  caption: Black & White Inked 'Colour Inked Etching'
+  caption: 'Black & White Inked Etching'
   date: '2013-05-12 12:11:20'
 - id: '71'
   name: wee-lassie.jpg
@@ -632,15 +587,6 @@
   alt: 'Colour Inked Etching'
   caption: ''
   date: '2013-05-15 20:44:23'
-- id: '74'
-  name: come-play-with-me.jpg
-  category: 'Colour Inked Etching'
-  ext: .jpg
-  w: '700'
-  h: '733'
-  alt: 'Colour Inked Etching'
-  caption: ''
-  date: '2013-05-15 20:48:07'
 - id: '75'
   name: for-i-dont-have-a-wooden-heart.jpg
   category: 'Colour Inked Etching'
