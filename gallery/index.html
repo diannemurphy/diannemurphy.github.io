@@ -7,7 +7,7 @@ layout: default
 <ul class="thumbnails list-unstyled" data-toggle="lightbox">
 	{% for image in site.data.images %}
 		<li class="col-xs-4 col-md-3 box">
-			<a class="thumbnail" href="/images/{{ image.id }}.jpg" title="{{ image.caption }}" data-description="{{ image.category }} {{ image.date | date: '%B %d, %Y' }}">
+			<a class="thumbnail" href="/images/{{ image.id }}.jpg" title="{{ image.caption }}" data-description="{{ image.category }} {{ image.date | date: '%Y' }}">
 			<img src="/images/{{ image.id }}.jpg" alt="{{ image.alt }}" data-title="{{ image.caption }}" data-original-title="{{ image.category }}"  title="">
 			</a>
 		</li>
