@@ -1,4 +1,12 @@
 ---
+- id: 'dere-ma'
+  name: "Der 'ma i fi"
+  category: 'Colour Inked Etching'
+  ext: .jpg
+  alt: 'Colour Inked Etching'
+  caption: "Der 'ma i fi'"
+  date: 2014-03-18
+  url: dere-ma
 - id: 'capt-scarlet'
   name: 'Captain Scarlet (Indestructable)'
   category: 'Colour Inked Etching'
@@ -344,7 +352,7 @@
   alt: Olympia
   caption: ''
   date: '2005-01-21 22:55:43'
-- id: '37'
+- id: 'cant'
   name: cant.jpg
   category: 'Colour Inked Etching'
   ext: .jpg
