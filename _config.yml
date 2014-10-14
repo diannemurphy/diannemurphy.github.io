@@ -3,7 +3,7 @@ name: diannemurphy
 exclude: [node_modules, package.json, Gruntfile.js]
 
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 paginate: 5
 permalink:     none
 
