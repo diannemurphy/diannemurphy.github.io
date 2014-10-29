@@ -471,7 +471,7 @@ May 1994 City & Guilds stage II word processing certificate gained
 	- Darran las Comm. First, T-shirt stencil and markers (s.t.d.)
 	- Muni Arts Centre, disability arts week, printing bags, box decorate & appliquÃ© face cloths.
 
-### Workshops 2008-2010
+### Workshops 2008-2012
 
 - August 2008
 	- Abercynon Sheltered Housing, appliqué bags, etc..
@@ -500,3 +500,29 @@ May 1994 City & Guilds stage II word processing certificate gained
 	- University of Glamorgan, Learner Voice Event 14 – 19 learning pathways cotton - bag silkscreen printing.
 - April 2010
 	- PoetryQuest, Cyfartha Castle Tipi decoration/museum workshops.
+- May 2010
+  - Trehopcyn after school art sessions run on for 1 year.
+- Aug 2010
+  - Tylorstown sports centre, On Track event paper craft
+- Sept 2010
+  - Ferndale Festival t shirt monoprinting
+  - Llys Gwern Ifor sheltered housing project ongoing various for 1 year
+- Oct. 2010
+  - Disability Arts, Garth Olwg, t shirt and bag mono printing
+- Nov 2010
+  - Glyncornel Centre, Miskin Project, educational welfare. Set up silkscreen and sewing
+  - Facilities. Train support workers. 8 weekly evening sessions.
+- Dec 2010
+  - Ponty Park Fayre, paper craft, Christmas decorations.
+- Feb 2011
+  - Rhondda Fach Sports Centre, paper craft event.
+- May 2011
+  - Ponty Park, Love Where You Live school event, screen printed banners
+- July 2011
+  - Prep for Big Bite event, provide materials and ideas.
+- July 2011
+  - Muni Arts Centre, Disability Arts, printing and painting.
+- Nov 2011
+  - Carer's Association, card construction and paper works.
+- Mar 2012
+  - Carer's Association, Easter gifts, cards and paper works.
