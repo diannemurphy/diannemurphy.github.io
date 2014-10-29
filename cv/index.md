@@ -65,6 +65,8 @@ Worked with Blackwood Miners Institute and choreographers to create 18FT painted
 - 1997 Essence of Wales, St David’s Hall, Cardiff.
 - 1998 Artists in Arms, St,David’s Hall, Cardiff (and London & Edinburgh tour)
 - 2000 A Healthier Tomorrow (charity fund exhibition), St. Davd’s Hall, Cardiff.
+- 2013 Splash, Bang, Wallop, Cupola Contemporary Art, Sheffield
+- 2014 Guilty Pleasures, Sweetart, Juno, Shoreditch, London
 
 ### Group Exhibitions
 
