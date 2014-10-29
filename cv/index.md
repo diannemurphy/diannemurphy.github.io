@@ -70,13 +70,14 @@ Worked with Blackwood Miners Institute and choreographers to create 18FT painted
 
 ### Group Exhibitions
 
-Joint Exhibition June 1986,Fair Maids House Gallery, Perth, Scotland.
-Group Exhibition February 1988 Knapp Gallery, Regent’s College Regent’s Circle,London
-Group Exhibition October 1988 Traverse Theatre, Edinburgh, Scotland.
-Group Exhibition February 1991 Windsor Arts Centre, Berkshire, England.
-Group Exhibition September 1994 Turner House Museum and Art Gallery, Penarth. Artists in Residence 1992 – 1994
-Group Exhibition Feb/March 2000 Contemporary Printmakers selected exhibition, Blackfriars Arts Centre, Boston, Lincs.
-Group Exhibition July/September 2010. ‘Bitten and Pressed’ contemporary printmakers selected exhibition. Aberystwyth Arts Centre.
+- 1986 Fair Maids House Gallery, Perth, Scotland.
+- 1988 Knapp Gallery, Regent’s College Regent’s Circle,London
+- 1988 Traverse Theatre, Edinburgh, Scotland.
+- 1991 Windsor Arts Centre, Berkshire, England.
+- 1994 Turner House Museum and Art Gallery, Penarth. 
+- 2000 Contemporary Printmakers selected exhibition, Blackfriars Arts Centre, Boston, Lincs.
+- 2010. ‘Bitten and Pressed’ contemporary printmakers selected exhibition. Aberystwyth Arts Centre.
+
 
 ### One Woman Exhibitions
 
