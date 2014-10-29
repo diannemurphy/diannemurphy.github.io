@@ -1,4 +1,14 @@
 ---
+  
+- id: 'ysbryd-y-nadolig'
+  name: "Ysbryd y Nadolig"
+  category: 'Colour Inked Etching'
+  ext: .jpg
+  alt: 'Colour Inked Etching'
+  caption: "Ysbryd y Nadolig"
+  date: 2014-10-29
+  url: ysbryd-y-nadolig
+  
 - id: 'dere-ma'
   name: "Der 'ma i fi"
   category: 'Colour Inked Etching'
