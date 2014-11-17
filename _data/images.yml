@@ -1,5 +1,14 @@
 ---
   
+- id: 'gift-for-life'
+  name: "Gift for Life"
+  category: 'Colour Inked Etching'
+  ext: .jpg
+  alt: 'Colour Inked Etching'
+  caption: "Gift for Life"
+  date: 1998-11-18
+  url: gift-for-life
+  
 - id: 'ysbryd-y-nadolig'
   name: "Ysbryd y Nadolig"
   category: 'Colour Inked Etching'
