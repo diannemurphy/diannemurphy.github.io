@@ -35,6 +35,9 @@
   caption: "Der 'ma i fi'"
   date: 2014-03-18
   url: dere-ma
+  
+
+  
 - id: 'capt-scarlet'
   name: 'Captain Scarlet (Indestructable)'
   category: 'Colour Inked Etching'
@@ -45,6 +48,7 @@
   caption: 'Captain Scarlet (Indestructable)'
   date: 2014-03-18
   url: capt-scarlet
+  
 - id: 'capt-black'
   name: 'Captain Black (Human Convert)'
   category: 'Colour Inked Etching'
@@ -65,9 +69,18 @@
   caption: 'The Love Machine'
   date: 2013-12-07 11:12:58
   url: the-love-machine
-- id: '66'
+  
+- id: 'square-go'
   name: square-go.jpg
   category: 'Colour Inked Etching'
+  ext: .jpg
+  alt: ''
+  caption: 'Square Go'
+  date: '2013-03-22 20:40:48'
+  
+- id: '66'
+  name: square-go.jpg
+  category: 'Black & White Inked Etching'
   ext: .jpg
   w: '326'
   h: '600'
@@ -92,9 +105,18 @@
   alt: ''
   caption: Astro Man
   date: '2012-10-27 19:59:08'
-- id: '68'
+  
+- id: 'looking-out-looking-in'
   name: 'looking-out-or-looking-in?'
   category: 'Colour Inked Etching'
+  ext: .jpg
+  alt: 'Looking-out-or-looking-in?'
+  caption: 'Looking-out-or-looking-in?'
+  date: '2013-05-11 19:23:11'
+  
+- id: '68'
+  name: 'looking-out-or-looking-in?'
+  category: 'Black & White Inked Etching'
   ext: .png
   w: '600'
   h: '694'
@@ -353,15 +375,6 @@
   alt: Wednesday's Child
   caption: Wednesday's Child
   date: '2004-09-25 16:11:28'
-- id: '34'
-  name: weelassie.jpg
-  category: 'Colour Inked Etching'
-  ext: .jpg
-  w: '162'
-  h: '287'
-  alt: Wee Lassie
-  caption: Wee Lassie
-  date: '1993-09-25 16:13:13'
 - id: '35'
   name: woodenheart.jpg
   category: 'Colour Inked Etching'
