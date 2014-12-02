@@ -1,5 +1,14 @@
 ---
   
+- id: 'axis-mundis-thread'
+  name: "Axis Mundi's Thread"
+  category: 'Colour Inked Etching'
+  ext: .jpg
+  alt: 'Colour Inked Etching'
+  caption: "Axis Mundi's Thread"
+  date: 2014-11-29
+  url: axis-mundis-thread
+  
 - id: 'gift-for-life'
   name: "Gift for Life"
   category: 'Colour Inked Etching'
