@@ -1,5 +1,5 @@
 ---
-  
+
 - id: 'axis-mundis-thread'
   name: "Axis Mundi's Thread"
   category: 'Colour Inked Etching'
@@ -132,12 +132,10 @@
   alt: Eat Up
   caption: Eat Up
   date: '1993-09-11 10:52:01'
-- id: '1'
-  name: book.jpg
+- id: 'everyday-i-write-the-book'
+  name: everyday-i-write-the-book.jpg
   category: 'Colour Inked Etching'
   ext: .jpg
-  w: '450'
-  h: '604'
   alt: Everyday I write the book
   caption: Everyday I write the book
   date: '1994-09-11 10:16:15'
@@ -682,3 +680,84 @@
   caption: ''
   date: '2013-10-19 18:53:03'
   url:   african-queen
+  
+- id: 'bind1'
+  name: "Bind"
+  category: 'Silkscreen Monoprint'
+  ext: .jpg
+  alt: 'Silkscreen Monoprint'
+  caption: "Bind"
+  date: 1990-10-09
+  url: bind1
+  
+- id: 'bind2'
+  name: "Bind"
+  category: 'Silkscreen Monoprint'
+  ext: .jpg
+  alt: 'Silkscreen Monoprint'
+  caption: "Bind"
+  date: 1990-10-09
+  url: bind2
+  
+- id: 'boy-meets-girl'
+  name: "Boy Meets Girl"
+  category: 'Silkscreen Monoprint'
+  ext: .jpg
+  alt: 'Silkscreen Monoprint'
+  caption: "Boy Meets Girl"
+  date: 1995-10-09
+  url: boy-meets-girl
+  
+- id: 'stop-paying-that-piper'
+  name: "Stop Paying that Piper"
+  category: 'Silkscreen Monoprint'
+  ext: .jpg
+  alt: 'Silkscreen Monoprint'
+  caption: "Stop Paying that Piper"
+  date: 1991-10-02
+  url: stop-paying-that-piper
+  
+- id: 'stop-paying-that-piper2'
+  name: "Stop Paying that Piper"
+  category: 'Silkscreen Monoprint'
+  ext: .jpg
+  alt: 'Silkscreen Monoprint'
+  caption: "Stop Paying that Piper"
+  date: 1991-10-02
+  url: stop-paying-that-piper2
+  
+- id: 'measure-of-success'
+  name: "Measure of Success"
+  category: 'Colour Inked Etching'
+  ext: .jpg
+  alt: 'Colour Inked Etching'
+  caption: "Measure of Success"
+  date: 1987-05-21
+  url: measure-of-success
+  
+- id: 'can-you-really-pronounce-it'
+  name: "Can you really pronounce it?"
+  category: 'Colour Inked Etching'
+  ext: .jpg
+  alt: 'Colour Inked Etching'
+  caption: "Can you really pronounce it?"
+  date: 1986-03-17
+  url: can-you-really-pronounce-it  
+  
+- id: 'learn-learn'
+  name: "Learn! Learn?"
+  category: 'Silkscreen'
+  ext: .jpg
+  alt: 'Silkscreen'
+  caption: "Learn! Learn?"
+  date: 1985-10-02
+  url: learn-learn
+  
+- id: 'field-at-vallorcines'
+  name: "Field at Vallorcines"
+  category: 'Silkscreen'
+  ext: .jpg
+  alt: 'Silkscreen'
+  caption: "Field at Vallorcines"
+  date: 1996-10-02
+  url: field-at-vallorcines
