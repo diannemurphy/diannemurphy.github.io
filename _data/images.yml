@@ -1,5 +1,14 @@
 ---
 
+- id: 'giftie-gie'
+  name: "Giftie Gie"
+  category: 'Colour Inked Etching'
+  ext: .jpg
+  alt: 'Colour Inked Etching'
+  caption: "Giftie Gie"
+  date: 2015-02-04
+  url: giftie-gie
+
 - id: 'axis-mundis-thread'
   name: "Axis Mundi's Thread"
   category: 'Colour Inked Etching'
@@ -670,6 +679,7 @@
   alt: ''
   caption: 'Come play with me'
   date: '1987-10-19 18:52:40'
+  
 - id: 'african-queen'
   name: african-queen
   category: 'Colour Inked Etching'
