@@ -1,5 +1,14 @@
 ---
 
+- id: 'sair-fecht'
+  name: "Sair Fecht"
+  category: 'Colour Inked Etching'
+  ext: .jpg
+  alt: 'Colour Inked Etching'
+  caption: "sair-fecht"
+  date: 2015-02-28
+  url: sair-fecht
+
 - id: 'giftie-gie'
   name: "Giftie Gie"
   category: 'Colour Inked Etching'
