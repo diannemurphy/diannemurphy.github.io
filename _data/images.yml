@@ -1,4 +1,13 @@
 ---
+  
+- id: 'davidsdenouement'
+  name: "David's Denouement"
+  category: 'Colour Inked Etching'
+  ext: .jpg
+  alt: 'Colour Inked Etching'
+  caption: "David's Denouement"
+  date: 2015-03-10
+  url: davidsdenouement
 
 - id: 'sair-fecht'
   name: "Sair Fecht"
