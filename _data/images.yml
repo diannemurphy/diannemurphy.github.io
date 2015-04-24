@@ -1,5 +1,14 @@
 ---
-  
+
+- id: 'mephisto'
+  name: "Mephisto leibt es zu spielen"
+  category: 'Colour Inked Etching'
+  ext: .jpg
+  alt: 'Colour Inked Etching'
+  caption: "Mephisto leibt es zu spielen"
+  date: 2015-04-24
+  url: mephisto
+
 - id: 'davidsdenouement'
   name: "David's Denouement"
   category: 'Colour Inked Etching'
@@ -35,7 +44,7 @@
   caption: "Axis Mundi's Thread"
   date: 2014-11-29
   url: axis-mundis-thread
-  
+
 - id: 'gift-for-life'
   name: "Gift for Life"
   category: 'Colour Inked Etching'
@@ -44,7 +53,7 @@
   caption: "Gift for Life"
   date: 1998-11-18
   url: gift-for-life
-  
+
 - id: 'ysbryd-y-nadolig'
   name: "Ysbryd y Nadolig"
   category: 'Colour Inked Etching'
@@ -53,7 +62,7 @@
   caption: "Ysbryd y Nadolig"
   date: 2014-10-29
   url: ysbryd-y-nadolig
-  
+
 - id: 'dere-ma'
   name: "Der 'ma i fi"
   category: 'Colour Inked Etching'
@@ -62,9 +71,9 @@
   caption: "Der 'ma i fi'"
   date: 2014-03-18
   url: dere-ma
-  
 
-  
+
+
 - id: 'capt-scarlet'
   name: 'Captain Scarlet (Indestructable)'
   category: 'Colour Inked Etching'
@@ -75,7 +84,7 @@
   caption: 'Captain Scarlet (Indestructable)'
   date: 2014-03-18
   url: capt-scarlet
-  
+
 - id: 'capt-black'
   name: 'Captain Black (Human Convert)'
   category: 'Colour Inked Etching'
@@ -96,7 +105,7 @@
   caption: 'The Love Machine'
   date: 2013-12-07 11:12:58
   url: the-love-machine
-  
+
 - id: 'square-go'
   name: square-go.jpg
   category: 'Colour Inked Etching'
@@ -104,7 +113,7 @@
   alt: ''
   caption: 'Square Go'
   date: '2013-03-22 20:40:48'
-  
+
 - id: '66'
   name: square-go.jpg
   category: 'Black & White Inked Etching'
@@ -132,7 +141,7 @@
   alt: ''
   caption: Astro Man
   date: '2012-10-27 19:59:08'
-  
+
 - id: 'looking-out-looking-in'
   name: 'looking-out-or-looking-in?'
   category: 'Colour Inked Etching'
@@ -140,7 +149,7 @@
   alt: 'Looking-out-or-looking-in?'
   caption: 'Looking-out-or-looking-in?'
   date: '2013-05-11 19:23:11'
-  
+
 - id: '68'
   name: 'looking-out-or-looking-in?'
   category: 'Black & White Inked Etching'
@@ -580,7 +589,7 @@
   alt: Thursday's Child
   caption: ''
   date: '2005-02-13 15:21:03'
-  
+
 - id: '61'
   name: dere-'ma-i-fi.jpg
   category: 'Colour Inked Etching'
@@ -697,7 +706,7 @@
   alt: ''
   caption: 'Come play with me'
   date: '1987-10-19 18:52:40'
-  
+
 - id: 'african-queen'
   name: african-queen
   category: 'Colour Inked Etching'
@@ -708,7 +717,7 @@
   caption: ''
   date: '2013-10-19 18:53:03'
   url:   african-queen
-  
+
 - id: 'bind1'
   name: "Bind"
   category: 'Silkscreen Monoprint'
@@ -717,7 +726,7 @@
   caption: "Bind"
   date: 1990-10-09
   url: bind1
-  
+
 - id: 'bind2'
   name: "Bind"
   category: 'Silkscreen Monoprint'
@@ -726,7 +735,7 @@
   caption: "Bind"
   date: 1990-10-09
   url: bind2
-  
+
 - id: 'boy-meets-girl'
   name: "Boy Meets Girl"
   category: 'Silkscreen Monoprint'
@@ -735,7 +744,7 @@
   caption: "Boy Meets Girl"
   date: 1995-10-09
   url: boy-meets-girl
-  
+
 - id: 'stop-paying-that-piper'
   name: "Stop Paying that Piper"
   category: 'Silkscreen Monoprint'
@@ -744,7 +753,7 @@
   caption: "Stop Paying that Piper"
   date: 1991-10-02
   url: stop-paying-that-piper
-  
+
 - id: 'stop-paying-that-piper2'
   name: "Stop Paying that Piper"
   category: 'Silkscreen Monoprint'
@@ -753,7 +762,7 @@
   caption: "Stop Paying that Piper"
   date: 1991-10-02
   url: stop-paying-that-piper2
-  
+
 - id: 'measure-of-success'
   name: "Measure of Success"
   category: 'Colour Inked Etching'
@@ -762,7 +771,7 @@
   caption: "Measure of Success"
   date: 1987-05-21
   url: measure-of-success
-  
+
 - id: 'can-you-really-pronounce-it'
   name: "Can you really pronounce it?"
   category: 'Colour Inked Etching'
@@ -770,8 +779,8 @@
   alt: 'Colour Inked Etching'
   caption: "Can you really pronounce it?"
   date: 1986-03-17
-  url: can-you-really-pronounce-it  
-  
+  url: can-you-really-pronounce-it
+
 - id: 'learn-learn'
   name: "Learn! Learn?"
   category: 'Silkscreen'
@@ -780,7 +789,7 @@
   caption: "Learn! Learn?"
   date: 1985-10-02
   url: learn-learn
-  
+
 - id: 'field-at-vallorcines'
   name: "Field at Vallorcines"
   category: 'Colour Inked Etching'
