@@ -7,9 +7,13 @@ layout: default
 <img src="/images/{{ page.image }}.jpg">
 
 <p>{{ page.medium }}</p>
+{% if page.width %}
 <p>{{ page.width }}cm x {{ page.height }}cm</p>
+{% endif %}
 <p>{{ page.year }}</p>
 
+<p>
+  {{ page.content }}
+</p>
+
 <h3>{{ page.categories }}</h3>
-
-

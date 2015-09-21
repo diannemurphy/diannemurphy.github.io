@@ -4,6 +4,17 @@ layout: gallery
 
 ---
 
+<ul class="thumbnails list-unstyled" >
+	{% for image in site.artwork %}
+		<li class="col-xs-4 col-md-3 box">
+			<a class="thumbnail" href="{{image.url}}">
+			<img src="/images/{{ image.image }}.jpg" alt="{{ image.alt }}">
+			</a>
+		</li>
+	{% endfor %}
+</ul>
+
+
 <ul class="thumbnails list-unstyled" data-toggle="lightbox">
 	{% for image in site.data.images %}
 		<li class="col-xs-4 col-md-3 box">
