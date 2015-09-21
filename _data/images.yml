@@ -1,5 +1,25 @@
 ---
 
+- id: 'momento-mori'
+  name: "Momento Mori"
+  category: 'Colour Inked Etching'
+  ext: .jpg
+  alt: 'Colour Inked Etching'
+  caption: "Momento Mori"
+  date: 2015-05-25
+  url: momento-mori
+  keywords:
+    - death
+    - daisy chain
+    - fugue
+    - scrabble
+    - meaning of Life
+    - life path
+    - childhood
+    - skull
+    - scythe
+    - last ones taken
+
 - id: 'mephisto'
   name: "Mephisto leibt es zu spielen"
   category: 'Colour Inked Etching'
@@ -84,6 +104,8 @@
   caption: 'Captain Scarlet (Indestructable)'
   date: 2014-03-18
   url: capt-scarlet
+  description: "Colour inked etching depicting Captain Scarlet and Captain Black from a children's TV programme. Captain Black's broken heart has made him a target for the dark side and he is their puppet.
+Captain Scarlet can show him the way but first he must play the ace of hearts."
 
 - id: 'capt-black'
   name: 'Captain Black (Human Convert)'
