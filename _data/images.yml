@@ -1,60 +1,6 @@
 ---
 
-- id: 'momento-mori'
-  name: "Momento Mori"
-  category: 'Colour Inked Etching'
-  ext: .jpg
-  alt: 'Colour Inked Etching'
-  caption: "Momento Mori"
-  date: 2015-05-25
-  url: momento-mori
-  keywords:
-    - death
-    - daisy chain
-    - fugue
-    - scrabble
-    - meaning of Life
-    - life path
-    - childhood
-    - skull
-    - scythe
-    - last ones taken
 
-- id: 'mephisto'
-  name: "Mephisto leibt es zu spielen"
-  category: 'Colour Inked Etching'
-  ext: .jpg
-  alt: 'Colour Inked Etching'
-  caption: "Mephisto leibt es zu spielen"
-  date: 2015-04-24
-  url: mephisto
-
-- id: 'davidsdenouement'
-  name: "David's Denouement"
-  category: 'Colour Inked Etching'
-  ext: .jpg
-  alt: 'Colour Inked Etching'
-  caption: "David's Denouement"
-  date: 2015-03-10
-  url: davidsdenouement
-
-- id: 'sair-fecht'
-  name: "Sair Fecht"
-  category: 'Colour Inked Etching'
-  ext: .jpg
-  alt: 'Colour Inked Etching'
-  caption: "sair-fecht"
-  date: 2015-02-28
-  url: sair-fecht
-
-- id: 'giftie-gie'
-  name: "Giftie Gie"
-  category: 'Colour Inked Etching'
-  ext: .jpg
-  alt: 'Colour Inked Etching'
-  caption: "Giftie Gie"
-  date: 2015-02-04
-  url: giftie-gie
 
 - id: 'axis-mundis-thread'
   name: "Axis Mundi's Thread"
@@ -64,15 +10,6 @@
   caption: "Axis Mundi's Thread"
   date: 2014-11-29
   url: axis-mundis-thread
-
-- id: 'gift-for-life'
-  name: "Gift for Life"
-  category: 'Colour Inked Etching'
-  ext: .jpg
-  alt: 'Colour Inked Etching'
-  caption: "Gift for Life"
-  date: 1998-11-18
-  url: gift-for-life
 
 - id: 'ysbryd-y-nadolig'
   name: "Ysbryd y Nadolig"
