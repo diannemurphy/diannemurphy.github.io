@@ -7,7 +7,7 @@ paginate: 5
 permalink:     none
 
 baseurl:
-url:      http://localhost:4000
+url:      http://www.diannemurphy.co.uk
 
 gems:
 - jekyll-redirect-from
