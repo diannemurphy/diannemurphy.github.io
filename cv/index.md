@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: gallery
 
 ---
 
@@ -74,7 +74,7 @@ Worked with Blackwood Miners Institute and choreographers to create 18FT painted
 - 1988 Knapp Gallery, Regent’s College Regent’s Circle,London
 - 1988 Traverse Theatre, Edinburgh, Scotland.
 - 1991 Windsor Arts Centre, Berkshire, England.
-- 1994 Turner House Museum and Art Gallery, Penarth. 
+- 1994 Turner House Museum and Art Gallery, Penarth.
 - 2000 Contemporary Printmakers selected exhibition, Blackfriars Arts Centre, Boston, Lincs.
 - 2010. ‘Bitten and Pressed’ contemporary printmakers selected exhibition. Aberystwyth Arts Centre.
 
@@ -137,7 +137,7 @@ Working with 2 schools (Fynnon Taf Primary and Nantgarw Infants) to produce a va
 
 ### Other Projects
 
-- February 1992 
+- February 1992
 Inset day instruct Cardiff teachers from Eglwys Newydd and Coryton Primary Schools – Silkscreen monoprinting.
 - March 1992
 Half inset day instruct teachers Treorchy Comprehensive, Rhondda.
@@ -202,7 +202,7 @@ May 1994 City & Guilds stage II word processing certificate gained
 - August 1995
 	- Bannermaking day at Graig Playscheme, Pontypridd.
 	- Llanharan Playscheme, card-making silkscreen monoprinting.
-	- Coliseum Theatre, Aberdare, helium balloon decoration and s/screen cards. 
+	- Coliseum Theatre, Aberdare, helium balloon decoration and s/screen cards.
 	- Graig Playscheme, Pontypridd. Cards and T-shirts.
 	- Thomastown Community Centre, “Get Arty” s/screen afternoon.
 	- Coliseum Theatre, Aberdare. Puppet-making and simple cartoons.
@@ -222,10 +222,10 @@ May 1994 City & Guilds stage II word processing certificate gained
 - March 1997 Card-making workshop, Muni Arts Centre, Pontypridd
 - May 1997 Banner making workshops.Muni Arts Centre, Pontypridd
 - Aug 1997
-	- Card & T-shirt workshops, Pontyclun Playscheme 
+	- Card & T-shirt workshops, Pontyclun Playscheme
 	- Card & Works screenprint workshop, Cardiff Bay “Art in the Bay”
 - Oct 1997
-	- Book-making workshop, Wyeside Arts Centre, Builth Wells. 
+	- Book-making workshop, Wyeside Arts Centre, Builth Wells.
 	- Silkscreen Monoprinting Workshop, Caerphilly Arts Society
 - Dec 1997 Silkscreen Monoprinting Christmas Cards Muni Arts Centre.
 - Feb 1998 Puppet-making workshop, Muni Arts Centre
@@ -308,12 +308,12 @@ May 1994 City & Guilds stage II word processing certificate gained
 	- Young Carers YMCA Mountain Ash, Silkscreen Mono T-Shirts.
 - April 2003
 	- Cynon Valley, Silkscreen Monoprinting Bags and pockets.
-	- Llantwit Fadre Youth , Silkscreen monoprinting T-shirts. 
-	- Cynon Valley, Silkscreen Monoprinting. 
+	- Llantwit Fadre Youth , Silkscreen monoprinting T-shirts.
+	- Cynon Valley, Silkscreen Monoprinting.
 	- Youth Awareness, Ystrad Sports centre, silkscreen monoprinting.
 - May 2003
 	- Cynon Valley Museum, Silkscreen monoprinting Aprons, bags & Pockets.
-	- Muni Arts Centre, Printmaking talk and printing session. 
+	- Muni Arts Centre, Printmaking talk and printing session.
 	- Children in Care, Hawthorn Leisure Centre, silkscreen monoprinting.
 	- Margam Park, Urdd, Silkscreen monoprinting.
 - July 2003 Valleys First.Arts Factory,T-shirt printing,Open Day
@@ -329,8 +329,8 @@ May 1994 City & Guilds stage II word processing certificate gained
 - Jan 2004 Tegfan Resource Centre, elderly dementia, Hanging bannners images used in design of report cover. Hanging banners exhibited.
 - Feb 2004
 	- Valleys First, Miskin, T-shirt printing, Christian Centre
-	- Llwynypia Communities First, Coleg Morganwg, Flags s/screen monoprint. 
-	- Michael Sobell centre, Aberdare, Windmills construct w/shop. 
+	- Llwynypia Communities First, Coleg Morganwg, Flags s/screen monoprint.
+	- Michael Sobell centre, Aberdare, Windmills construct w/shop.
 	- KICKS,Miskin Community Centre,T-shirt printing workshop
 	- Valleys First, 1/2 day Silkscreen monoprinting Cynon Valley, 1/2 day Silkscreen monoprinting
 	- Project/Placement working within Cynon Valley museum, Aberdare with Maesgwyn and - Parc Lane schools. created banners for schools entrances and each child made their prints - into cushion covers/cushion, wall pockets etc.
@@ -348,7 +348,7 @@ May 1994 City & Guilds stage II word processing certificate gained
 	- Cynon Valley summerzkool. 2 days in the Cynon Valley Museum. Variety of printing - and animal bangers/windmills.
 	- Cynon Valley Wales in America printmaking workshop.
 - September 04 Ty Hafan event in Cooperâ€™s field, Cardiff. Bangers, Windmills and Bookmarks
-- October 04 
+- October 04
 	- Cynon Valley Museum. Halloween trick or treat bag printing. Scary eyeballs.
 	- Ystrad Youth offending. T-shirt printing.
 - November 04
@@ -423,7 +423,7 @@ May 1994 City & Guilds stage II word processing certificate gained
 
 - January/February 2007 Playscheme workers ideas, Penrhiwceiber, Perthcelyn & Miskin
 - February 2007
-	- Perthcelyn, Penrhiwceiber and Miskin after school clubs create lanterns, 
+	- Perthcelyn, Penrhiwceiber and Miskin after school clubs create lanterns,
 - hats, jackets and flags for Chinese New Year.
 	- Cynon Valley Museum, Easter T-towels and boxes
 	- Coliseum, Junk Fashion
@@ -444,9 +444,9 @@ May 1994 City & Guilds stage II word processing certificate gained
 	- Sheltered Housing, Abercynon, painting & crafts, fortnightly (funded)
 - September 2007 Ferndale/Maerdy Festival, T-shirt printing.
 - October 2007	Cynon Valley Museum, Halloween scary accessories
-- November 2007 YMCA, Disabled cushion printing 
+- November 2007 YMCA, Disabled cushion printing
 - October 2007 Darran Las Communities First Bunting making, boxes & bookmarks
-- December 2007 Miskin Community centre, flag printing 
+- December 2007 Miskin Community centre, flag printing
 - February 2008
 	- Cynon Valley Museum, Valentine theme gifts
 	- Muni disabled arts week
@@ -462,8 +462,8 @@ May 1994 City & Guilds stage II word processing certificate gained
 	- Youth Offending, Mask painting session
 	- Merthyr Tydfil, Troed-y-Rhiw, excluded group, mural mapping and painting. Board - drawing and painting, cards and clocks.
 - April 2008	Darran las communities First hanging banner printing, Frame decorate etc
-- May 2008	Carnival workshops, Penrhiwceiber, Perthcelyn and Penguelan after 
-- school sessions. Create & decorate instruments, simple costumes, 
+- May 2008	Carnival workshops, Penrhiwceiber, Perthcelyn and Penguelan after
+- school sessions. Create & decorate instruments, simple costumes,
 - decorated lanterns and poles.
 - June 2008
 	- Ferndale Festival, pre-cut stencils t-shirt printing and fabric markers
@@ -481,7 +481,7 @@ May 1994 City & Guilds stage II word processing certificate gained
 - November 2008
 	-Trehopcyn Primary 5x after school sessions
 	- Miskin Commun. First Christmas Print banners
-- February 2009 
+- February 2009
 	- Cyfartha Castle Ladies appliqué bag workshop evening.
 - March 2009
 	- Fframwaith/Interlink University of Glam print.
