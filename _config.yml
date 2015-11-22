@@ -10,7 +10,7 @@ baseurl:
 url:      http://www.diannemurphy.co.uk
 
 gems:
-- jekyll-redirect-from
+# - jekyll-redirect-from
 - jekyll-sitemap
 
 
