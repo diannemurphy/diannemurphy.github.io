@@ -14,12 +14,12 @@ gems:
 - jekyll-sitemap
 
 
-#testing page generation
-page_gen:
-  - data: 'images'
-    template: 'artwork'
-    name: 'id'
-    dir: _test
+# #testing page generation
+# page_gen:
+#   - data: 'images'
+#     template: 'artwork'
+#     name: 'id'
+#     dir: _test
 
 collections:
   artwork:

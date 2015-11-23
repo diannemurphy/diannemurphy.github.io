@@ -1,0 +1,26 @@
+---
+
+title: "bind2"
+medium: 'Silkscreen Monoprint'
+ext: .jpg
+alt: 'Colour Inked Etching'
+caption: "Bind"
+date: 1990-10-09
+image: bind2
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+af-url: https://www.artfinder.com/product/bind2/
+
+sa-price:
+sa-url:
+
+edition: 100
+width: 
+height: 
+
+---

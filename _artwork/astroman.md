@@ -1,0 +1,26 @@
+---
+
+title: "astroman"
+medium: 'Colour Inked Etching'
+ext: .jpg
+alt: 'Colour Inked Etching'
+caption: "Astroman"
+date: 2012-10-27 19:59:08
+image: astroman
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+af-url: https://www.artfinder.com/product/astroman/
+
+sa-price:
+sa-url:
+
+edition: 100
+width: 578
+height: 803
+
+---
