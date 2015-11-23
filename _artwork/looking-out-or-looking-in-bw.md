@@ -2,7 +2,7 @@
 
 title: "looking-out-or-looking-in-bw"
 medium: 'Black & White Inked Etching'
-ext: .jpg
+ext: .png
 alt: 'Colour Inked Etching'
 caption: "Looking-out-or-looking-in?"
 date: 2013-05-11 19:23:11
