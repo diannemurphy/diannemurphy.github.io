@@ -44,15 +44,15 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: the-love-machine
 
 - id: 'square-go'
-  name: square-go.jpg
+  name: "Square Go"
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: ''
   caption: 'Square Go'
   date: '2013-03-22 20:40:48'
 
-- id: '66'
-  name: square-go.jpg
+- id: 'square-go-bw'
+  name: "Square Go (Black and White)"
   category: 'Black & White Inked Etching'
   ext: .jpg
   w: '326'
@@ -60,8 +60,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: ''
   caption: 'Square Go'
   date: '2013-03-22 20:40:48'
-- id: '63'
-  name: no-more-bananas.jpg
+- id: 'no-more-bananas'
+  name: "No mmore bananas"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '697'
@@ -69,14 +69,14 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: ''
   caption: No More Bananas
   date: '2012-10-26 18:01:43'
-- id: '64'
-  name: astro-man.jpg
+- id: 'astroman'
+  name: astroman
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '578'
   h: '803'
   alt: ''
-  caption: Astro Man
+  caption: Astroman
   date: '2012-10-27 19:59:08'
 
 - id: 'looking-out-looking-in'
@@ -96,8 +96,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: 'Looking-out-or-looking-in?'
   caption: 'Looking-out-or-looking-in?'
   date: '2013-05-11 19:23:11'
-- id: '2'
-  name: eatup.jpg
+- id: eat-up
+  name: "Eat Up"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '468'
@@ -157,8 +157,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: "Clap,Clap"
   caption: "Clap,clap"
   date: '1997-09-14 21:20:44'
-- id: '8'
-  name: overthere.jpg
+- id: 'over-there'
+  name: "Over There"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '600'
