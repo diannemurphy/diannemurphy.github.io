@@ -20,7 +20,7 @@ sa-price:
 sa-url:
 
 edition: 100
-width: 578
-height: 803
+width: 
+height:
 
 ---
