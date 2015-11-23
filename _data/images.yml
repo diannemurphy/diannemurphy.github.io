@@ -87,7 +87,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: 'Looking-out-or-looking-in?'
   date: '2013-05-11 19:23:11'
 
-- id: '68'
+- id: 'looking-out-or-looking-in-bw'
   name: 'looking-out-or-looking-in?'
   category: 'Black & White Inked Etching'
   ext: .png
@@ -112,8 +112,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Everyday I write the book
   caption: Everyday I write the book
   date: '1994-09-11 10:16:15'
-- id: '3'
-  name: adinfinitum.jpg
+- id: 'ad-infinitum'
+  name: "Ad Infinitum"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
@@ -121,7 +121,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Ad Infinitum
   caption: Colour Inked 'Colour Inked Etching'
   date: '2004-09-14 20:23:13'
-- id: '4'
+- id: 'baggage'
   name: Baggage
   category: 'Colour Inked Etching'
   ext: .jpg
@@ -130,8 +130,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Baggage
   caption: 'Colour Inked Etching'
   date: '1991-09-14 20:23:13'
-- id: '5'
-  name: boymeetsgirl.jpg
+- id: 'boy-meets-girl'
+  name: boymeetsgirl
   category: Silkscreen Monoprint
   ext: .jpg
   w: '450'
@@ -139,8 +139,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Boy meets girl
   caption: Silkscreen Monoprint
   date: '2004-09-14 21:05:01'
-- id: '6'
-  name: child.jpg
+- id: 'child'
+  name: child
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
