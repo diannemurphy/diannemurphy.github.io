@@ -20,7 +20,6 @@ gems:
 #     template: 'artwork'
 #     name: 'id'
 #     dir: posts
-#     extension: markdown
 
 collections:
   artwork:

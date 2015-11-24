@@ -12,7 +12,7 @@ module Jekyll
       @name = '2011-03-24-' + sanitize_filename(data[name]).to_s + "." + extension.to_s
 
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), template + ".txt")
+      self.read_yaml(File.join(base, '_layouts'), template + ".html")
       self.data.merge!(data)
       self.data['title'] = data[name]
     end

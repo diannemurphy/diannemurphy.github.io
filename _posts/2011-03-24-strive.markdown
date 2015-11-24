@@ -1,0 +1,28 @@
+---
+
+layout: post
+title: 'Strive'
+medium: 'Colour Inked Etching'
+ext: .jpg
+alt: 'Colour Inked Etching'
+caption: "Strive"
+created: 1994-01-27 14:40:10
+date: 2011-03-24
+image: strive
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+af-url: https://www.artfinder.com/product/strive/
+
+sa-price:
+sa-url:
+
+edition: 100
+width:
+height:
+
+---

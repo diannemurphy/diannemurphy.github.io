@@ -1,0 +1,28 @@
+---
+
+layout: post
+title: 'Child'
+medium: 'Colour Inked Etching'
+ext: .jpg
+alt: 'Colour Inked Etching'
+caption: "Child"
+created: 1997-09-14 21:15:45
+date: 2011-03-24
+image: child
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+af-url: https://www.artfinder.com/product/child/
+
+sa-price:
+sa-url:
+
+edition: 100
+width:
+height:
+
+---
