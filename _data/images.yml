@@ -1,7 +1,7 @@
 ---
 
 - id: 'dere-ma'
-  name: "Der 'ma i fi"
+  title: "Der 'ma i fi"
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: 'Colour Inked Etching'
@@ -10,7 +10,7 @@
   url: dere-ma
 
 - id: 'capt-scarlet'
-  name: 'Captain Scarlet (Indestructable)'
+  title: 'Captain Scarlet (Indestructable)'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '15'
@@ -23,7 +23,7 @@
 Captain Scarlet can show him the way but first he must play the ace of hearts."
 
 - id: 'capt-black'
-  name: 'Captain Black (Human Convert)'
+  title: 'Captain Black (Human Convert)'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: 16
@@ -33,7 +33,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   date: 2014-03-18
   url: capt-black
 - id: 'the-love-machine'
-  name: the-love-machine
+  title: the-love-machine
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '16'
@@ -44,7 +44,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: the-love-machine
 
 - id: 'square-go'
-  name: "Square Go"
+  title: "Square Go"
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: ''
@@ -52,7 +52,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   date: '2013-03-22 20:40:48'
 
 - id: 'square-go-bw'
-  name: "Square Go (Black and White)"
+  title: "Square Go (Black and White)"
   category: 'Black & White Inked Etching'
   ext: .jpg
   w: '326'
@@ -61,7 +61,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: 'Square Go'
   date: '2013-03-22 20:40:48'
 - id: 'no-more-bananas'
-  name: "No mmore bananas"
+  title: "No mmore bananas"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '697'
@@ -70,7 +70,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: No More Bananas
   date: '2012-10-26 18:01:43'
 - id: 'astroman'
-  name: astroman
+  title: astroman
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '578'
@@ -80,7 +80,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   date: '2012-10-27 19:59:08'
 
 - id: 'looking-out-looking-in'
-  name: 'looking-out-or-looking-in?'
+  title: 'looking-out-or-looking-in?'
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: 'Looking-out-or-looking-in?'
@@ -88,7 +88,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   date: '2013-05-11 19:23:11'
 
 - id: 'looking-out-or-looking-in-bw'
-  name: 'looking-out-or-looking-in?'
+  title: 'looking-out-or-looking-in?'
   category: 'Black & White Inked Etching'
   ext: .png
   w: '600'
@@ -97,7 +97,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: 'Looking-out-or-looking-in?'
   date: '2013-05-11 19:23:11'
 - id: eat-up
-  name: "Eat Up"
+  title: "Eat Up"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '468'
@@ -106,14 +106,14 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: Eat Up
   date: '1993-09-11 10:52:01'
 - id: 'everyday-i-write-the-book'
-  name: everyday-i-write-the-book.jpg
+  title: everyday-i-write-the-book.jpg
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: Everyday I write the book
   caption: Everyday I write the book
   date: '1994-09-11 10:16:15'
 - id: 'ad-infinitum'
-  name: "Ad Infinitum"
+  title: "Ad Infinitum"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
@@ -122,7 +122,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: Colour Inked 'Colour Inked Etching'
   date: '2004-09-14 20:23:13'
 - id: 'baggage'
-  name: Baggage
+  title: Baggage
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '144'
@@ -131,7 +131,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: 'Colour Inked Etching'
   date: '1991-09-14 20:23:13'
 - id: 'boy-meets-girl'
-  name: 'Boy meets Girl'
+  title: 'Boy meets Girl'
   category: Silkscreen Monoprint
   ext: .jpg
   w: '450'
@@ -140,7 +140,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: Silkscreen Monoprint
   date: '2004-09-14 21:05:01'
 - id: 'child'
-  name: child
+  title: child
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
@@ -149,7 +149,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: 'Child'
   date: '1997-09-14 21:15:45'
 - id: 'clap-clap'
-  name: 'Clap, Clap'
+  title: 'Clap, Clap'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
@@ -158,7 +158,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: "Clap,clap"
   date: '1997-09-14 21:20:44'
 - id: 'over-there'
-  name: "Over There"
+  title: "Over There"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '600'
@@ -167,7 +167,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: Over there
   date: '1994-09-16 22:02:40'
 - id: 'dance-and-be-merry'
-  name: 'Dance and be merry...'
+  title: 'Dance and be merry...'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
@@ -176,7 +176,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: 'Dance and be merry...'
   date: '1988-09-25 15:13:23'
 - id: 'dont-look'
-  name: "Don't look forward until you drop"
+  title: "Don't look forward until you drop"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
@@ -185,7 +185,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: "Don't look forward until you drop"
   date: '1991-09-25 15:20:28'
 - id: 'eenie-meenie-miney'
-  name: 'Eenie Meenie Miney'
+  title: 'Eenie Meenie Miney'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
@@ -194,7 +194,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: Eenie Meenie Miney
   date: '1991-09-25 15:23:43'
 - id: 'eesh'
-  name: eesh
+  title: eesh
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
@@ -203,7 +203,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: Eesh
   date: '1991-09-25 15:26:03'
 - id: 'face-values'
-  name: 'Face Values'
+  title: 'Face Values'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '700'
@@ -212,7 +212,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: Face values
   date: '1990-05-16 20:54:31'
 - id: 'fridays-child-is-loving-and-giving'
-  name: "Friday's child is loving and giving"
+  title: "Friday's child is loving and giving"
   category: Drypoint
   ext: .jpg
   w: '468'
@@ -221,7 +221,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: "Friday's child is loving and giving"
   date: '2004-09-25 15:35:24'
 - id: 'fun-and-games'
-  name: "Fun and Games"
+  title: "Fun and Games"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '453'
@@ -230,7 +230,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: "Fun and Games"
   date: '1986-09-25 15:37:40'
 - id: 'hold-me-baby'
-  name: "Hold me baby"
+  title: "Hold me baby"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
@@ -239,7 +239,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: "Hold me baby"
   date: '1991-09-25 15:41:10'
 - id: 'lifecycles'
-  name: "Life Cycles"
+  title: "Life Cycles"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
@@ -248,7 +248,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: "Life Cycles"
   date: '1994-09-25 15:43:21'
 - id: 'star'
-  name: "Star"
+  title: "Star"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '150'
@@ -257,7 +257,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: Star
   date: '2005-04-17 10:31:52'
 - id: 'mondays-child'
-  name: "Monday's Child"
+  title: "Monday's Child"
   category: Drypoint
   ext: .jpg
   w: '477'
@@ -265,7 +265,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: "Monday's Child"
   date: '2004-09-25 15:49:00'
 - id: 'pencil-case'
-  name: pencilcase
+  title: pencilcase
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '478'
@@ -273,7 +273,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: "Pencil Case"
   date: '2004-09-25 15:51:01'
 - id: 'push-me-pull-you'
-  name: "Push Me Pull You"
+  title: "Push Me Pull You"
   category: Silkscreen Monoprint
   ext: .jpg
   w: '544'
@@ -281,7 +281,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: "Push Me Pull You"
   date: '2004-09-25 15:56:28'
 - id: 'the-child-born-on-the-sabbath'
-  name: "The Child born on the sabbath"
+  title: "The Child born on the sabbath"
   category: Drypoint
   ext: .jpg
   w: '304'
@@ -289,7 +289,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: "The Child born on the sabbath"
   date: '2004-09-25 15:58:02'
 - id: 'push-kick-shove'
-  name: "Push Kick and Shove"
+  title: "Push Kick and Shove"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
@@ -298,7 +298,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: 'Push, Kick and Shove'
   date: '2003-09-25 16:00:14'
 - id: 'spend-spend-spent'
-  name: "Spend, Spend, Spent"
+  title: "Spend, Spend, Spent"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '548'
@@ -307,7 +307,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: 'Spend,Spend,Spent'
   date: '1991-09-25 16:02:53'
 - id: 'this-that-and-the-other'
-  name: "This, that and the other"
+  title: "This, that and the other"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '410'
@@ -316,7 +316,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: 'This, that and the other'
   date: '1991-09-25 16:04:27'
 - id: 'too-late-now'
-  name: "Too late now"
+  title: "Too late now"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '458'
@@ -328,7 +328,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '423'
   h: '620'
-  name: "Tuesday's Child"
+  title: "Tuesday's Child"
   caption: "Tuesday's Child"
   date: '2004-09-25 16:07:49'
 - id: 'wednesdays-child'
@@ -336,7 +336,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '423'
   h: '622'
-  name: "Wednesday's Child"
+  title: "Wednesday's Child"
   caption: "Wednesday's Child"
   date: '2004-09-25 16:11:28'
 - id: 'for-i-dont-have-a-wooden-heart'
@@ -344,7 +344,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '211'
   h: '546'
-  name: "For I don't have a wooden Heart"
+  title: "For I don't have a wooden Heart"
   caption: "For I don't have a wooden Heart"
   date: '1991-09-25 16:13:57'
 - id: 'olympia'
@@ -352,11 +352,11 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '600'
   h: '447'
-  name: "Olympia"
+  title: "Olympia"
   caption: 'Olympia'
   date: '2005-01-21 22:55:43'
 - id: 'cant'
-  name: cant.jpg
+  title: cant.jpg
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '169'
@@ -369,7 +369,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '600'
   h: '818'
-  name: 'Clownio'
+  title: 'Clownio'
   caption: 'Clownio'
   date: '1986-05-16 20:45:16'
 - id: 'daddy-dear'
@@ -377,7 +377,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '400'
   h: '497'
-  name: 'Daddy Dear'
+  title: 'Daddy Dear'
   caption: ''
   date: '2005-01-27 14:14:53'
 - id: 'desire'
@@ -386,7 +386,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '200'
   h: '437'
-  name: 'Desire'
+  title: 'Desire'
   caption: 'Desire'
   date: '1994-01-27 14:19:19'
 - id: 'get-knotted'
@@ -394,7 +394,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '200'
   h: '624'
-  name: "Get knotted"
+  title: "Get knotted"
   caption: ''
   date: '1991-01-27 14:21:13'
 - id: 'just-stay-young-and-beautiful'
@@ -402,7 +402,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '400'
   h: '528'
-  name: 'Just stay young and beautiful'
+  title: 'Just stay young and beautiful'
   caption: ''
   date: '2005-01-27 14:23:37'
 - id: 'maid-or-honour'
@@ -418,7 +418,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '400'
   h: '535'
-  name: "Make or break"
+  title: "Make or break"
   caption: ''
   date: '2005-01-27 14:28:35'
 - id: 'pare'
@@ -426,7 +426,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '400'
   h: '569'
-  name: "Pare"
+  title: "Pare"
   caption: 'Pare'
   date: '1992-01-27 14:30:31'
 - id: 'past-cut-outs'
@@ -434,7 +434,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '500'
   h: '323'
-  name: "Past cut-outs"
+  title: "Past cut-outs"
   caption: 'Past Cut Outs'
   date: '1986-01-27 14:32:35'
 - id: 'problem-sums'
@@ -442,7 +442,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '700'
   h: '490'
-  name: "Problem Sums"
+  title: "Problem Sums"
   caption: ''
   date: '1986-05-16 20:43:29'
 - id: 'skewered-memories'
@@ -450,7 +450,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '500'
   h: '333'
-  name: "Skewered Memories"
+  title: "Skewered Memories"
   caption: ''
   date: '1986-01-27 14:37:58'
 - id: 'strive'
@@ -458,7 +458,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '200'
   h: '223'
-  name: "Strive"
+  title: "Strive"
   caption: 'Strive'
   date: '1994-01-27 14:40:10'
 - id: 'sweet-rewards'
@@ -466,7 +466,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '770'
   h: '428'
-  name: "Sweet Rewards"
+  title: "Sweet Rewards"
   caption: 'Sweet Rewards'
   date: '1986-09-23 19:08:58'
 - id: 'the-sun-the-moon-and-the-stars'
@@ -474,7 +474,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '500'
   h: '805'
-  name: "The sun the moon and the stars"
+  title: "The sun the moon and the stars"
   caption: 'The sun the moon and the stars'
   date: '1997-01-27 14:44:31'
 - id: 'the-thirteenth-day'
@@ -482,7 +482,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '400'
   h: '578'
-  name: "The thirteenth day"
+  title: "The thirteenth day"
   caption: 'The Thirteenth Day'
   date: '1989-01-27 14:47:52'
 - id: 'lovely-grub'
@@ -498,7 +498,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '600'
   h: '415'
-  name: "Thursday's Child"
+  title: "Thursday's Child"
   caption: ''
   date: '2005-02-13 15:21:03'
 
@@ -507,7 +507,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   ext: .jpg
   w: '500'
   h: '911'
-  name: "'Dere 'ma i fi'"
+  title: "'Dere 'ma i fi'"
   date: '2007-05-16 20:50:36'
 - id: 'the-magician'
   category: 'Colour Inked Etching'
@@ -515,7 +515,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   w: '500'
   h: '698'
   alt: ''
-  name: The Magician
+  title: The Magician
   date: '2013-04-10 19:46:33'
 - id: 'camberwick-blue'
   category: 'Colour Inked Etching'
@@ -523,7 +523,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   w: '1200'
   h: '856'
   alt: ''
-  name: 'Camberwick Blue'
+  title: 'Camberwick Blue'
   date: '1989-03-29 16:50:24'
 - id: 'colour-me-blue'
   category: 'Colour Inked Etching'
@@ -531,7 +531,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   w: '600'
   h: '828'
   alt: 'Colour Inked Etching'
-  name: 'Colour me blue'
+  title: 'Colour me blue'
   date: '2013-05-12 12:06:25'
 - id: 'black-and-white-scraps'
   category: 'Colour Inked Etching'
@@ -539,7 +539,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   w: '700'
   h: '977'
   alt: ''
-  name: 'Black & White Scraps'
+  title: 'Black & White Scraps'
   date: '1986-05-12 12:11:20'
 - id: 'wee-lassie'
   category: 'Colour Inked Etching'
@@ -547,25 +547,25 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   w: '500'
   h: '830'
   alt: ''
-  name: 'Wee Lassie'
+  title: 'Wee Lassie'
   date: '2013-05-12 12:17:30'
 - id: 'edinburgh-rock'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '800'
   h: '635'
-  name: Edinburgh Rock
+  title: Edinburgh Rock
   date: '1988-05-15 20:40:43'
 - id: 'three-hail-marys'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '600'
   h: '953'
-  name: 'Three Hail Marys'
+  title: 'Three Hail Marys'
   caption: ''
   date: '2013-05-15 20:44:23'
 - id: 'for-i-dont-have-a-wooden-heart-bw'
-  name: "For I don't have a wooden heart"
+  title: "For I don't have a wooden heart"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '400'
@@ -574,7 +574,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: ''
   date: '2013-05-15 20:54:28'
 - id: 'olympia-bw'
-  name: "Olympia black and white"
+  title: "Olympia black and white"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '800'
@@ -587,7 +587,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   w: '400'
   h: '758'
   alt: ''
-  name: 'Twist'
+  title: 'Twist'
   date: '1993-09-23 19:02:34'
 - id: 'blessed-with-child'
   category: 'Colour Inked Etching'
@@ -595,10 +595,10 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   w: '500'
   h: '671'
   alt: ''
-  name: 'Blessed with Child'
+  title: 'Blessed with Child'
   date: '1996-10-19 18:52:21'
 - id: 'come-play-with-me-bw'
-  name: come-play-with-me(bw)
+  title: come-play-with-me(bw)
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
@@ -607,7 +607,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: 'Come play with me'
   date: '1987-10-19 18:52:40'
 - id: 'african-queen'
-  name: african-queen
+  title: african-queen
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
@@ -617,7 +617,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   date: '1986-10-19'
   url:   african-queen
 - id: 'bind1'
-  name: "Bind"
+  title: "Bind"
   category: 'Silkscreen Monoprint'
   ext: .jpg
   alt: 'Silkscreen Monoprint'
@@ -626,7 +626,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: bind1
 
 - id: 'bind2'
-  name: "Bind"
+  title: "Bind"
   category: 'Silkscreen Monoprint'
   ext: .jpg
   alt: 'Silkscreen Monoprint'
@@ -635,7 +635,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: bind2
 
 - id: 'boy-meets-girl'
-  name: "Boy Meets Girl"
+  title: "Boy Meets Girl"
   category: 'Silkscreen Monoprint'
   ext: .jpg
   alt: 'Silkscreen Monoprint'
@@ -644,7 +644,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: boy-meets-girl
 
 - id: 'stop-paying-that-piper'
-  name: "Stop Paying that Piper"
+  title: "Stop Paying that Piper"
   category: 'Silkscreen Monoprint'
   ext: .jpg
   alt: 'Silkscreen Monoprint'
@@ -653,7 +653,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: stop-paying-that-piper
 
 - id: 'stop-paying-that-piper2'
-  name: "Stop Paying that Piper"
+  title: "Stop Paying that Piper"
   category: 'Silkscreen Monoprint'
   ext: .jpg
   alt: 'Silkscreen Monoprint'
@@ -662,7 +662,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: stop-paying-that-piper2
 
 - id: 'measure-of-success'
-  name: "Measure of Success"
+  title: "Measure of Success"
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: 'Colour Inked Etching'
@@ -671,7 +671,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: measure-of-success
 
 - id: 'can-you-really-pronounce-it'
-  name: "Can you really pronounce it?"
+  title: "Can you really pronounce it?"
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: 'Colour Inked Etching'
@@ -680,7 +680,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: can-you-really-pronounce-it
 
 - id: 'learn-learn'
-  name: "Learn! Learn?"
+  title: "Learn! Learn?"
   category: 'Silkscreen'
   ext: .jpg
   alt: 'Silkscreen'
@@ -689,7 +689,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: learn-learn
 
 - id: 'field-at-vallorcines'
-  name: "Field at Vallorcines"
+  title: "Field at Vallorcines"
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: 'Colour Inked Etching'

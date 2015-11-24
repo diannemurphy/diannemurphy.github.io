@@ -9,10 +9,10 @@ module Jekyll
       @site = site
       @base = base
       @dir = dir
-      @name = sanitize_filename(data[name]).to_s + "." + extension.to_s
+      @name = '2011-03-24-' + sanitize_filename(data[name]).to_s + "." + extension.to_s
 
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), template + ".html")
+      self.read_yaml(File.join(base, '_layouts'), template + ".txt")
       self.data.merge!(data)
       self.data['title'] = data[name]
     end
@@ -61,7 +61,7 @@ module Jekyll
     # use it like this: {{input | datapage_url: dir}}
     # output: dir / input .html
     def datapage_url(input, dir)
-      dir + "/" + sanitize_filename(input) + ".html"
+      dir + "/" + sanitize_filename(input)
     end
 
     private

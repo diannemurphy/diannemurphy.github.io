@@ -1,6 +1,9 @@
-"---"
+---
+layout: null
 
-title: "{{ page.name }}"
+---
+layout: post
+title: '{{ page.caption }}'
 medium: '{{ page.category }}'
 ext: .jpg
 alt: 'Colour Inked Etching'
@@ -22,5 +25,3 @@ sa-url:
 edition: 100
 width: {{ page.w }}
 height: {{ page.h }}
-
-"---"

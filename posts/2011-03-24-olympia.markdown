@@ -1,0 +1,28 @@
+---
+layout: post
+title: ‘Olympia’
+medium: ‘Colour Inked Etching’
+ext: .jpg
+alt: ‘Colour Inked Etching’
+caption: “Olympia”
+date: 2005-01-21 22:55:43
+image: olympia
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+af-url: https://www.artfinder.com/product/olympia/
+---
+
+
+sa-price:
+sa-url:
+
+edition: 100
+width: 600
+height: 447
+---
+

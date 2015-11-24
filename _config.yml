@@ -19,7 +19,8 @@ gems:
 #   - data: 'images'
 #     template: 'artwork'
 #     name: 'id'
-#     dir: _test
+#     dir: posts
+#     extension: markdown
 
 collections:
   artwork:
