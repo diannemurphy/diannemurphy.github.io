@@ -161,7 +161,6 @@ Youth Cafe, Tredegar. Create 3×9ft banners for bandstand to be displayed during
 ### Television
 
 May 1994 Featured on The Slate, BBC 2 Wales. Arts magazine programme investigation of my art form technique and chosen topic.
-Degree
 
 ### Degree
 
