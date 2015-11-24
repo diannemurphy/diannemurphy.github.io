@@ -67,6 +67,7 @@ Worked with Blackwood Miners Institute and choreographers to create 18FT painted
 - 2000 A Healthier Tomorrow (charity fund exhibition), St. Davd’s Hall, Cardiff.
 - 2013 Splash, Bang, Wallop, Cupola Contemporary Art, Sheffield
 - 2014 Guilty Pleasures, Sweetart, Juno, Shoreditch, London
+- 2015 Saturnalia, Sweetart, Juno, Shoreditch, London
 
 ### Group Exhibitions
 
@@ -76,7 +77,7 @@ Worked with Blackwood Miners Institute and choreographers to create 18FT painted
 - 1991 Windsor Arts Centre, Berkshire, England.
 - 1994 Turner House Museum and Art Gallery, Penarth.
 - 2000 Contemporary Printmakers selected exhibition, Blackfriars Arts Centre, Boston, Lincs.
-- 2010. ‘Bitten and Pressed’ contemporary printmakers selected exhibition. Aberystwyth Arts Centre.
+- 2010 ‘Bitten and Pressed’ contemporary printmakers selected exhibition. Aberystwyth Arts Centre.
 
 
 ### One Woman Exhibitions
