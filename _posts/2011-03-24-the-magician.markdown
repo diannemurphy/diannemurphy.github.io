@@ -24,5 +24,6 @@ sa-url:
 edition: 100
 width:
 height:
+category: gallery
 
 ---

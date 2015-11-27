@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<h2>{{ page.title }}</h2>
+
+<img src="/images/{{ page.image }}.jpg">
+{{ page.caption }}
+
+
+<a href="https://www.artfinder.com/product/{{ page.af-url }}">Artfinder</a>
+<dl>
+  <dt>Edition</dt>
+  <dd>{{ page.edition}}</dd>
+  <dt>Tags</dt>
+  <dd>{{ page.tags }}</dd>
+</dl>
+
+<p>{{ page.medium }}</p>
+{% if page.width %}
+<p>{{ page.width }}cm x {{ page.height }}cm</p>
+{% endif %}
+<p>{{ page.date }}</p>
+
+<p>
+  {{ page.content }}
+  {{ page.desc }}
+</p>
+
+<h3>{{ page.categories }}</h3>

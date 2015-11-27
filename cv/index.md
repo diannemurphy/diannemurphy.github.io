@@ -1,6 +1,6 @@
 ---
 
-layout: gallery
+layout: default
 
 ---
 
