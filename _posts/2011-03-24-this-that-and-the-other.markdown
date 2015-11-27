@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "This, that and the other"
-created: 1991-09-25 16:04:27
-date: 2011-03-24
+created: '25 September 1991'
+
 image: this-that-and-the-other
 tags:
   - childhood

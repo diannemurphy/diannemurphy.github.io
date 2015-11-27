@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: 'Colour me blue'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 2013-05-12 12:06:25
-date: 2011-03-24
+created: '12 May 2013'
+
 image: colour-me-blue
 tags:
   - childhood

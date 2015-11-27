@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "No More Bananas"
-created: 2012-10-26 18:01:43
-date: 2011-03-24
+created: '26 October 2012'
+
 image: no-more-bananas
 tags:
   - childhood

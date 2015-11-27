@@ -6,8 +6,8 @@ medium: 'Drypoint'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "The Child born on the sabbath"
-created: 2004-09-25 15:58:02
-date: 2011-03-24
+created: '25 September 2004'
+
 image: the-child-born-on-the-sabbath
 tags:
   - childhood

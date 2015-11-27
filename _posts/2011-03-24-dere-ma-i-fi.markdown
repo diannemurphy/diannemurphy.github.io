@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: "Dere ma' i fi"
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 2007-05-16 20:50:36
-date: 2011-03-24
+created: '16 May 2007'
+
 image: dere-ma-i-fi
 tags:
   - childhood

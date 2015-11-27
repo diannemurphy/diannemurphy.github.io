@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: 'Black and White Scraps'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 1986-05-12 12:11:20
-date: 2011-03-24
+created: '12 May 1986'
+
 image: black-and-white-scraps
 tags:
   - childhood

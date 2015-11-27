@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Astroman"
-created: 2012-10-27 19:59:08
-date: 2011-03-24
+created: '27 October 2012'
+
 image: astroman
 tags:
   - childhood

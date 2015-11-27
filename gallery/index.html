@@ -2,16 +2,24 @@
 layout: default
 title: Gallery
 ---
+<!-- <div class="posts">
+  {% for image in site.posts | sort:created %}
+	<a class="thumbnail" href="{{image.url}}">
+	<img src="/images/{{ image.image }}.jpg" alt="{{ image.alt }}">
+	</a>
+  {% endfor %}
+</div> -->
 
-<div class="posts">
-
-
+{% assign sortedPosts = site.posts' %}
+  {% for image in sortedPosts %}
+	<a class="thumbnail" href="{{image.url}}">
+	<img src="/images/{{ image.image }}.jpg" alt="{{ image.alt }}">
+	</a>
+  {% endfor %}
+<!-- <div class="posts">
 			{% for image in site.posts %}
 			<a class="thumbnail" href="{{image.url}}">
 			<img src="/images/{{ image.image }}.jpg" alt="{{ image.alt }}">
 			</a>
 	{% endfor %}
-
-
-
-</div>
+</div> -->

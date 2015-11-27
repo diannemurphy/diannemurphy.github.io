@@ -6,8 +6,8 @@ medium: 'Silkscreen Monoprint'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Stop Paying that Piper"
-created: 1991-10-02
-date: 2011-03-24
+created: '2 October 1991'
+
 image: stop-paying-that-piper
 tags:
   - childhood

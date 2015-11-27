@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Push, Kick and Shove"
-created: 2003-09-25 16:00:14
-date: 2011-03-24
+created: '25 September 2003'
+
 image: push-kick-shove
 tags:
   - childhood

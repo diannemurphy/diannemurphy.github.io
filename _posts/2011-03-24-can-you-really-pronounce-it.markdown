@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Can you really pronounce it?"
-created: 1986-03-17
-date: 2011-03-24
+created: '17 March 1986'
+
 image: can-you-really-pronounce-it
 tags:
   - childhood

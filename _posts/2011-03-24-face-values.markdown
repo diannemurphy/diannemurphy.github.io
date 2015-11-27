@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Face values"
-created: 1990-05-16 20:54:31
-date: 2011-03-24
+created: '16 May 1990'
+
 image: face-values
 tags:
   - childhood

@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Over there"
-created: 1994-09-16 22:02:40
-date: 2011-03-24
+created: '16 September 1994'
+
 image: over-there
 tags:
   - childhood

@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: 'African Queen'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 1986-10-19
-date: 2011-03-24
+created: '10 October 1986'
+
 image: african-queen
 tags:
   - childhood

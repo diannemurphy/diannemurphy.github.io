@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: 'Lovely Grub'
 medium: 'Silkscreen Monoprint'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 2005-02-13 15:04:03
-date: 2011-03-24
+created: '13 February 2005'
+
 image: lovely-grub
 tags:
   - childhood

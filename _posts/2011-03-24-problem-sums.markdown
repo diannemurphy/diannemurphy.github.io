@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: 'Problem Sums'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 1986-05-16 20:43:29
-date: 2011-03-24
+created: '16 May 1986'
+
 image: problem-sums
 tags:
   - childhood

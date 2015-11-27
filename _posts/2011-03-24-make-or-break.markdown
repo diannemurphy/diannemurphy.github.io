@@ -1,13 +1,12 @@
 ---
 
 layout: post
-title: ''
+title: 'Make or break'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 2005-01-27 14:28:35
-date: 2011-03-24
+created: '27 January 2005'
 image: make-or-break
 tags:
   - childhood

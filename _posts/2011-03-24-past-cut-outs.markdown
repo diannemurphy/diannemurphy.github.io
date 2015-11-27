@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Past Cut Outs"
-created: 1986-01-27 14:32:35
-date: 2011-03-24
+created: '27 January 1986'
+
 image: past-cut-outs
 tags:
   - childhood

@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Too late now"
-created: 1991-09-25 16:05:37
-date: 2011-03-24
+created: '25 September 1991'
+
 image: too-late-now
 tags:
   - childhood

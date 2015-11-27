@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: 'Camberwick Blue'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 1989-03-29 16:50:24
-date: 2011-03-24
+created: '29 March 1989'
+
 image: camberwick-blue
 tags:
   - childhood

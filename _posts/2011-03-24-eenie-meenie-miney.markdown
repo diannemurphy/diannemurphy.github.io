@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Eenie Meenie Miney"
-created: 1991-09-25 15:23:43
-date: 2011-03-24
+created: '25 September 1991'
+
 image: eenie-meenie-miney
 tags:
   - childhood

@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Sweet Rewards"
-created: 1986-09-23 19:08:58
-date: 2011-03-24
+created: '23 September 1986'
+
 image: sweet-rewards
 tags:
   - childhood

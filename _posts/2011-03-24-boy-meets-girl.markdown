@@ -6,8 +6,8 @@ medium: 'Silkscreen Monoprint'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Boy Meets Girl"
-created: 1995-10-09
-date: 2011-03-24
+created: '10 September 1995'
+
 image: boy-meets-girl
 tags:
   - childhood

@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Everyday I write the book"
-created: 1994-09-11 10:16:15
-date: 2011-03-24
+created: '11 September 1994'
+
 image: everyday-i-write-the-book
 tags:
   - childhood

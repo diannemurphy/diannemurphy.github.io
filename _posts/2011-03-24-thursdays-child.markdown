@@ -1,13 +1,12 @@
 ---
 
 layout: post
-title: ''
+title: "Thursday's Child"
 medium: 'Drypoint'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 2005-02-13 15:21:03
-date: 2011-03-24
+created: 13 February 2005
 image: thursdays-child
 tags:
   - childhood

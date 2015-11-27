@@ -6,8 +6,8 @@ medium: 'Silkscreen'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Learn! Learn?"
-created: 1985-10-02
-date: 2011-03-24
+created: '2 October 1985'
+
 image: learn-learn
 tags:
   - childhood

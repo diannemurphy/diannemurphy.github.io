@@ -1,13 +1,12 @@
 ---
 
 layout: post
-title: ''
+title: 'Daddy dear'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 2005-01-27 14:14:53
-date: 2011-03-24
+created: '27 January 2005'
 image: daddy-dear
 tags:
   - childhood

@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: 'Blessed with Child'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 1996-10-19 18:52:21
-date: 2011-03-24
+created: '19 October 1996'
+
 image: blessed-with-child
 tags:
   - childhood

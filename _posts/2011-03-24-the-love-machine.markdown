@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "The Love Machine"
-created: 2013-12-07 11:12:58 +0000
-date: 2011-03-24
+created: '7 December 2013'
+
 image: the-love-machine
 tags:
   - childhood

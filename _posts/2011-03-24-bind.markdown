@@ -6,9 +6,9 @@ medium: 'Silkscreen Monoprint'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Bind"
-created: 1990-10-09
-date: 2011-03-24
-image: bind2
+created: '10 September 1990'
+
+image: bind
 tags:
   - childhood
 
@@ -16,7 +16,7 @@ af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
-af-url: https://www.artfinder.com/product/bind2/
+af-url: https://www.artfinder.com/product/bind1/
 
 sa-price:
 sa-url:

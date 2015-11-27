@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: 'Get knotted'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 1991-01-27 14:21:13
-date: 2011-03-24
+created: '27 January 1991'
+
 image: get-knotted
 tags:
   - childhood

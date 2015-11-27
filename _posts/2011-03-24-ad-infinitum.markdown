@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Colour Inked Etching"
-created: 2004-09-14 20:23:13
-date: 2011-03-24
+created: '14 September 2004'
+
 image: ad-infinitum
 tags:
   - childhood

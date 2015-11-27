@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Child"
-created: 1997-09-14 21:15:45
-date: 2011-03-24
+created: '14 September 1997'
+
 image: child
 tags:
   - childhood

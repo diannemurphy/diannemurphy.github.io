@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "The Thirteenth Day"
-created: 1989-01-27 14:47:52
-date: 2011-03-24
+created: 27 January 1989
+
 image: the-thirteenth-day
 tags:
   - childhood

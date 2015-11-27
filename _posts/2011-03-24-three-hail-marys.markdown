@@ -1,13 +1,12 @@
 ---
 
 layout: post
-title: ''
+title: 'Three Hail Marys'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 2013-05-15 20:44:23
-date: 2011-03-24
+created: '15 May 2005'
 image: three-hail-marys
 tags:
   - childhood

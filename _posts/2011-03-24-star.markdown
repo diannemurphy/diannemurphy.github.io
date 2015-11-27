@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Star"
-created: 2005-04-17 10:31:52
-date: 2011-03-24
+created: '17 April 2005'
+
 image: star
 tags:
   - childhood

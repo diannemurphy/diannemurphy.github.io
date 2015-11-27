@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Field at Vallorcines"
-created: 1996-10-02
-date: 2011-03-24
+created: '2 October 1996'
+
 image: field-at-vallorcines
 tags:
   - childhood

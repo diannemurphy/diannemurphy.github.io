@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Come play with me"
-created: 1987-10-19 18:52:40
-date: 2011-03-24
+created: '19 October 1987'
+
 image: come-play-with-me-bw
 tags:
   - childhood

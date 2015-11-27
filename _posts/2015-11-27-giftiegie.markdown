@@ -1,29 +1,27 @@
 ---
-
 layout: post
-title: 'Olympia'
+title: "giftie-gie"
+date: "2015-11-27"
+title: "Giftie Gie"
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
-caption: "Olympia"
-created: '21 January 2005'
-
-image: olympia
+caption:
+created: 2015-02-04
+image: giftie-gie
 tags:
   - childhood
 
-af-price:
-af-subject: abstract and conceptual
-af-style: illustrative
-af-price:
-af-url:
 
+af-subject: "People & portraits"
+af-style: illustrative
+af-price: 115
+
+sa-tags:
 sa-price:
-sa-url:
+
 
 edition: 100
 width:
 height:
-category: gallery
-
 ---

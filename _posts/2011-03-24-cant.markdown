@@ -6,8 +6,7 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Can't"
-created: 1988-01-27 13:57:39
-date: 2011-03-24
+created: '27 January 1988'
 image: cant
 tags:
   - childhood

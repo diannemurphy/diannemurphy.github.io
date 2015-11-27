@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Pencil Case"
-created: 2004-09-25 15:51:01
-date: 2011-03-24
+created: '25 September 2004'
+
 image: pencil-case
 tags:
   - childhood

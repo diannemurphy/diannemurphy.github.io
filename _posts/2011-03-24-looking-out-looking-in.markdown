@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Looking-out-or-looking-in?"
-created: 2013-05-11 19:23:11
-date: 2011-03-24
+created: '11 May 2013'
+
 image: looking-out-looking-in
 tags:
   - childhood

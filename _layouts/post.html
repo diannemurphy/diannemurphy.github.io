@@ -9,22 +9,25 @@ layout: default
     {{ page.content }}
   </p>
 
-  <dl>
-    <dt>Medium</dt>
-    <dd>{{ page.medium}}</dd>
-    <dt>Edition</dt>
-    <dd>{{ page.edition}}</dd>
-    <dt>Tags</dt>
-    <dd>{{ page.tags }}</dd>
-    <dt>Date created</dt>
-    <dd>{{ page.created }}</dd>
-  </dl>
+  <ul>
+    <li>{{ page.medium}}</li>
+    <li>Edition of {{ page.edition}}</li>
+    <li>Created {{ page.created }}</li>
+    {% if page.width %}
+    <li>{{ page.width }}cm x {{ page.height }}cm</li>
+    {% endif %}
+    <li>Page updated {{ page.date | date_to_long_string }}</li>
+  </ul>
 
-  {% if page.width %}
-  <p>{{ page.width }}cm x {{ page.height }}cm</p>
-  {% endif %}
 
-  <span class="post-date">page updated {{ page.date | date_to_string }}</span>
+  <div class="external">
+    {% if page.af-url %}
+      <a href="https://www.artfinder.com/product/{{ page.af-url }}/">Artfinder</a>
+    {% endif %}
+    {% if page.sa-url %}
+      <a href="{{ page.sa-url }}/">Saatchi Art</a>
+    {% endif %}
+  </div>
 
 
   <h3><a href="/{{ page.category }}"{{ page.categories }}</a></h3>

@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Captain Black (Human Convert)"
-created: 2014-03-18
-date: 2011-03-24
+created: '18 March 2014'
+
 image: capt-black
 tags:
   - childhood

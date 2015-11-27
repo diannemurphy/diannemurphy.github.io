@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: 'Just stay young and beautiful'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 2005-01-27 14:23:37
-date: 2011-03-24
+created: '27 January 2005'
+
 image: just-stay-young-and-beautiful
 tags:
   - childhood

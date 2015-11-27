@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: "For I don't have a wooden Heart (B&W)"
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 2013-05-15 20:54:28
-date: 2011-03-24
+created: '15 May 2013'
+
 image: for-i-dont-have-a-wooden-heart-bw
 tags:
   - childhood

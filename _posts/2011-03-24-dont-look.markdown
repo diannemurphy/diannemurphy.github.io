@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Don't look forward until you drop"
-created: 1991-09-25 15:20:28
-date: 2011-03-24
+created: '25 September 1991'
+
 image: dont-look
 tags:
   - childhood

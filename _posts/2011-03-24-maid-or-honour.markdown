@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: 'Maid or Honour'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 2005-01-27 14:26:12
-date: 2011-03-24
+created: '27 January 2005'
+
 image: maid-or-honour
 tags:
   - childhood

@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Eat Up"
-created: 1993-09-11 10:52:01
-date: 2011-03-24
+created: '11 September 1993'
+
 image: eat-up
 tags:
   - childhood

@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "The sun the moon and the stars"
-created: 1997-01-27 14:44:31
-date: 2011-03-24
+created: '27 January 1997'
+
 image: the-sun-the-moon-and-the-stars
 tags:
   - childhood

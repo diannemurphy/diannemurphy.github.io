@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: 'Olympia Black and White'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 1991-05-16 20:46:50
-date: 2011-03-24
+created: '16 May 1991'
+
 image: olympia-bw
 tags:
   - childhood

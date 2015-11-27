@@ -1,13 +1,13 @@
 ---
 
 layout: post
-title: ''
+title: 'Skewered Memories'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 1986-01-27 14:37:58
-date: 2011-03-24
+created: '27 January 1986'
+
 image: skewered-memories
 tags:
   - childhood

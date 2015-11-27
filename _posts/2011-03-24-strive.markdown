@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Strive"
-created: 1994-01-27 14:40:10
-date: 2011-03-24
+created: '27 January 1994'
+
 image: strive
 tags:
   - childhood

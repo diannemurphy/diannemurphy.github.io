@@ -6,8 +6,8 @@ medium: 'Drypoint'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Monday's Child"
-created: 2004-09-25 15:49:00
-date: 2011-03-24
+created: '25 September 2004'
+
 image: mondays-child
 tags:
   - childhood

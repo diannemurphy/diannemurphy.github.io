@@ -6,8 +6,8 @@ medium: 'Drypoint'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Friday's child is loving and giving"
-created: 2004-09-25 15:35:24
-date: 2011-03-24
+created: '25 September 2004'
+
 image: fridays-child-is-loving-and-giving
 tags:
   - childhood

@@ -1,13 +1,12 @@
 ---
 
 layout: post
-title: ''
+title: 'Wee Lassie'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 2013-05-12 12:17:30
-date: 2011-03-24
+created: '24 March 2011'
 image: wee-lassie
 tags:
   - childhood

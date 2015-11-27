@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Life Cycles"
-created: 1994-09-25 15:43:21
-date: 2011-03-24
+created: '25 September 1994'
+
 image: lifecycles
 tags:
   - childhood

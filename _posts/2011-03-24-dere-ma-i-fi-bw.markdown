@@ -1,14 +1,14 @@
 ---
 
 layout: post
-title: 'Bind'
-medium: 'Silkscreen Monoprint'
+title: "Der 'ma i fi (B&W)"
+medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
-caption: "Bind"
-created: 1990-10-09
-date: 2011-03-24
-image: bind1
+caption: "Der 'ma i fi'"
+created: '18 March 2014'
+
+image: dere-ma-i-fi-bw
 tags:
   - childhood
 
@@ -16,7 +16,7 @@ af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
-af-url: https://www.artfinder.com/product/bind1/
+af-url: https://www.artfinder.com/product/dere-ma/
 
 sa-price:
 sa-url:

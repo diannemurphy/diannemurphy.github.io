@@ -6,8 +6,8 @@ medium: 'Drypoint'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Wednesday's Child"
-created: 2004-09-25 16:11:28
-date: 2011-03-24
+created: '25 September 2005'
+
 image: wednesdays-child
 tags:
   - childhood

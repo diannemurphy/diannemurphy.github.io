@@ -6,8 +6,8 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Measure of Success"
-created: 1987-05-21
-date: 2011-03-24
+created: '21 May 1987'
+
 image: measure-of-success
 tags:
   - childhood
