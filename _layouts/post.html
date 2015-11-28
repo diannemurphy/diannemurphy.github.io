@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div class="post">
-  <h1 class="post-title">{{ page.title }}</h1>
-  <img src="/images/{{ page.image }}.jpg">
+  <img class="post-thumbnail" src="/images/{{ page.image }}.jpg">
+  <h3 class="title">{{ page.title }}</h3>
   <p>
     {{ page.content }}
   </p>
@@ -19,30 +19,12 @@ layout: default
     <li>Page updated {{ page.date | date_to_long_string }}</li>
   </ul>
 
-
   <div class="external">
     {% if page.af-url %}
-      <a href="https://www.artfinder.com/product/{{ page.af-url }}/">Artfinder</a>
+      <a href="{{ page.af-url }}">Artfinder</a>
     {% endif %}
     {% if page.sa-url %}
-      <a href="{{ page.sa-url }}/">Saatchi Art</a>
+      <a href="{{ page.sa-url }}">Saatchi Art</a>
     {% endif %}
   </div>
-
-
-  <h3><a href="/{{ page.category }}"{{ page.categories }}</a></h3>
-
-</div>
-
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:6 %}
-    <li>
-        <a href="{{ post.url }}">
-            {{ post.title }}
-          </a>
-    </li>
-    {% endfor %}
-  </ul>
 </div>

@@ -17,7 +17,6 @@ af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
 af-url: https://www.artfinder.com/product/looking-out-looking-in/
-
 sa-price:
 sa-url:
 

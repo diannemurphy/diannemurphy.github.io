@@ -22,12 +22,10 @@ tags:
   - skull
   - crown
 
-af-url: https://www.artfinder.com/product/momento-mori-9ceb/
 af-subject: "abstract and conceptual"
 af-style: illustrative
 af-price: 120
 af-url: https://www.artfinder.com/product/momento-mori-9ceb/
-
 sa-price: $180
 sa-url: http://www.saatchiart.com/art/Printmaking-Momento-Mori/19454/2487943/view
 

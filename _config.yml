@@ -1,7 +1,11 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         krawndown
 highlighter:      pygments
-gems: [jekyll-paginate]
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+exclude: [bower_components, Gemfile,Gemfile.lock,Gruntfile.js,package.json,README.md,node_modules]
 
 # Permalinks
 permalink:        none
@@ -10,15 +14,11 @@ relative_permalinks: false
 # Setup
 title:            Dianne Murphy
 tagline:          'Printmaker and Artist'
-description:      'something'
-url:              http://hyde.getpoole.com
+description:      'Dianne Murphy is a printmaker and artist based in Wales - producing a range of limited edition hand inked etchings'
+url:              http://www.diannemurphy.co.uk
 baseurl:          /
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         5
+paginate:         0
 
 # Custom vars
 version:          2.1.0

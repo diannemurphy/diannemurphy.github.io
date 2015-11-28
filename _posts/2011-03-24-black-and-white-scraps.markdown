@@ -16,8 +16,6 @@ af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
-af-url: https://www.artfinder.com/product/black-and-white-scraps/
-
 sa-price:
 sa-url:
 

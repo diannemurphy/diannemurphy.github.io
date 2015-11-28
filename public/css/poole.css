@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;*/
   font-size: 16px;
   line-height: 1.5;
 }
@@ -330,7 +330,7 @@ tbody tr:nth-child(odd) th {
 
 .page,
 .post {
-  margin-bottom: 4em;
+  margin-bottom: 1em;
 }
 
 /* Blog post or page title */
@@ -354,7 +354,7 @@ tbody tr:nth-child(odd) th {
 
 /* Related posts */
 .related {
-  padding-top: 2rem;
+  padding-top: 0rem;
   padding-bottom: 2rem;
   border-top: 1px solid #eee;
 }

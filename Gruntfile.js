@@ -1,55 +1,51 @@
-/* 
-
-TO DO
-
-1) Reduce CSS duplication
-   - Ideally just a single build - global.scss turns into /build/global.css
-   - Can Autoprefixer output minified?
-   - If it can, is it as good as cssmin?
-   - Could Sass be used again to minify instead?
-   - If it can, is it as good as cssmin?
-
-2) Better JS dependency management
-   - Require js?
-   - Can it be like the Asset Pipeline where you just do //= require "whatever.js"
-
-3) Is HTML minification worth it?
-
-4) Set up a Jasmine test just to try it.
-
-5) Can this Gruntfile.js be abstracted into smaller parts?
-   - https://github.com/cowboy/wesbos/commit/5a2980a7818957cbaeedcd7552af9ce54e05e3fb
-
-*/    
-
 module.exports = function(grunt) {
 
+  // Project configuration.
   grunt.initConfig({
-
     pkg: grunt.file.readJSON('package.json'),
 
-    sass: {
-      dist: {
+    image_resize: {
+      resize: {
         options: {
-          // options
-          // cssmin will minify later
-          style: 'expanded'
+          width: 90,
+          height: 90,
+          crop: true,
+          overwrite: true
         },
-        files: {
-          '_site/css/main.css': 'css/main.scss'
-        }
+        src: 'images/*.jpg ',
+        dest: 'images/thumbs/'
       }
     },
 
+    imagemin: {
+      dynamic: {
+        files: [{
+          expand: true,
+          cwd: 'images/',
+          src: ['**/*.{png,jpg,gif}'],
+          dest: 'images/'
+        }]
+      }
+    },
 
+    shell : {
+     jekyllBuild : {
+         command : 'bundle exec jekyll build'
+     },
+     jekyllServe : {
+         command : 'bundle exec jekyll serve'
+     }
+    },
 
   });
 
-  require('load-grunt-tasks')(grunt);
+  //the image magick tasks
+  grunt.loadNpmTasks('grunt-image-resize');
+  grunt.loadNpmTasks('grunt-contrib-imagemin');
+  grunt.loadNpmTasks('grunt-shell');
 
-  // Default Task is basically a rebuild
-  grunt.registerTask('default', ['sass']);
 
-  grunt.registerTask('dev', ['connect', 'watch']);
+  // Default task(s).
+  grunt.registerTask('default', ['image_resize', 'imagemin', 'shell']);
 
 };

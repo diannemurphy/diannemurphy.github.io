@@ -6,7 +6,7 @@ medium: 'Drypoint'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: 13 February 2005
+created: '25 September 1991'
 image: thursdays-child
 tags:
   - childhood
@@ -15,8 +15,6 @@ af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
-af-url: https://www.artfinder.com/product/thursdays-child/
-
 sa-price:
 sa-url:
 

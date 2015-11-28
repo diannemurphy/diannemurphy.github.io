@@ -15,8 +15,6 @@ af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
-af-url: https://www.artfinder.com/product/for-i-dont-have-a-wooden-heart/
-
 sa-price:
 sa-url:
 

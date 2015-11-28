@@ -6,7 +6,7 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption:
-created: 2015-11
+created: 1 May 1998
 image: gift-for-life
 tags:
   - birth
@@ -20,7 +20,7 @@ tags:
 af-subject: "abstract and conceptual"
 af-style: illustrative
 af-price:
-
+af-url: https://www.artfinder.com/product/gift-for-life/
 sa-tags:
   - birth
   - talent

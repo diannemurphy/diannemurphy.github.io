@@ -6,7 +6,7 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: '24 March 2011'
+created: '24 March 1993'
 image: wee-lassie
 tags:
   - childhood
@@ -16,7 +16,6 @@ af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
 af-url: https://www.artfinder.com/product/wee-lassie/
-
 sa-price:
 sa-url:
 

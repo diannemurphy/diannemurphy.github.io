@@ -16,8 +16,6 @@ af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
-af-url: https://www.artfinder.com/product/can-you-really-pronounce-it/
-
 sa-price:
 sa-url:
 

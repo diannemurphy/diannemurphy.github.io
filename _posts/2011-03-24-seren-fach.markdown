@@ -1,14 +1,14 @@
 ---
 
 layout: post
-title: 'Star'
+title: 'Seren Fach'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
-caption: "Star"
+caption: "Seren Fach"
 created: '17 April 2005'
 
-image: star
+image: seren-fach
 tags:
   - childhood
 
@@ -16,8 +16,6 @@ af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
-af-url: https://www.artfinder.com/product/star/
-
 sa-price:
 sa-url:
 

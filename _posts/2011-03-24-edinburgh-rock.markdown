@@ -6,7 +6,7 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: '15 May 1988'
+created: '15 May 1986'
 image: edinburgh-rock
 tags:
   - childhood
@@ -16,7 +16,6 @@ af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
 af-url: https://www.artfinder.com/product/edinburgh-rock/
-
 sa-price:
 sa-url:
 

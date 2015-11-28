@@ -1,14 +1,13 @@
 ---
 
 layout: post
-title: 'Pencil Case'
+title: 'Open Wide'
 medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
-caption: "Pencil Case"
-created: '25 September 2004'
+created: '25 September 1986'
 
-image: pencil-case
+image: open-wide
 tags:
   - childhood
 
@@ -16,8 +15,6 @@ af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
-af-url: https://www.artfinder.com/product/pencil-case/
-
 sa-price:
 sa-url:
 

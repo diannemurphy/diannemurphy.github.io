@@ -17,7 +17,6 @@ af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
 af-url: https://www.artfinder.com/product/the-sun-the-moon-and-the-stars/
-
 sa-price:
 sa-url:
 

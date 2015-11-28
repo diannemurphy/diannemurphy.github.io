@@ -6,7 +6,7 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: '27 January 2005'
+created: '27 January 1986'
 
 image: just-stay-young-and-beautiful
 tags:
@@ -16,8 +16,6 @@ af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
-af-url: https://www.artfinder.com/product/just-stay-young-and-beautiful/
-
 sa-price:
 sa-url:
 

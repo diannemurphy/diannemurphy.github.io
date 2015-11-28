@@ -6,7 +6,7 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: '27 January 2005'
+created: '27 January 1986'
 
 image: maid-or-honour
 tags:
@@ -16,8 +16,6 @@ af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
-af-url: https://www.artfinder.com/product/maid-or-honour/
-
 sa-price:
 sa-url:
 

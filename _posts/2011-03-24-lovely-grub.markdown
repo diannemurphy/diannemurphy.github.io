@@ -6,7 +6,7 @@ medium: 'Silkscreen Monoprint'
 ext: .jpg
 alt: 'Colour Inked Etching'
 caption: ""
-created: '13 February 2005'
+created: '13 February 1991'
 
 image: lovely-grub
 tags:
@@ -16,8 +16,6 @@ af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
-af-url: https://www.artfinder.com/product/lovely-grub/
-
 sa-price:
 sa-url:
 
