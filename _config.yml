@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         krawndown
+markdown:         kramdown
 highlighter:      pygments
 gems:
   - jekyll-paginate
@@ -18,7 +18,9 @@ description:      'Dianne Murphy is a printmaker and artist based in Wales - pro
 url:              http://www.diannemurphy.co.uk
 baseurl:          /
 
-paginate:         0
+# paginate: 5
+# paginate_path: "/gallery/page:num/"
+
 
 # Custom vars
 version:          2.1.0

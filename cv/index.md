@@ -4,6 +4,23 @@ layout: default
 title: CV
 ---
 
+#CV
+
+<ul class="toc">
+  <li><a href="#placements-residencies">Placements &amp; residencies</a></li>
+  <li><a href="#exhibitions">Exhibitions</a></li>
+  <li><a href="#lecturing">Lecturing</a></li>
+  <li><a href="#collections">Collections</a></li>
+  <li><a href="#travel-award">Travel Award</a></li>
+  <li><a href="#projects">Projects</a></li>
+  <li><a href="#representation">Represention</a></li>
+  <li><a href="#television">Television</a></li>
+  <li><a href="#education">Education</a></li>
+  <li><a href="#childbearing">Childbearing</a></li>
+  <li><a href="#workshops">Workshops</a></li>
+</ul>
+
+
 ## Placements & residencies
 
 ### Printmaking Residency
@@ -22,23 +39,17 @@ Set up studio/etching and silkscreen facility. Worked with whole school using bo
 
 3-Day S.E.W.A.A. assisted to instigate/install silkscreen facility in Gwernllwyn Junior School, Merthyr Tydfil. September 1990.
 
-### Printmaker Placement
-
 3-Day to instigate/install silkscreen facility in Penguelan Primary School, Mountain Ash, Mid Glamorgan. May 1991.
 
 ### Artist in Residence Philadelphia USA
 
 Artist in residence/faculty member at Pennsylvania Academy of Fine Art, Philadelphia,U.S.A.. January ‘93 to March 1993. Exhibition: end of residency show within Pennsylvania Academy of Fine Art.
 
-### Artist Placement October 1994.
+### Artist Placement October 1994
 
 Artist working (through Hafod Housing) within 3 institutions for the elderly around Cardiff. 10 weeks duration from October to Christmas. Print and collage mediums, create large wall board and individual art works and cards. Art works entered into the Elderly Action Council Art Comp.and residents from two sites had work short listed. Chosen pieces were framed and exhibited in London exhibition. Working on in sites to continue weekly visits after placement has ended. Working in new site also. (Resultant resident’s artwork framed and toured – Arts Council of Wales and Hafod Housing Association assisted).
 
-### Design Collaboration for Performance
-
-September 1994. Pramen festival, Cross keys, Gwent.
-
-Worked with Blackwood Miners Institute and choreographers to create 18FT painted dragon spread over 30 hand-held boards with letterforms on the back, flags for dancers and triptych for backdrops.
+## Exhibitions
 
 ### Selected Exhibitions
 
@@ -76,7 +87,7 @@ Worked with Blackwood Miners Institute and choreographers to create 18FT painted
 - 1991 Windsor Arts Centre, Berkshire, England.
 - 1994 Turner House Museum and Art Gallery, Penarth.
 - 2000 Contemporary Printmakers selected exhibition, Blackfriars Arts Centre, Boston, Lincs.
-- 2010. ‘Bitten and Pressed’ contemporary printmakers selected exhibition. Aberystwyth Arts Centre.
+- 2010 ‘Bitten and Pressed’ contemporary printmakers selected exhibition. Aberystwyth Arts Centre.
 
 
 ### One Woman Exhibitions
@@ -116,7 +127,7 @@ Worked with Blackwood Miners Institute and choreographers to create 18FT painted
 - December 1994 Visiting Lecturer (BA) West Glamorgan Institute, Town Hill Campus, Swansea.
 - October 1996 -June 1998 Part-time lecturer (BA) Illustration, Swansea Institute, Town Hill.
 
-### Collections
+## Collections
 
 - 1989 South Glamorgan Collection
 - 1990 Edinburgh City Art Collection
@@ -131,9 +142,17 @@ USA, Switzerland, Germany, Italy and UK
 
 July 1990 Granted Welsh Arts Council Travel Award to research in Museums of Childhood in Scotland, England, Germany and France. Drew exhibits (fine line pencil) gathering source for Scottish touring show.
 
+## Projects
+
 ### Tree Dressing Project
 
 Working with 2 schools (Fynnon Taf Primary and Nantgarw Infants) to produce a variety of lanterns, banners and other decorative items which celebrated (and hung from) the tree. Large kappa leaves with children’s poems about particular trees on, twig people made by the children and parents, wildlife lanterns painted and decorated by the children, laminated working drawings of creatures, leaves and hand prints, etc. Work done in conjunction with visiting storyteller and culminated in actual dressing ceremony led by banners, storyteller and musician.
+
+### Design Collaboration for Performance
+
+September 1994. Pramen festival, Cross keys, Gwent.
+
+Worked with Blackwood Miners Institute and choreographers to create 18FT painted dragon spread over 30 hand-held boards with letterforms on the back, flags for dancers and triptych for backdrops.
 
 ### Other Projects
 
@@ -146,6 +165,8 @@ Banner-making Project
 - August 1995
 Youth Cafe, Tredegar. Create 3×9ft banners for bandstand to be displayed during the summer festival.Also work with children/youths within cafe to produce art works for walls and cards to take-away.Set of screen equipment left with cafe so work can continue after project finished.
 
+##Representation
+
 ### Illustration
 
 - Feb’88 – March’90 Agent – AART Limited, 2-6 Boswell Court, London
@@ -157,10 +178,12 @@ Youth Cafe, Tredegar. Create 3×9ft banners for bandstand to be displayed during
 - Scottish Agent.Artis, Blair House, Harthill, Shotts. 1987 – 1992
 - London Agent.Wiseman Originals, 34 West Square, London. 1988 – 1992
 
+
 ### Television
 
 May 1994 Featured on The Slate, BBC 2 Wales. Arts magazine programme investigation of my art form technique and chosen topic.
-Degree
+
+##Education
 
 ### Degree
 
@@ -179,6 +202,8 @@ Level 3 attained (ongoing)
 ### Computer Course
 
 May 1994 City & Guilds stage II word processing certificate gained
+
+##Workshops
 
 ###Workshops 1992-2003
 

@@ -4,7 +4,7 @@ layout: default
 
 <div class="post">
   <img class="post-thumbnail" src="/images/{{ page.image }}.jpg">
-  <h3 class="title">{{ page.title }}</h3>
+  <h3 class="post-title">{{ page.title }}</h3>
   <p>
     {{ page.content }}
   </p>
@@ -16,7 +16,7 @@ layout: default
     {% if page.width %}
     <li>{{ page.width }}cm x {{ page.height }}cm</li>
     {% endif %}
-    <li>Page updated {{ page.date | date_to_long_string }}</li>
+    <li class='post-date'>Page updated {{ page.date | date_to_long_string }}</li>
   </ul>
 
   <div class="external">
@@ -27,4 +27,16 @@ layout: default
       <a href="{{ page.sa-url }}">Saatchi Art</a>
     {% endif %}
   </div>
+
+
+</div>
+
+<div class="PageNavigation">
+  {% if page.next.url %}
+    <a class="next" href="{{page.next.url}}">Next</a></br>
+  {% endif %}
+  {% if page.previous.url %}
+    <a class="prev" href="{{page.previous.url}}">Previous</a>
+  {% endif %}
+
 </div>

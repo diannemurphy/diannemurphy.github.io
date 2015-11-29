@@ -7,7 +7,7 @@ ext: .jpg
 alt: 'Colour Inked Etching'
 caption: "Astroman"
 created: '27 October 2012'
-
+date: '27 October 2012'
 image: astroman
 tags:
   - childhood
@@ -16,7 +16,7 @@ af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
-af-url: https://www.artfinder.com/product/astroman/
+af-url: https://www.artfinder.com/product/astro-man/
 
 sa-price:
 sa-url:
@@ -27,3 +27,5 @@ height:
 category: gallery
 
 ---
+
+Toy robot with a sexual twist. Coloured inks applied in one application and printed in one pull; quite a labour intensive process but, coupled with the ochre background, this yields a mellow tone. Each print is slightly different as during the wiping process colours merge and are altered. Fabriano rosapino paper helps impart the mood of something remembered.
