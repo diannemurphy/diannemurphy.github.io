@@ -5,7 +5,7 @@ title: Gallery of work
 <div class="posts">
 	{% for image in site.posts %}
 	<a class="thumbnail" href="{{image.url}}">
-	<img src="/images/thumbs/{{ image.image }}.jpg" alt="{{ image.medium }}">
+	<img src="/images/thumbs/{{ image.image }}.jpg" alt="{{ image.medium }}" width="90" height="90">
 	</a>
 	{% endfor %}
 </div>
