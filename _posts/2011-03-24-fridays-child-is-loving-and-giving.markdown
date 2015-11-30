@@ -4,7 +4,7 @@ layout: post
 title: "Friday's child is loving and giving"
 medium: 'Drypoint'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Friday's child is loving and giving"
 created: '25 September 1991'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Friday's child is loving and giving.

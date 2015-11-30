@@ -4,7 +4,7 @@ layout: post
 title: 'Too late now'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Too late now"
 created: '25 September 1991'
 
@@ -25,3 +25,4 @@ height:
 category: gallery
 
 ---
+The beast has been recognised.

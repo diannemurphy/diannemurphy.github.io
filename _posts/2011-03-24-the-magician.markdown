@@ -4,7 +4,7 @@ layout: post
 title: 'The Magician'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '10 April 2013'
 
@@ -25,3 +25,4 @@ height:
 category: gallery
 
 ---
+You can have it all.

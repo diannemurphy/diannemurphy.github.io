@@ -10,6 +10,7 @@ module.exports = function(grunt) {
           width: 90,
           height: 90,
           crop: true,
+          gravity: 'North',
           overwrite: true
         },
         src: 'images/*.jpg ',

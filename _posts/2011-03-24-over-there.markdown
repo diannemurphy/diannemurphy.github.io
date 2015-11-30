@@ -4,7 +4,7 @@ layout: post
 title: 'Over there'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Over there"
 created: '16 September 1994'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Long distance comms in Philadelphia.

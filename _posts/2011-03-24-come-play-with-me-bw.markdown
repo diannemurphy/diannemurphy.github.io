@@ -4,7 +4,7 @@ layout: post
 title: 'Come play with me'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Come play with me"
 created: '19 October 1987'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Growing up is hard.

@@ -4,7 +4,7 @@ layout: post
 title: 'Stop Paying that Piper'
 medium: 'Silkscreen Monoprint'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Stop Paying that Piper"
 created: '2 October 1991'
 
@@ -19,9 +19,10 @@ af-price:
 sa-price:
 sa-url:
 
-edition: 100
+edition: 1
 width:
 height:
 category: gallery
 
 ---
+Disastrous relationships.

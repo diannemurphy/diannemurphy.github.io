@@ -4,7 +4,7 @@ layout: post
 title: 'Face values'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Face values"
 created: '16 May 1990'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+I can be anyone you want me to.

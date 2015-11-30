@@ -4,7 +4,7 @@ date: "2015-11-27"
 title: "David's Denouement"
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "David's Denouement"
 date: 2015-03-10
 image: davidsdenouement
@@ -35,3 +35,5 @@ width: 12
 height: 10
 
 ---
+
+Hilbert pressed on and so should we.

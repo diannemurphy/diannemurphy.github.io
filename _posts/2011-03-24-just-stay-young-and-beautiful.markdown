@@ -4,7 +4,7 @@ layout: post
 title: 'Just stay young and beautiful'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '27 January 1986'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Welsh holiday homes problem.

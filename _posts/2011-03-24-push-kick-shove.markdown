@@ -4,7 +4,7 @@ layout: post
 title: 'Push, Kick and Shove'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Push, Kick and Shove"
 created: '25 September 2003'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Blessed union.

@@ -4,7 +4,7 @@ layout: post
 title: 'Clownio'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Clownio"
 created: '16 May 1986'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Protect the Welsh language.

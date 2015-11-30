@@ -4,7 +4,7 @@ layout: post
 title: 'Twist'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '23 September 1993'
 image: twist
@@ -24,3 +24,5 @@ height:
 category: gallery
 
 ---
+
+Contort yourself until you fit.

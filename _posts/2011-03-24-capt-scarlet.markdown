@@ -4,7 +4,7 @@ layout: post
 title: 'Captain Scarlet (Indestructable)'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Captain Scarlet (Indestructable)"
 created: '18 March 2014'
 

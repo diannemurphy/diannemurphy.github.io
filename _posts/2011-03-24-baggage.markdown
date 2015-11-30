@@ -1,10 +1,10 @@
 ---
 
 layout: post
-title: 'Colour Inked Etching'
+title: 'Baggage'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Colour Inked Etching"
 created: '14 September 1991'
 
@@ -26,3 +26,5 @@ height:
 category: gallery
 
 ---
+
+Leave the pain behind.

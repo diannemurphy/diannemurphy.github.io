@@ -4,7 +4,7 @@ layout: post
 title: 'Problem Sums'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '16 May 1986'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Easy when you know how.

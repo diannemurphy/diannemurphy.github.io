@@ -4,9 +4,9 @@ layout: post
 title: 'Spend,Spend,Spent'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Spend,Spend,Spent"
-created: 25 September 1991'
+created: 25 September 1991
 
 image: spend-spend-spent
 tags:
@@ -25,3 +25,4 @@ height:
 category: gallery
 
 ---
+Is it me?

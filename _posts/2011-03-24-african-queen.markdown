@@ -4,7 +4,7 @@ layout: post
 title: 'African Queen'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '10 October 1986'
 
@@ -26,3 +26,5 @@ height:
 category: gallery
 
 ---
+
+Forbearance.

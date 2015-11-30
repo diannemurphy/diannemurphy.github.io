@@ -4,7 +4,7 @@ date: "2015-11-27"
 title: "Sair Fecht"
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Sair Fecht"
 created: 2015-02-28
 image: sair-fecht
@@ -29,3 +29,5 @@ width:
 height:
 
 ---
+
+It's a hard fight and it starts in childhood.

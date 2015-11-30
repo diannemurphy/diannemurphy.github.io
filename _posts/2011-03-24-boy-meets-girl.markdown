@@ -4,7 +4,7 @@ layout: post
 title: 'Boy Meets Girl'
 medium: 'Silkscreen Monoprint'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Boy Meets Girl"
 created: '10 September 1990'
 
@@ -19,9 +19,11 @@ af-price:
 sa-price:
 sa-url:
 
-edition: 100
+edition: 5
 width:
 height:
 category: gallery
 
 ---
+
+Broker me a marriage.

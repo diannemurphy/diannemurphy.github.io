@@ -4,7 +4,7 @@ layout: post
 title: "For I don't have a wooden Heart"
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "For I don't have a wooden Heart"
 created: '25 September 1991'
 image: for-i-dont-have-a-wooden-heart
@@ -24,3 +24,7 @@ height:
 category: gallery
 
 ---
+
+Into each life some rain must fall.
+
+![Black and White version of print](/images/for-i-dont-have-a-wooden-heart-bw.jpg)

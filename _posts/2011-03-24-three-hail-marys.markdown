@@ -4,7 +4,7 @@ layout: post
 title: 'Three Hail Marys'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '15 May 2005'
 image: three-hail-marys
@@ -24,3 +24,5 @@ height:
 category: gallery
 
 ---
+
+Religion stays will you.

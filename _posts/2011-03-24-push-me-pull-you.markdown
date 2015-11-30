@@ -4,7 +4,7 @@ layout: post
 title: 'Push Me Pull You'
 medium: 'Silkscreen Monoprint'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Push Me Pull You"
 created: '25 September 2004'
 
@@ -19,9 +19,11 @@ af-price:
 sa-price:
 sa-url:
 
-edition: 100
+edition: 1
 width:
 height:
 category: gallery
 
 ---
+
+The relationship.

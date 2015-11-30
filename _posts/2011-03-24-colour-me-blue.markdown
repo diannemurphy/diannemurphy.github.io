@@ -4,7 +4,7 @@ layout: post
 title: 'Colour me blue'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '12 May 1986'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+It won't last.

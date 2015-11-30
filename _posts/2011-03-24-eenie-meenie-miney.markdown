@@ -4,7 +4,7 @@ layout: post
 title: 'Eenie Meenie Miney'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Eenie Meenie Miney"
 created: '25 September 1991'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+And so we learn.

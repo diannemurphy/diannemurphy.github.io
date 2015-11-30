@@ -4,7 +4,7 @@ layout: post
 title: 'Looking-out-or-looking-in?'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Looking-out-or-looking-in?"
 created: '11 May 2013'
 
@@ -26,3 +26,7 @@ height:
 category: gallery
 
 ---
+
+The Watcher or the watched.
+
+![Black and White version of print](/images/looking-out-or-looking-in-bw.jpg)

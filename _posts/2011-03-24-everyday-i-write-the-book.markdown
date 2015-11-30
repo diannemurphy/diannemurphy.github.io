@@ -4,7 +4,7 @@ layout: post
 title: 'Everyday I write the book'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Everyday I write the book"
 created: '11 September 1994'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+The river of life flows on...

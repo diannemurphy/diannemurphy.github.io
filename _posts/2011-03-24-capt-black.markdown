@@ -4,7 +4,7 @@ layout: post
 title: 'Captain Black (Human Convert)'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Captain Black (Human Convert)"
 created: '18 March 2014'
 
@@ -27,3 +27,5 @@ height:
 category: gallery
 
 ---
+
+His broken heart has made him vulnerable and the dark side is using him as their puppet.

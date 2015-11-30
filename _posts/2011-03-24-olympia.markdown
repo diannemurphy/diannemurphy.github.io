@@ -4,7 +4,7 @@ layout: post
 title: 'Olympia'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Olympia"
 created: '16 May 1991'
 
@@ -27,3 +27,7 @@ height:
 category: gallery
 
 ---
+
+After Manet.
+
+![Black and White print of Olympia](/images/olympia-bw.jpg)

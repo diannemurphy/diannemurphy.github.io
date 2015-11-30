@@ -4,7 +4,7 @@ layout: post
 title: 'Eesh'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Eesh"
 created: '25 September 1991'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Sometimes it just isn't right.

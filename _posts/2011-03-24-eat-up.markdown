@@ -4,7 +4,7 @@ layout: post
 title: 'Eat Up'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Eat Up"
 created: '11 September 1993'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+The damaged can be mean.

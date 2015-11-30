@@ -4,7 +4,7 @@ layout: post
 title: 'Ad Infinitum'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Colour Inked Etching"
 created: '14 September 1991'
 
@@ -26,3 +26,5 @@ height:
 category: gallery
 
 ---
+
+Just not up to the job.

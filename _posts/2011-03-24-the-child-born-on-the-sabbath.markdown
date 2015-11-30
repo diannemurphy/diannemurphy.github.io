@@ -4,7 +4,7 @@ layout: post
 title: 'The Child born on the sabbath'
 medium: 'Drypoint'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "The Child born on the sabbath"
 created: '25 September 2004'
 
@@ -19,9 +19,11 @@ af-price:
 sa-price:
 sa-url:
 
-edition: 100
+edition: 1
 width:
 height:
 category: gallery
 
 ---
+
+Loving and giving, happy and gay.

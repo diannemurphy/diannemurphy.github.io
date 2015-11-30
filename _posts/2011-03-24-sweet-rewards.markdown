@@ -4,7 +4,7 @@ layout: post
 title: 'Sweet Rewards'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Sweet Rewards"
 created: '23 September 1986'
 
@@ -25,3 +25,4 @@ height:
 category: gallery
 
 ---
+Remember.

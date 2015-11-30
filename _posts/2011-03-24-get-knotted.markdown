@@ -4,7 +4,7 @@ layout: post
 title: 'Get knotted'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '27 January 1991'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Take control.

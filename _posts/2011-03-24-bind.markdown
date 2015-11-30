@@ -4,7 +4,6 @@ layout: post
 title: 'Bind'
 medium: 'Silkscreen Monoprint'
 ext: .jpg
-alt: 'Colour Inked Etching'
 caption: "Bind"
 created: '10 September 1990'
 
@@ -20,9 +19,11 @@ af-price:
 sa-price:
 sa-url:
 
-edition: 100
+edition: 1
 width:
 height:
 category: gallery
 
 ---
+
+Tools of the trade.

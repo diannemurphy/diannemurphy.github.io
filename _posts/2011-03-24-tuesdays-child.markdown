@@ -4,7 +4,7 @@ layout: post
 title: "Tuesday's Child"
 medium: 'Drypoint'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Tuesday's Child"
 created: '25 September 1991'
 image: tuesdays-child
@@ -18,9 +18,10 @@ af-price:
 sa-price:
 sa-url:
 
-edition: 100
+edition: 1
 width:
 height:
 category: gallery
 
 ---
+Tuesday's child is full of grace.

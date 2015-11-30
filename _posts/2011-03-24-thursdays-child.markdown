@@ -4,7 +4,7 @@ layout: post
 title: "Thursday's Child"
 medium: 'Drypoint'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '25 September 1991'
 image: thursdays-child
@@ -18,9 +18,11 @@ af-price:
 sa-price:
 sa-url:
 
-edition: 100
+edition: 1
 width:
 height:
 category: gallery
 
 ---
+
+Thursday's child has far to go.

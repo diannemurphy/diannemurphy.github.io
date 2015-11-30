@@ -4,7 +4,7 @@ layout: post
 title: 'Wee Lassie'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '24 March 1993'
 image: wee-lassie
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Armed and dangerous.

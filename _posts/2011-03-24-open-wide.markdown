@@ -4,7 +4,7 @@ layout: post
 title: 'Open Wide'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 created: '25 September 1986'
 
 image: open-wide
@@ -24,3 +24,5 @@ height:
 category: gallery
 
 ---
+
+The workings.

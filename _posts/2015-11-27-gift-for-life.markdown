@@ -4,7 +4,7 @@ date: "2015-11-27"
 title: "Gift for life"
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption:
 created: 1 May 1998
 image: gift-for-life
@@ -37,3 +37,5 @@ edition: 100
 width:
 height:
 ---
+
+In the end we're the next in line.

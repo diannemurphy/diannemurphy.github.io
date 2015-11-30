@@ -4,7 +4,7 @@ date: "2015-11-27"
 title: "Momento Mori"
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Momento Mori"
 date: 2015-05-25
 image: momento-mori

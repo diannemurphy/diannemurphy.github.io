@@ -4,7 +4,7 @@ layout: post
 title: 'Hold me baby'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Hold me baby"
 created: '25 September 1991'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Maternal blues.

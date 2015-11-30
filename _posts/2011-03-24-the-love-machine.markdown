@@ -4,7 +4,7 @@ layout: post
 title: 'The Love Machine'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "The Love Machine"
 created: '7 December 2013'
 
@@ -26,3 +26,5 @@ height:
 category: gallery
 
 ---
+
+Sweet surrender.

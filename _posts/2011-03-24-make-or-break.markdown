@@ -4,7 +4,7 @@ layout: post
 title: 'Make or break'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '27 January 1986'
 image: make-or-break
@@ -24,3 +24,5 @@ height:
 category: gallery
 
 ---
+
+Cherish the Welsh language.

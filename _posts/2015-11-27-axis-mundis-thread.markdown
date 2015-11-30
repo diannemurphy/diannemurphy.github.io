@@ -4,9 +4,9 @@ date: "2015-11-27"
 title: "Axis Mundi's Thread"
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Axis Mundi's Thread"
-created: 2014-11-29
+created: '29 November 2014'
 image: axis-mundis-thread
 tags:
   - German
@@ -29,3 +29,5 @@ width: 18
 height: 29
 
 ---
+
+Running repairs until we're better.

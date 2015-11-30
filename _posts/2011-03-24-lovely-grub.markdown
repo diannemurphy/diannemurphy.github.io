@@ -4,7 +4,7 @@ layout: post
 title: 'Lovely Grub'
 medium: 'Silkscreen Monoprint'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '13 February 1991'
 
@@ -19,9 +19,11 @@ af-price:
 sa-price:
 sa-url:
 
-edition: 100
+edition: 3
 width:
 height:
 category: gallery
 
 ---
+
+Tools for enjoyment.

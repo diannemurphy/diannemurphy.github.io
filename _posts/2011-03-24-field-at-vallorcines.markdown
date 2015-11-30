@@ -4,7 +4,7 @@ layout: post
 title: 'Field at Vallorcines'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Field at Vallorcines"
 created: '2 October 1996'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Book cover of 'A field at Vallorcines' by Roland Mathias, published by Gomer Press.

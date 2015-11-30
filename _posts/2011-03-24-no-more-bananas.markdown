@@ -4,7 +4,7 @@ layout: post
 title: 'No More Bananas'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "No More Bananas"
 created: '26 October 2012'
 
@@ -26,3 +26,5 @@ height:
 category: gallery
 
 ---
+
+There's still time.

@@ -4,7 +4,7 @@ layout: post
 title: 'Past Cut Outs'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Past Cut Outs"
 created: '27 January 1986'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Hard to remember.

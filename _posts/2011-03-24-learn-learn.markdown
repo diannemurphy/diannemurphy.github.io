@@ -4,7 +4,7 @@ layout: post
 title: 'Learn! Learn?'
 medium: 'Silkscreen'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Learn! Learn?"
 created: '2 October 1985'
 
@@ -19,9 +19,11 @@ af-price:
 sa-price:
 sa-url:
 
-edition: 100
+edition: 2
 width:
 height:
 category: gallery
 
 ---
+
+Problems with recognition.

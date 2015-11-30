@@ -4,7 +4,7 @@ layout: post
 title: 'Clap,clap'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Clap,clap"
 created: 14 September 1997'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Sew it up and be done.

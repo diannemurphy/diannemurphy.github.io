@@ -5,9 +5,9 @@ date: "2015-11-27"
 title: "Giftie Gie"
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption:
-created: 2015-02-04
+created: '4 February 2015'
 image: giftie-gie
 tags:
   - childhood
@@ -25,3 +25,5 @@ edition: 100
 width:
 height:
 ---
+
+A welcome handshake or a punch in the jaw? In the moment we are oblivious.

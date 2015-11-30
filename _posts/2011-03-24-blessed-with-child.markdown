@@ -4,7 +4,7 @@ layout: post
 title: 'Blessed with Child'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '19 October 1996'
 
@@ -27,3 +27,5 @@ height:
 category: gallery
 
 ---
+
+The life of Religion.

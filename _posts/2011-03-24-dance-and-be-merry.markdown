@@ -4,7 +4,7 @@ layout: post
 title: 'Dance and be merry...'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Dance and be merry..."
 created: '25 September 1988'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+For tomorrow you will die.

@@ -4,7 +4,7 @@ layout: post
 title: 'Edinburgh Rock'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '15 May 1986'
 image: edinburgh-rock
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Days out.

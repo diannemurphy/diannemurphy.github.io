@@ -4,7 +4,7 @@ layout: post
 title: 'Black and White Scraps'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '12 May 1986'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Swapping.

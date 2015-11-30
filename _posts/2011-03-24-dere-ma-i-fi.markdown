@@ -4,7 +4,7 @@ layout: post
 title: "Dere ma' i fi"
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '16 May 2007'
 
@@ -25,3 +25,7 @@ height:
 category: gallery
 
 ---
+
+The Queen is changeable.
+
+![Black and white version of print](/images/dere-ma-i-fi-bw.jpg)

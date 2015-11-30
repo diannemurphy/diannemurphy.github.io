@@ -4,7 +4,7 @@ layout: post
 title: 'The Thirteenth Day'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "The Thirteenth Day"
 created: 27 January 1989
 
@@ -25,3 +25,4 @@ height:
 category: gallery
 
 ---
+On the first day of Christmas ...

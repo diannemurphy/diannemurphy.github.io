@@ -4,7 +4,7 @@ layout: post
 title: 'Astroman'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Astroman"
 created: '27 October 2012'
 date: '27 October 2012'
@@ -28,4 +28,4 @@ category: gallery
 
 ---
 
-Toy robot with a sexual twist. Coloured inks applied in one application and printed in one pull; quite a labour intensive process but, coupled with the ochre background, this yields a mellow tone. Each print is slightly different as during the wiping process colours merge and are altered. Fabriano rosapino paper helps impart the mood of something remembered.
+Toy robot with a sexual twist.

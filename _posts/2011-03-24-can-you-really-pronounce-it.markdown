@@ -4,7 +4,7 @@ layout: post
 title: 'Can you really pronounce it?'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Can you really pronounce it?"
 created: '17 March 1986'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Well, can you?

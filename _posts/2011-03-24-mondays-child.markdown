@@ -4,7 +4,7 @@ layout: post
 title: "Monday's Child"
 medium: 'Drypoint'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Monday's Child"
 created: '25 September 1991'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Monday's child is fair of face.

@@ -4,7 +4,7 @@ layout: post
 title: 'The sun the moon and the stars'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "The sun the moon and the stars"
 created: '27 January 1997'
 
@@ -26,3 +26,4 @@ height:
 category: gallery
 
 ---
+You've got to work at it.

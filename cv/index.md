@@ -4,8 +4,6 @@ layout: default
 title: CV
 ---
 
-#CV
-
 <ul class="toc">
   <li><a href="#placements-residencies">Placements &amp; residencies</a></li>
   <li><a href="#exhibitions">Exhibitions</a></li>

@@ -4,7 +4,7 @@ layout: post
 title: 'Strive'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Strive"
 created: '27 January 1994'
 
@@ -25,3 +25,4 @@ height:
 category: gallery
 
 ---
+Keep going, you can do it.

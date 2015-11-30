@@ -4,7 +4,7 @@ layout: post
 title: 'Pare'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Pare"
 created: '27 January 1992'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Seemed right at the time.

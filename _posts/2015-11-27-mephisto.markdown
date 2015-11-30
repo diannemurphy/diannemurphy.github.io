@@ -4,7 +4,7 @@ date: "2015-11-27"
 title: "Mephisto leibt es zu spielen"
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Mephisto leibt es zu spielen"
 created: 2015-04-24
 image: mephisto
@@ -35,3 +35,5 @@ edition: 100
 width: 12
 height: 10
 ---
+
+They can't get you if you don't join up.

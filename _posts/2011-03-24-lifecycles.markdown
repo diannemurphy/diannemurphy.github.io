@@ -4,7 +4,7 @@ layout: post
 title: 'Life Cycles'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Life Cycles"
 created: '25 September 1994'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+The egg hatches.

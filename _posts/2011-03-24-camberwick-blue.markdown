@@ -4,7 +4,7 @@ layout: post
 title: 'Camberwick Blue'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: ""
 created: '29 March 1989'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Thatcher's Britain.

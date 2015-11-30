@@ -4,7 +4,7 @@ layout: post
 title: 'Desire'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Desire"
 created: '27 January 1994'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Time is a precious commodity. 

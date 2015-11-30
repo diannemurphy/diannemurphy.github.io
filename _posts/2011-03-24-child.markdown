@@ -4,7 +4,7 @@ layout: post
 title: 'Child'
 medium: 'Colour Inked Etching'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Child"
 created: '14 September 1997'
 
@@ -25,3 +25,5 @@ height:
 category: gallery
 
 ---
+
+Just get on with it.

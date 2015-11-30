@@ -4,7 +4,7 @@ layout: post
 title: "Wednesday's Child"
 medium: 'Drypoint'
 ext: .jpg
-alt: 'Colour Inked Etching'
+
 caption: "Wednesday's Child"
 created: '25 September 1991'
 
@@ -19,9 +19,10 @@ af-price:
 sa-price:
 sa-url:
 
-edition: 100
+edition: 1
 width:
 height:
 category: gallery
 
 ---
+Wednesday's child is loving and giving.
