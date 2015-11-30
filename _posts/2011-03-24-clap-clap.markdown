@@ -1,0 +1,29 @@
+---
+
+layout: post
+title: 'Clap,clap'
+medium: 'Colour Inked Etching'
+ext: .jpg
+
+caption: "Clap,clap"
+created: 14 September 1997'
+
+image: clap-clap
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+sa-price:
+sa-url:
+
+edition: 100
+width:
+height:
+category: gallery
+
+---
+
+Sew it up and be done.

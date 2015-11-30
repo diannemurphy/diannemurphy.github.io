@@ -1,0 +1,28 @@
+---
+
+layout: post
+title: 'Spend,Spend,Spent'
+medium: 'Colour Inked Etching'
+ext: .jpg
+
+caption: "Spend,Spend,Spent"
+created: 25 September 1991
+
+image: spend-spend-spent
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+sa-price:
+sa-url:
+
+edition: 100
+width:
+height:
+category: gallery
+
+---
+Is it me?

@@ -1,0 +1,30 @@
+---
+
+layout: post
+title: 'No More Bananas'
+medium: 'Colour Inked Etching'
+ext: .jpg
+
+caption: "No More Bananas"
+created: '26 October 2012'
+
+image: no-more-bananas
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+
+sa-price:
+sa-url:
+
+edition: 100
+width:
+height:
+category: gallery
+
+---
+
+There's still time.

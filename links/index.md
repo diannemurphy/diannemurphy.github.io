@@ -1,7 +1,7 @@
 ---
 
 layout: default
-
+title: Links
 ---
 
 - [Saatchi online](http://www.saatchionline.com/Murphy)

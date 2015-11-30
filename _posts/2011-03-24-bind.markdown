@@ -1,0 +1,29 @@
+---
+
+layout: post
+title: 'Bind'
+medium: 'Silkscreen Monoprint'
+ext: .jpg
+caption: "Bind"
+created: '10 September 1990'
+
+image: bind
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+
+sa-price:
+sa-url:
+
+edition: 1
+width:
+height:
+category: gallery
+
+---
+
+Tools of the trade.

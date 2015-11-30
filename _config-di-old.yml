@@ -1,0 +1,39 @@
+name: diannemurphy
+
+markdown: kramdown
+exclude: [bower_components, Gemfile, Gemfile.lock, less, '*.json', '*.rb', Gruntfile.js, README.md, node_modules, '.mdastrc', '.htmlhintrc', '.scss-lint.yml' ]
+highlighter: pygments
+paginate: 5
+permalink:     none
+
+baseurl:
+url:      http://www.diannemurphy.co.uk
+
+gems:
+# - jekyll-redirect-from
+- jekyll-sitemap
+
+
+# #testing page generation
+# page_gen:
+#   - data: 'images'
+#     template: 'artwork'
+#     name: 'id'
+#     dir: posts
+
+collections:
+  artwork:
+    description: "Dianne's artwork"
+    output: true
+
+# Setting some defaults for collections - layouts, collection information.
+# with more to follow
+
+defaults:
+ -
+   scope:
+     path: ""
+     type: artwork
+   values:
+     layout: post
+     info: Dianne

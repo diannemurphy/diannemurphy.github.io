@@ -1,0 +1,33 @@
+---
+
+layout: post
+title: 'Olympia'
+medium: 'Colour Inked Etching'
+ext: .jpg
+
+caption: "Olympia"
+created: '16 May 1991'
+
+image: olympia
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+af-url:
+
+sa-price:
+sa-url:
+
+edition: 100
+width:
+height:
+category: gallery
+
+---
+
+After Manet.
+
+![Black and White print of Olympia](/images/olympia-bw.jpg)

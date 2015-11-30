@@ -1,32 +1,29 @@
-name: diannemurphy
-
-markdown: kramdown
-exclude: [bower_components, Gemfile, Gemfile.lock, less, '*.json', '*.rb', Gruntfile.js, README.md, node_modules, '.mdastrc', '.htmlhintrc', '.scss-lint.yml' ]
-highlighter: pygments
-paginate: 5
-permalink:     none
-
-baseurl:
-url:      http://www.diannemurphy.co.uk
-
+# Dependencies
+markdown:         kramdown
+highlighter:      pygments
 gems:
-# - jekyll-redirect-from
-- jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-sitemap
+
+exclude: [bower_components, Gemfile,Gemfile.lock,Gruntfile.js,package.json,README.md,node_modules]
+
+# Permalinks
+permalink:        none
+relative_permalinks: false
+
+# Setup
+title:            Dianne Murphy
+tagline:          'Printmaker and Artist'
+description:      'Dianne Murphy is a printmaker and artist based in Wales - producing a range of limited edition hand inked etchings'
+url:              http://www.diannemurphy.co.uk
+baseurl:          /
+
+# paginate: 5
+# paginate_path: "/gallery/page:num/"
 
 
-collections:
-  artwork:
-    description: "Dianne's artwork"
-    output: true
+# Custom vars
+version:          2.1.0
 
-# Setting some defaults for collections - layouts, collection information.
-# with more to follow
-
-defaults:
- -
-   scope:
-     path: ""
-     type: artwork
-   values:
-     layout: post
-     info: Dianne
+github:
+  repo:           https://github.com/poole/hyde

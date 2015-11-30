@@ -1,0 +1,31 @@
+---
+
+layout: post
+title: 'Captain Black (Human Convert)'
+medium: 'Colour Inked Etching'
+ext: .jpg
+
+caption: "Captain Black (Human Convert)"
+created: '18 March 2014'
+
+image: capt-black
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+af-url: https://www.artfinder.com/product/capt-black/
+
+sa-price:
+sa-url:
+
+edition: 100
+width:
+height:
+category: gallery
+
+---
+
+His broken heart has made him vulnerable and the dark side is using him as their puppet.

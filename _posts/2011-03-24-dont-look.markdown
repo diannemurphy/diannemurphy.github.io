@@ -1,0 +1,29 @@
+---
+
+layout: post
+title: "Don't look forward until you drop"
+medium: 'Colour Inked Etching'
+ext: .jpg
+
+caption: "Don't look forward until you drop"
+created: '25 September 1991'
+
+image: dont-look
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+sa-price:
+sa-url:
+
+edition: 100
+width:
+height:
+category: gallery
+
+---
+
+When will my prince come?

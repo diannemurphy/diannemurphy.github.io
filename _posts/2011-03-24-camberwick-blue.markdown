@@ -1,0 +1,29 @@
+---
+
+layout: post
+title: 'Camberwick Blue'
+medium: 'Colour Inked Etching'
+ext: .jpg
+
+caption: ""
+created: '29 March 1989'
+
+image: camberwick-blue
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+sa-price:
+sa-url:
+
+edition: 100
+width:
+height:
+category: gallery
+
+---
+
+Thatcher's Britain.

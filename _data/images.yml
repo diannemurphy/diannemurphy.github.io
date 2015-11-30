@@ -1,7 +1,7 @@
 ---
 
 - id: 'dere-ma'
-  name: "Der 'ma i fi"
+  title: "Der 'ma i fi"
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: 'Colour Inked Etching'
@@ -10,7 +10,7 @@
   url: dere-ma
 
 - id: 'capt-scarlet'
-  name: 'Captain Scarlet (Indestructable)'
+  title: 'Captain Scarlet (Indestructable)'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '15'
@@ -23,7 +23,7 @@
 Captain Scarlet can show him the way but first he must play the ace of hearts."
 
 - id: 'capt-black'
-  name: 'Captain Black (Human Convert)'
+  title: 'Captain Black (Human Convert)'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: 16
@@ -33,7 +33,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   date: 2014-03-18
   url: capt-black
 - id: 'the-love-machine'
-  name: the-love-machine
+  title: the-love-machine
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '16'
@@ -44,15 +44,15 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: the-love-machine
 
 - id: 'square-go'
-  name: square-go.jpg
+  title: "Square Go"
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: ''
   caption: 'Square Go'
   date: '2013-03-22 20:40:48'
 
-- id: '66'
-  name: square-go.jpg
+- id: 'square-go-bw'
+  title: "Square Go (Black and White)"
   category: 'Black & White Inked Etching'
   ext: .jpg
   w: '326'
@@ -60,8 +60,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: ''
   caption: 'Square Go'
   date: '2013-03-22 20:40:48'
-- id: '63'
-  name: no-more-bananas.jpg
+- id: 'no-more-bananas'
+  title: "No mmore bananas"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '697'
@@ -69,26 +69,26 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: ''
   caption: No More Bananas
   date: '2012-10-26 18:01:43'
-- id: '64'
-  name: astro-man.jpg
+- id: 'astroman'
+  title: astroman
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '578'
   h: '803'
   alt: ''
-  caption: Astro Man
+  caption: Astroman
   date: '2012-10-27 19:59:08'
 
 - id: 'looking-out-looking-in'
-  name: 'looking-out-or-looking-in?'
+  title: 'looking-out-or-looking-in?'
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: 'Looking-out-or-looking-in?'
   caption: 'Looking-out-or-looking-in?'
   date: '2013-05-11 19:23:11'
 
-- id: '68'
-  name: 'looking-out-or-looking-in?'
+- id: 'looking-out-or-looking-in-bw'
+  title: 'looking-out-or-looking-in?'
   category: 'Black & White Inked Etching'
   ext: .png
   w: '600'
@@ -96,8 +96,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: 'Looking-out-or-looking-in?'
   caption: 'Looking-out-or-looking-in?'
   date: '2013-05-11 19:23:11'
-- id: '2'
-  name: eatup.jpg
+- id: eat-up
+  title: "Eat Up"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '468'
@@ -106,14 +106,14 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: Eat Up
   date: '1993-09-11 10:52:01'
 - id: 'everyday-i-write-the-book'
-  name: everyday-i-write-the-book.jpg
+  title: everyday-i-write-the-book.jpg
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: Everyday I write the book
   caption: Everyday I write the book
   date: '1994-09-11 10:16:15'
-- id: '3'
-  name: adinfinitum.jpg
+- id: 'ad-infinitum'
+  title: "Ad Infinitum"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
@@ -121,8 +121,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Ad Infinitum
   caption: Colour Inked 'Colour Inked Etching'
   date: '2004-09-14 20:23:13'
-- id: '4'
-  name: Baggage
+- id: 'baggage'
+  title: Baggage
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '144'
@@ -130,17 +130,17 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Baggage
   caption: 'Colour Inked Etching'
   date: '1991-09-14 20:23:13'
-- id: '5'
-  name: boymeetsgirl.jpg
+- id: 'boy-meets-girl'
+  title: 'Boy meets Girl'
   category: Silkscreen Monoprint
   ext: .jpg
   w: '450'
   h: '272'
-  alt: Boy meets girl
+  alt: 'Boy meets girl'
   caption: Silkscreen Monoprint
   date: '2004-09-14 21:05:01'
-- id: '6'
-  name: child.jpg
+- id: 'child'
+  title: child
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
@@ -148,8 +148,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Child
   caption: 'Child'
   date: '1997-09-14 21:15:45'
-- id: '7'
-  name: clapclap.jpg
+- id: 'clap-clap'
+  title: 'Clap, Clap'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
@@ -157,8 +157,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: "Clap,Clap"
   caption: "Clap,clap"
   date: '1997-09-14 21:20:44'
-- id: '8'
-  name: overthere.jpg
+- id: 'over-there'
+  title: "Over There"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '600'
@@ -166,8 +166,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Over There
   caption: Over there
   date: '1994-09-16 22:02:40'
-- id: '11'
-  name: danceandbemerry.jpg
+- id: 'dance-and-be-merry'
+  title: 'Dance and be merry...'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
@@ -175,17 +175,17 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Dance and be merry..
   caption: 'Dance and be merry...'
   date: '1988-09-25 15:13:23'
-- id: '12'
-  name: dontlook.jpg
+- id: 'dont-look'
+  title: "Don't look forward until you drop"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
   h: '491'
-  alt: Don't look forward until you drop
+  alt: "Don't look forward until you drop"
   caption: "Don't look forward until you drop"
   date: '1991-09-25 15:20:28'
-- id: '13'
-  name: eeniemeenie.jpg
+- id: 'eenie-meenie-miney'
+  title: 'Eenie Meenie Miney'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
@@ -193,8 +193,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Eenie Meenie Miney
   caption: Eenie Meenie Miney
   date: '1991-09-25 15:23:43'
-- id: '14'
-  name: eesh.jpg
+- id: 'eesh'
+  title: eesh
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
@@ -202,8 +202,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Eesh
   caption: Eesh
   date: '1991-09-25 15:26:03'
-- id: '15'
-  name: face-values.jpg
+- id: 'face-values'
+  title: 'Face Values'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '700'
@@ -211,44 +211,44 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Face values
   caption: Face values
   date: '1990-05-16 20:54:31'
-- id: '16'
-  name: friday.jpg
+- id: 'fridays-child-is-loving-and-giving'
+  title: "Friday's child is loving and giving"
   category: Drypoint
   ext: .jpg
   w: '468'
   h: '691'
-  alt: Friday's child is loving and giving
-  caption: Friday's child is loving and giving
+  alt: "Friday's child is loving and giving"
+  caption: "Friday's child is loving and giving"
   date: '2004-09-25 15:35:24'
-- id: '17'
-  name: funandgames.jpg
+- id: 'fun-and-games'
+  title: "Fun and Games"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '453'
   h: '495'
-  alt: Fun and Games
-  caption: Fun and Games
+  alt: "Fun and Games"
+  caption: "Fun and Games"
   date: '1986-09-25 15:37:40'
-- id: '19'
-  name: holdme.jpg
+- id: 'hold-me-baby'
+  title: "Hold me baby"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
   h: '308'
-  alt: Hold me baby
-  caption: Hold me baby
+  alt: "Hold me baby"
+  caption: "Hold me baby"
   date: '1991-09-25 15:41:10'
-- id: '20'
-  name: lifecycles.jpg
+- id: 'lifecycles'
+  title: "Life Cycles"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
   h: '671'
-  alt: Life Cycles
-  caption: Life Cycles
+  alt: " Life Cycles"
+  caption: "Life Cycles"
   date: '1994-09-25 15:43:21'
-- id: '57'
-  name: 57.jpg
+- id: 'star'
+  title: "Star"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '150'
@@ -256,44 +256,40 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Star
   caption: Star
   date: '2005-04-17 10:31:52'
-- id: '23'
-  name: monday.jpg
+- id: 'mondays-child'
+  title: "Monday's Child"
   category: Drypoint
   ext: .jpg
   w: '477'
   h: '703'
-  alt: Monday's Child
-  caption: Monday's Child
+  caption: "Monday's Child"
   date: '2004-09-25 15:49:00'
-- id: '24'
-  name: pencilcase.jpg
+- id: 'pencil-case'
+  title: pencilcase
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '478'
   h: '340'
-  alt: Pencil Case
-  caption: Pencil Case
+  caption: "Pencil Case"
   date: '2004-09-25 15:51:01'
-- id: '25'
-  name: pushmepullyou.jpg
+- id: 'push-me-pull-you'
+  title: "Push Me Pull You"
   category: Silkscreen Monoprint
   ext: .jpg
   w: '544'
   h: '785'
-  alt: Push me Pull you
-  caption: Push me Pull you
+  caption: "Push Me Pull You"
   date: '2004-09-25 15:56:28'
-- id: '26'
-  name: sabbath.jpg
+- id: 'the-child-born-on-the-sabbath'
+  title: "The Child born on the sabbath"
   category: Drypoint
   ext: .jpg
   w: '304'
   h: '441'
-  alt: The child born on the Sabbath
-  caption: The child born on the Sabbath
+  caption: "The Child born on the sabbath"
   date: '2004-09-25 15:58:02'
 - id: 'push-kick-shove'
-  name: shove.jpg
+  title: "Push Kick and Shove"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '450'
@@ -301,8 +297,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: 'Push, Kick and Shove'
   caption: 'Push, Kick and Shove'
   date: '2003-09-25 16:00:14'
-- id: '28'
-  name: spendspendspent.jpg
+- id: 'spend-spend-spent'
+  title: "Spend, Spend, Spent"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '548'
@@ -310,8 +306,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: 'Spend,Spend,Spent'
   caption: 'Spend,Spend,Spent'
   date: '1991-09-25 16:02:53'
-- id: '29'
-  name: thisthat.jpg
+- id: 'this-that-and-the-other'
+  title: "This, that and the other"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '410'
@@ -319,53 +315,48 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: 'This, that and the other'
   caption: 'This, that and the other'
   date: '1991-09-25 16:04:27'
-- id: '30'
-  name: toolate.jpg
+- id: 'too-late-now'
+  title: "Too late now"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '458'
   h: '707'
-  alt: Too late now
-  caption: Too late now
+  caption: "Too late now"
   date: '1991-09-25 16:05:37'
-- id: '31'
-  name: tuesday.jpg
+- id: 'tuesdays-child'
   category: Drypoint
   ext: .jpg
   w: '423'
   h: '620'
-  alt: Tuesday's Child
-  caption: Tuesday's Child
+  title: "Tuesday's Child"
+  caption: "Tuesday's Child"
   date: '2004-09-25 16:07:49'
-- id: '33'
-  name: wednesdayschild.jpg
+- id: 'wednesdays-child'
   category: Drypoint
   ext: .jpg
   w: '423'
   h: '622'
-  alt: Wednesday's Child
-  caption: Wednesday's Child
+  title: "Wednesday's Child"
+  caption: "Wednesday's Child"
   date: '2004-09-25 16:11:28'
-- id: '35'
-  name: woodenheart.jpg
+- id: 'for-i-dont-have-a-wooden-heart'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '211'
   h: '546'
-  alt: "For I don't have a wooden Heart"
+  title: "For I don't have a wooden Heart"
   caption: "For I don't have a wooden Heart"
   date: '1991-09-25 16:13:57'
-- id: '36'
-  name: olympiaetching.jpg
+- id: 'olympia'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '600'
   h: '447'
-  alt: Olympia
-  caption: ''
+  title: "Olympia"
+  caption: 'Olympia'
   date: '2005-01-21 22:55:43'
 - id: 'cant'
-  name: cant.jpg
+  title: cant.jpg
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '169'
@@ -373,233 +364,208 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: Can't
   caption: Can't
   date: '1988-01-27 13:57:39'
-- id: '39'
-  name: clownio.jpg
+- id: 'clownio'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '600'
   h: '818'
-  alt: Clownio
+  title: 'Clownio'
   caption: 'Clownio'
   date: '1986-05-16 20:45:16'
-- id: '40'
-  name: daddydear.jpg
+- id: 'daddy-dear'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '400'
   h: '497'
-  alt: ''
+  title: 'Daddy Dear'
   caption: ''
   date: '2005-01-27 14:14:53'
-- id: '41'
-  name: desire.jpg
+- id: 'desire'
+
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '200'
   h: '437'
-  alt: Desire
+  title: 'Desire'
   caption: 'Desire'
   date: '1994-01-27 14:19:19'
-- id: '42'
-  name: getknotted.jpg
+- id: 'get-knotted'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '200'
   h: '624'
-  alt: Get knotted
+  title: "Get knotted"
   caption: ''
   date: '1991-01-27 14:21:13'
-- id: '43'
-  name: juststayyoungandbeautiful.jpg
+- id: 'just-stay-young-and-beautiful'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '400'
   h: '528'
-  alt: ''
+  title: 'Just stay young and beautiful'
   caption: ''
   date: '2005-01-27 14:23:37'
-- id: '44'
-  name: maidorhonour.jpg
+- id: 'maid-or-honour'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '400'
   h: '528'
-  alt: Maid or honour
+  alt: "Maid or honour"
   caption: ''
   date: '2005-01-27 14:26:12'
-- id: '45'
-  name: makeorbreak.jpg
+- id: 'make-or-break'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '400'
   h: '535'
-  alt: Make or break
+  title: "Make or break"
   caption: ''
   date: '2005-01-27 14:28:35'
-- id: '46'
-  name: pare.jpg
+- id: 'pare'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '400'
   h: '569'
-  alt: Pare
+  title: "Pare"
   caption: 'Pare'
   date: '1992-01-27 14:30:31'
-- id: '47'
-  name: pastcutouts.jpg
+- id: 'past-cut-outs'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
   h: '323'
-  alt: Past cut-outs
+  title: "Past cut-outs"
   caption: 'Past Cut Outs'
   date: '1986-01-27 14:32:35'
-- id: '48'
-  name: problem-sums.jpg
+- id: 'problem-sums'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '700'
   h: '490'
-  alt: Problem Sums
+  title: "Problem Sums"
   caption: ''
   date: '1986-05-16 20:43:29'
-- id: '49'
-  name: skeweredmemories.jpg
+- id: 'skewered-memories'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
   h: '333'
-  alt: Skewered Memories
+  title: "Skewered Memories"
   caption: ''
   date: '1986-01-27 14:37:58'
-- id: '50'
-  name: strive.jpg
+- id: 'strive'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '200'
   h: '223'
-  alt: Strive
+  title: "Strive"
   caption: 'Strive'
   date: '1994-01-27 14:40:10'
-- id: '51'
-  name: sweet-rewards.jpg
+- id: 'sweet-rewards'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '770'
   h: '428'
-  alt: Sweet Rewards
+  title: "Sweet Rewards"
   caption: 'Sweet Rewards'
   date: '1986-09-23 19:08:58'
-- id: '52'
-  name: thesunthemoomandthestars.jpg
+- id: 'the-sun-the-moon-and-the-stars'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
   h: '805'
-  alt: The sun the moon and the stars
+  title: "The sun the moon and the stars"
   caption: 'The sun the moon and the stars'
   date: '1997-01-27 14:44:31'
-- id: '53'
-  name: thethirteenthday.jpg
+- id: 'the-thirteenth-day'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '400'
   h: '578'
-  alt: The thirteenth day
+  title: "The thirteenth day"
   caption: 'The Thirteenth Day'
   date: '1989-01-27 14:47:52'
-- id: '55'
-  name: lovelygrub.jpg
+- id: 'lovely-grub'
   category: Silkscreen Monoprint
   ext: .jpg
   w: '600'
   h: '397'
-  alt: Lovely Grub
+  alt: "Lovely Grub"
   caption: ''
   date: '2005-02-13 15:04:03'
-- id: '58'
-  name: thursday.jpg
+- id: 'thursdays-child'
   category: Drypoint
   ext: .jpg
   w: '600'
   h: '415'
-  alt: Thursday's Child
+  title: "Thursday's Child"
   caption: ''
   date: '2005-02-13 15:21:03'
 
-- id: '61'
-  name: dere-'ma-i-fi.jpg
+- id: 'dere-ma-i-fi'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
   h: '911'
-  caption: "'Dere 'ma i fi'"
+  title: "'Dere 'ma i fi'"
   date: '2007-05-16 20:50:36'
-- id: '65'
-  name: the-magician-txp.jpg
+- id: 'the-magician'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
   h: '698'
   alt: ''
-  caption: The Magician
+  title: The Magician
   date: '2013-04-10 19:46:33'
-- id: '67'
-  name: camberwick-blue.jpg
+- id: 'camberwick-blue'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '1200'
   h: '856'
   alt: ''
-  caption: 'Camberwick Blue'
+  title: 'Camberwick Blue'
   date: '1989-03-29 16:50:24'
-- id: '69'
-  name: color-me-blue.jpg
+- id: 'colour-me-blue'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '600'
   h: '828'
   alt: 'Colour Inked Etching'
-  caption: 'Colour me blue'
+  title: 'Colour me blue'
   date: '2013-05-12 12:06:25'
-- id: '70'
-  name: black-and-white-scraps.jpg
+- id: 'black-and-white-scraps'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '700'
   h: '977'
   alt: ''
-  caption: 'Black & White Scraps'
+  title: 'Black & White Scraps'
   date: '1986-05-12 12:11:20'
-- id: '71'
-  name: wee-lassie.jpg
+- id: 'wee-lassie'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
   h: '830'
   alt: ''
-  caption: ''
+  title: 'Wee Lassie'
   date: '2013-05-12 12:17:30'
-- id: '72'
-  name: edinburgh-rock.jpg
+- id: 'edinburgh-rock'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '800'
   h: '635'
-  alt: Edinburgh Rock
-  caption: ''
+  title: Edinburgh Rock
   date: '1988-05-15 20:40:43'
-- id: '73'
-  name: three-hail-marys.jpg
+- id: 'three-hail-marys'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '600'
   h: '953'
-  alt: 'Colour Inked Etching'
+  title: 'Three Hail Marys'
   caption: ''
   date: '2013-05-15 20:44:23'
-- id: '75'
-  name: for-i-dont-have-a-wooden-heart.jpg
+- id: 'for-i-dont-have-a-wooden-heart-bw'
+  title: "For I don't have a wooden heart"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '400'
@@ -607,35 +573,32 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: ''
   caption: ''
   date: '2013-05-15 20:54:28'
-- id: '76'
-  name: manet's-olympia.jpg
+- id: 'olympia-bw'
+  title: "Olympia black and white"
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '800'
   h: '598'
   alt: ''
-  caption: 'Olympia'
   date: '1991-05-16 20:46:50'
-- id: '77'
-  name: twist.jpg
+- id: 'twist'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '400'
   h: '758'
   alt: ''
-  caption: 'Twist'
+  title: 'Twist'
   date: '1993-09-23 19:02:34'
-- id: '78'
-  name: blessed-with-child.jpg
+- id: 'blessed-with-child'
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
   h: '671'
   alt: ''
-  caption: 'Blessed with Child'
+  title: 'Blessed with Child'
   date: '1996-10-19 18:52:21'
 - id: 'come-play-with-me-bw'
-  name: come-play-with-me(bw)
+  title: come-play-with-me(bw)
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
@@ -643,9 +606,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   alt: ''
   caption: 'Come play with me'
   date: '1987-10-19 18:52:40'
-
 - id: 'african-queen'
-  name: african-queen
+  title: african-queen
   category: 'Colour Inked Etching'
   ext: .jpg
   w: '500'
@@ -654,9 +616,8 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   caption: ''
   date: '1986-10-19'
   url:   african-queen
-
 - id: 'bind1'
-  name: "Bind"
+  title: "Bind"
   category: 'Silkscreen Monoprint'
   ext: .jpg
   alt: 'Silkscreen Monoprint'
@@ -665,7 +626,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: bind1
 
 - id: 'bind2'
-  name: "Bind"
+  title: "Bind"
   category: 'Silkscreen Monoprint'
   ext: .jpg
   alt: 'Silkscreen Monoprint'
@@ -674,7 +635,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: bind2
 
 - id: 'boy-meets-girl'
-  name: "Boy Meets Girl"
+  title: "Boy Meets Girl"
   category: 'Silkscreen Monoprint'
   ext: .jpg
   alt: 'Silkscreen Monoprint'
@@ -683,7 +644,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: boy-meets-girl
 
 - id: 'stop-paying-that-piper'
-  name: "Stop Paying that Piper"
+  title: "Stop Paying that Piper"
   category: 'Silkscreen Monoprint'
   ext: .jpg
   alt: 'Silkscreen Monoprint'
@@ -692,7 +653,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: stop-paying-that-piper
 
 - id: 'stop-paying-that-piper2'
-  name: "Stop Paying that Piper"
+  title: "Stop Paying that Piper"
   category: 'Silkscreen Monoprint'
   ext: .jpg
   alt: 'Silkscreen Monoprint'
@@ -701,7 +662,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: stop-paying-that-piper2
 
 - id: 'measure-of-success'
-  name: "Measure of Success"
+  title: "Measure of Success"
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: 'Colour Inked Etching'
@@ -710,7 +671,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: measure-of-success
 
 - id: 'can-you-really-pronounce-it'
-  name: "Can you really pronounce it?"
+  title: "Can you really pronounce it?"
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: 'Colour Inked Etching'
@@ -719,7 +680,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: can-you-really-pronounce-it
 
 - id: 'learn-learn'
-  name: "Learn! Learn?"
+  title: "Learn! Learn?"
   category: 'Silkscreen'
   ext: .jpg
   alt: 'Silkscreen'
@@ -728,7 +689,7 @@ Captain Scarlet can show him the way but first he must play the ace of hearts."
   url: learn-learn
 
 - id: 'field-at-vallorcines'
-  name: "Field at Vallorcines"
+  title: "Field at Vallorcines"
   category: 'Colour Inked Etching'
   ext: .jpg
   alt: 'Colour Inked Etching'

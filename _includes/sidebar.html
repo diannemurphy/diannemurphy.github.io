@@ -1,0 +1,23 @@
+<div class="sidebar">
+  <div class="container">
+    <div class="sidebar-about">
+      <div class="portrait"></div>
+      <h1>
+        <a href="{{ site.baseurl }}">
+          {{ site.title }}
+        </a>
+      </h1>
+      <p class="lead">{{ site.tagline }}</p>
+    </div>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item" href="{{ site.baseurl }}">About my work</a>
+      <a class="sidebar-nav-item" href="/cv">CV</a>
+      <a class="sidebar-nav-item" href="/gallery">Gallery</a>
+      <a class="sidebar-nav-item" href="/links">Links</a>
+
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>

@@ -1,0 +1,30 @@
+---
+
+layout: post
+title: 'Baggage'
+medium: 'Colour Inked Etching'
+ext: .jpg
+
+caption: "Colour Inked Etching"
+created: '14 September 1991'
+
+image: baggage
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+
+sa-price:
+sa-url:
+
+edition: 100
+width:
+height:
+category: gallery
+
+---
+
+Leave the pain behind.

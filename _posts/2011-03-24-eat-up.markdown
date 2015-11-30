@@ -1,0 +1,29 @@
+---
+
+layout: post
+title: 'Eat Up'
+medium: 'Colour Inked Etching'
+ext: .jpg
+
+caption: "Eat Up"
+created: '11 September 1993'
+
+image: eat-up
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+sa-price:
+sa-url:
+
+edition: 100
+width:
+height:
+category: gallery
+
+---
+
+The damaged can be mean.

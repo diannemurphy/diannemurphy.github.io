@@ -1,0 +1,31 @@
+---
+
+layout: post
+title: 'Astroman'
+medium: 'Colour Inked Etching'
+ext: .jpg
+
+caption: "Astroman"
+created: '27 October 2012'
+date: '27 October 2012'
+image: astroman
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+af-url: https://www.artfinder.com/product/astro-man/
+
+sa-price:
+sa-url:
+
+edition: 100
+width:
+height:
+category: gallery
+
+---
+
+Toy robot with a sexual twist.

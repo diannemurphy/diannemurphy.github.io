@@ -1,0 +1,29 @@
+---
+
+layout: post
+title: 'Wee Lassie'
+medium: 'Colour Inked Etching'
+ext: .jpg
+
+caption: ""
+created: '24 March 1993'
+image: wee-lassie
+tags:
+  - childhood
+
+af-price:
+af-subject: abstract and conceptual
+af-style: illustrative
+af-price:
+af-url: https://www.artfinder.com/product/wee-lassie/
+sa-price:
+sa-url:
+
+edition: 100
+width:
+height:
+category: gallery
+
+---
+
+Armed and dangerous.
