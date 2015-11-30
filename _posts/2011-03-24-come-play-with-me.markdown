@@ -8,7 +8,7 @@ ext: .jpg
 caption: "Come play with me"
 created: '19 October 1987'
 
-image: come-play-with-me-bw
+image: come-play-with-me
 tags:
   - childhood
 
