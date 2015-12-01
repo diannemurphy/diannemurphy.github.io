@@ -11,17 +11,23 @@ created: '23 September 1986'
 image: sweet-rewards
 tags:
   - childhood
+  - rewards
+  - sweets
+  - women
+  - childhood
+  - life
+  - lollipop
 
 af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
-sa-price:
-sa-url:
+
+sa-price: $395
+sa-url: http://www.saatchiart.com/art/Printmaking-Sweet-Rewards/19454/1608030/view
 
 edition: 100
-width:
-height:
+width: 45
+height: 22
 category: gallery
 
 ---

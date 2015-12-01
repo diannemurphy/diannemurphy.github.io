@@ -10,14 +10,18 @@ created: '25 September 1994'
 
 image: lifecycles
 tags:
-  - childhood
+  - queen
+  - wings
+  - angel
+  - empress
+  - motherhood
 
 af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
-sa-price:
-sa-url:
+
+sa-price: $500
+sa-url: http://www.saatchiart.com/art/Printmaking-Life-cycles/19454/1637570/view
 
 edition: 100
 width:

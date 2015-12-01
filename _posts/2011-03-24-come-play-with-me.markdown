@@ -10,14 +10,20 @@ created: '19 October 1987'
 
 image: come-play-with-me
 tags:
-  - childhood
+  - puberty
+  - Jack in the box
+  - sex
+  - clown
+  - condoms
+  - fun
+  - games
 
 af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
-sa-price:
-sa-url:
+
+sa-price: $250
+sa-url: http://www.saatchiart.com/art/Printmaking-Come-play-with-me/19454/1611566/view
 
 edition: 100
 width:

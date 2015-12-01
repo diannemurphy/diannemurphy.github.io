@@ -10,19 +10,23 @@ created: '7 December 2013'
 
 image: the-love-machine
 tags:
-  - childhood
-
-af-price:
+  - relationships
+  - romance
+  - wooden toy
+  - kiss
+  - love
+  -
+af-price: 130
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
+
 af-url: https://www.artfinder.com/product/the-love-machine/
-sa-price:
-sa-url:
+sa-price: $220
+sa-url: http://www.saatchiart.com/art/Printmaking-The-Love-Machine/19454/1835529/view
 
 edition: 100
-width:
-height:
+width: 27
+height: 29
 category: gallery
 
 ---

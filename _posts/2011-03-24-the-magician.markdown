@@ -11,13 +11,23 @@ created: '10 April 2013'
 image: the-magician
 tags:
   - childhood
+  - sex
+  - tarot
+  - women
+  - Feminsism
+  - childhood
+  - empowerment
+  - education
+  - life
+  - love
+  - motherhood
 
 af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
+
 sa-price:
-sa-url:
+sa-url: http://www.saatchiart.com/art/Printmaking-The-Magician/19454/1461974/view
 
 edition: 100
 width:

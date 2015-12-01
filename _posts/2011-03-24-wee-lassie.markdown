@@ -10,18 +10,26 @@ created: '24 March 1993'
 image: wee-lassie
 tags:
   - childhood
+  - relationships
+  - toys
+  - women
+  - Scotland
+  - scottish
+  - doll
+  - dolls
+  - green
 
-af-price:
+af-price: 115
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
+
 af-url: https://www.artfinder.com/product/wee-lassie/
-sa-price:
-sa-url:
+sa-price: $195
+sa-url: http://www.saatchiart.com/art/Printmaking-Wee-Lassie/19454/1608044/view
 
 edition: 100
-width:
-height:
+width: 17
+height: 29
 category: gallery
 
 ---

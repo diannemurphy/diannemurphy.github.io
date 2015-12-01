@@ -20,12 +20,9 @@ tags:
   - Gamble
   - Puppet
 
-price:
-  - "£120"
-
 af-subject: "abstract and conceptual"
 af-style: illustrative
-af-price: 119.51
+af-price: 120
 af-url: https://www.artfinder.com/product/mephisto-leibt-es-zu-spielen/
 
 sa-price: $184

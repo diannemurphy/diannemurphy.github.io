@@ -11,19 +11,25 @@ date: '27 October 2012'
 image: astroman
 tags:
   - childhood
+  - robots
+  - sex
+  - space
+  - toys
+  - feminism
+  - man
+  - marriage
 
-af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
+af-price: 120
 af-url: https://www.artfinder.com/product/astro-man/
 
-sa-price:
-sa-url:
+sa-price: $205
+sa-url: http://www.saatchiart.com/art/Printmaking-Astro-Man/19454/1461975/view
 
 edition: 100
-width:
-height:
+width: 18
+height: 23
 category: gallery
 
 ---

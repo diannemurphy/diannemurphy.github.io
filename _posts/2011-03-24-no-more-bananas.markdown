@@ -10,7 +10,12 @@ created: '26 October 2012'
 
 image: no-more-bananas
 tags:
-  - childhood
+  - robot
+  - tarot
+  - toys
+  - women
+  - environmental
+  - feminism
 
 af-price:
 af-subject: abstract and conceptual
@@ -18,7 +23,7 @@ af-style: illustrative
 af-price:
 
 sa-price:
-sa-url:
+sa-url: http://www.saatchiart.com/art/Printmaking-No-More-Bananas/19454/1461971/view
 
 edition: 100
 width:

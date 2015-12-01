@@ -10,13 +10,19 @@ created: '23 September 1993'
 image: twist
 tags:
   - childhood
+  - women
+  - relationships
+  - doll
+  - marriage
+  - oppression
 
 af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
 sa-price:
-sa-url:
+sa-url: http://www.saatchiart.com/art/Printmaking-Twist/19454/834652/view
+sa-size: 4.8 H x 11 W x 0 in
 
 edition: 100
 width:

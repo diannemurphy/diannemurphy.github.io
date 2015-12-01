@@ -10,14 +10,19 @@ created: '12 May 1986'
 
 image: black-and-white-scraps
 tags:
+  - play
+  - Scotland
+  - scottish
   - childhood
-
+  - children
+  - Scraps
+  - memories
 af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
-sa-price:
-sa-url:
+
+sa-price: $125
+sa-url: http://www.saatchiart.com/art/Printmaking-Black-and-White-Scraps/19454/1608059/view
 
 edition: 100
 width:

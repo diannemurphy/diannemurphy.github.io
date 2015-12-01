@@ -11,13 +11,19 @@ created: '27 January 1994'
 image: strive
 tags:
   - childhood
+  - work
+  - childhood
+  - career
+  - doll
+  - dolls
+  - artist
+  - motherhood
 
-af-price:
+af-price: 90
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
-sa-price:
-sa-url:
+sa-price: $155
+sa-url: http://www.saatchiart.com/art/Printmaking-Strive/19454/834650/view
 
 edition: 100
 width:

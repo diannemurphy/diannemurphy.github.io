@@ -22,8 +22,8 @@ sa-price:
 
 
 edition: 100
-width:
-height:
+width: 6.5
+height: 16
 ---
 
 A welcome handshake or a punch in the jaw? In the moment we are oblivious.

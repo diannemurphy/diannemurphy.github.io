@@ -11,18 +11,23 @@ created: '11 May 2013'
 image: looking-out-looking-in
 tags:
   - childhood
+  - political
+  - toys
+  - war
+  - childhood
+  - army
 
-af-price:
+af-price: 115
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
+
 af-url: https://www.artfinder.com/product/looking-out-looking-in/
-sa-price:
-sa-url:
+sa-price: $120
+sa-url: http://www.saatchiart.com/art/Printmaking-Looking-out-or-looking-in/19454/1962589/view
 
 edition: 100
-width:
-height:
+width: 23
+height: 27
 category: gallery
 
 ---

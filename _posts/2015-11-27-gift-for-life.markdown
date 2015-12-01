@@ -19,7 +19,7 @@ tags:
 
 af-subject: "abstract and conceptual"
 af-style: illustrative
-af-price:
+af-price: 120
 af-url: https://www.artfinder.com/product/gift-for-life/
 sa-tags:
   - birth
@@ -34,8 +34,8 @@ sa-url: http://www.saatchiart.com/art/Printmaking-Gift-for-Life/19454/2232322/vi
 
 
 edition: 100
-width:
-height:
+width: 21
+height: 23
 ---
 
 In the end we're the next in line.

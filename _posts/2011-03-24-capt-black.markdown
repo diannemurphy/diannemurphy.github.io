@@ -10,20 +10,24 @@ created: '18 March 2014'
 
 image: capt-black
 tags:
-  - childhood
+  - toys
+  - boys
+  - action figure
+  - good vs evil
+  - Captain Black
+  - men
 
-af-price:
+af-price: 220
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
 af-url: https://www.artfinder.com/product/capt-black/
 
-sa-price:
-sa-url:
+sa-price: $380
+sa-url: http://www.saatchiart.com/art/Printmaking-Captain-Black-human-convert/19454/1962580/view
 
 edition: 100
-width:
-height:
+width: 23
+height: 49
 category: gallery
 
 ---

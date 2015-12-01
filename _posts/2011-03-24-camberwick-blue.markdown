@@ -10,14 +10,23 @@ created: '29 March 1989'
 
 image: camberwick-blue
 tags:
-  - childhood
+  - police
+  - politics
+  - poverty
+  - racism
+  - society
+  - city scene
+  - inequality
+  - economics
+  - housing
+  - landscape
 
 af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
-sa-price:
-sa-url:
+
+sa-price: $500
+sa-url: http://www.saatchiart.com/art/Printmaking-Camberwick-Blue/19454/1609129/view
 
 edition: 100
 width:

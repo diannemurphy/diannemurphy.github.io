@@ -10,20 +10,24 @@ created: '18 March 2014'
 
 image: capt-scarlet
 tags:
+  - toys
+  - boys
+  - good vs evil
   - childhood
+  - Captain Scarlet
 
 af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
+af-price: 250
 af-url: https://www.artfinder.com/product/capt-scarlet/
 
-sa-price:
-sa-url:
+sa-price: $420
+sa-url: http://www.saatchiart.com/art/Printmaking-Captain-Scarlet-indestructable/19454/1962565/view
 
 edition: 100
-width:
-height:
+width: 24
+height: 50
 category: gallery
 
 ---

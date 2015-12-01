@@ -9,14 +9,22 @@ created: '25 September 1986'
 
 image: open-wide
 tags:
-  - childhood
+  - pencils
+  - pens
+  - school
+  - Scotland
+  - scottish
+  - education
+  - grey
+  - Pencilcase
+  - memories
 
 af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
-af-price:
-sa-price:
-sa-url:
+
+sa-price: $195
+sa-url: http://www.saatchiart.com/art/Printmaking-Open-Wide/19454/1608068/view
 
 edition: 100
 width:
