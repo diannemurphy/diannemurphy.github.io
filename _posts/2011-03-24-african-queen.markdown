@@ -17,6 +17,7 @@ af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
 
+sweet-url: http://www.wearesweetart.com/#!product/prd17/3568613581/dianne-murphy-%22african-queen%22
 sa-price:
 sa-url:
 

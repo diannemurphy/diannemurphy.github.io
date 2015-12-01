@@ -23,7 +23,7 @@ af-subject: "abstract and conceptual"
 af-style: illustrative
 af-url: https://www.artfinder.com/product/axis-mundis-thread-b951/
 af-desc: "Connect to repair and move forward"
-
+sweet-url: http://www.wearesweetart.com/#!product/prd17/3568623811/dianne-murphy-%22axis-mundi's-thread%22
 edition: 100
 width: 18
 height: 29

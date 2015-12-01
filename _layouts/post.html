@@ -19,14 +19,21 @@ layout: default
     <li class='post-date'>Page updated {{ page.date | date_to_long_string }}</li>
   </ul>
 
-  <div class="external">
+{% if page.af-url or page.sa-url or page.sweet-url %}
+<h4>Buy work from these sites</h4>
+  <ul class="external">
     {% if page.af-url %}
-      <a href="{{ page.af-url }}">Artfinder</a>
+      <li><a href="{{ page.af-url }}">Artfinder</a></li>
     {% endif %}
     {% if page.sa-url %}
-      <a href="{{ page.sa-url }}">Saatchi Art</a>
+      <li><a href="{{ page.sa-url }}">Saatchi Art</a></li>
     {% endif %}
-  </div>
+    {% if page.sweet-url %}
+      <li><a href="{{ page.sweet-url }}">Sweet Art Gallery</a></li>
+    {% endif %}
+  </ul>
+{% endif %}
+
 
 
 </div>

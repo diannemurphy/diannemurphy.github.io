@@ -21,7 +21,7 @@ af-price: 115
 af-subject: abstract and conceptual
 af-style: illustrative
 
-af-url: https://www.artfinder.com/product/looking-out-looking-in/
+af-url: https://www.artfinder.com/product/looking-out-or-looking-in/
 sa-price: $120
 sa-url: http://www.saatchiart.com/art/Printmaking-Looking-out-or-looking-in/19454/1962589/view
 
