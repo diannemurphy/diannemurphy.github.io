@@ -296,7 +296,7 @@ a.sidebar-nav-item:focus {
   /*border-radius: 5px;*/
 }
 
-div.post > ul, .toc{
+.work-info, .toc{
   list-style-type: none;
   padding-left: 0;
 }
