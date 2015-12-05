@@ -296,9 +296,13 @@ a.sidebar-nav-item:focus {
   /*border-radius: 5px;*/
 }
 
-.work-info, .toc, .external{
+.work-info, .toc, .external, .social{
   list-style-type: none;
   padding-left: 0;
+}
+
+.social{
+  line-height: 1rem;
 }
 
 /*.content ul{
