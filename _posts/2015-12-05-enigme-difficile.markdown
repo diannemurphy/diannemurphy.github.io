@@ -23,6 +23,11 @@ tags:
   - circuit
   - escape
 
+af-subject: still life
+af-style: illustrative
+af-url: https://www.artfinder.com/manage/dianne-murphy/product/enigme-difficile/
+sa-url: http://www.saatchiart.com/art/Printmaking-nigme-difficile/19454/2732060/view
+price: 165
 edition: 100
 width: 23.5
 height: 25
