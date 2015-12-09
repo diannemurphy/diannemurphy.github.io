@@ -16,7 +16,7 @@ title:            Dianne Murphy
 tagline:          'Printmaker and Artist'
 description:      'Dianne Murphy is a printmaker and artist based in Wales - producing a range of limited edition hand inked etchings'
 url:              http://www.diannemurphy.co.uk
-baseurl:          /
+baseurl:          
 
 # paginate: 5
 # paginate_path: "/gallery/page:num/"
