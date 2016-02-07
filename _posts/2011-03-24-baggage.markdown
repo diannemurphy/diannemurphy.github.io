@@ -21,8 +21,8 @@ sa-price:
 sa-url:
 
 edition: 100
-width:
-height:
+width: 6.5
+height: 24.5
 category: gallery
 
 ---

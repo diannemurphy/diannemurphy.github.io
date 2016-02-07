@@ -20,10 +20,10 @@ sa-price:
 sa-url:
 
 edition: 100
-width:
-height:
+width: 17
+height: 17
 category: gallery
 
 ---
 
-Time is a precious commodity. 
+Time is a precious commodity.

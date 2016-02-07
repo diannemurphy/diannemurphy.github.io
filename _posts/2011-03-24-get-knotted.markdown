@@ -22,8 +22,8 @@ sa-url:
 sweet-url: http://www.wearesweetart.com/#!product/prd17/3568628711/dianne-murphy-%22get-knotted%22
 
 edition: 100
-width:
-height:
+width: 7
+height: 24.5
 category: gallery
 
 ---
