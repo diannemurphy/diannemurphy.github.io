@@ -4,6 +4,7 @@ date: "2015-11-27"
 title: "Gift for life"
 medium: 'Colour Inked Etching'
 ext: .jpg
+promo: 1
 
 caption:
 created: 1 May 1998

@@ -4,6 +4,8 @@ date: "2015-11-27"
 title: "Ysbryd y Nadolig"
 medium: 'Colour Inked Etching'
 ext: .jpg
+promo: 1
+
 
 caption: "Ysbryd y Nadolig"
 created: 2014-10-29

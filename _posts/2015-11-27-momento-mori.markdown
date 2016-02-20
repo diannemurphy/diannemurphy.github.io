@@ -4,6 +4,7 @@ date: "2015-11-27"
 title: "Momento Mori"
 medium: 'Colour Inked Etching'
 ext: .jpg
+promo: 1
 
 caption: "Momento Mori"
 date: 2015-05-25

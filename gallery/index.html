@@ -3,9 +3,54 @@ layout: default
 title: Gallery of work
 ---
 <div class="posts">
+
+<!--
+  {% assign promoted = (site.posts where: 'promo' , '1' ) %}
+
+
+	{% for blob in promoted limit:5 %}
+		<a class="thumbnail" href="{{ blob.url}}">
+		<img src="/images/thumbs/{{ blob.image }}.jpg" alt="{{ blob.medium }}" width="90" height="90">
+		</a>
+
+	{% endfor %} -->
+
+
+
+
+
+
 	{% for image in site.posts %}
+
+	{% if image.promo %}
+
 	<a class="thumbnail" href="{{image.url}}">
 	<img src="/images/thumbs/{{ image.image }}.jpg" alt="{{ image.medium }}" width="90" height="90">
 	</a>
+
+
+	{% endif %}
+
 	{% endfor %}
+
+	{% for image in site.posts %}
+
+	{% unless image.promo %}
+
+	<a class="thumbnail" href="{{image.url}}">
+	<img src="/images/thumbs/{{ image.image }}.jpg" alt="{{ image.medium }}" width="90" height="90">
+	</a>
+
+
+	{% endunless %}
+
+	{% endfor %}
+
+
+
+
+
+
+
+
 </div>

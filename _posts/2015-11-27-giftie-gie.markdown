@@ -5,6 +5,7 @@ date: "2015-11-27"
 title: "Giftie Gie"
 medium: 'Colour Inked Etching'
 ext: .jpg
+promo: 1
 
 caption:
 created: '4 February 2015'

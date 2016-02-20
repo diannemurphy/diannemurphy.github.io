@@ -6,6 +6,7 @@ image: enigme-difficile
 created: 3 December 2015
 medium: 'Colour Inked Etching'
 ext: .jpg
+promo: 1
 tags:
   - scrabble
   - meaning of life
