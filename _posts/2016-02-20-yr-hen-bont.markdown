@@ -20,3 +20,5 @@ edition: 100
 width: 10
 height: 10
 ---
+
+Strinda's retirement print.
