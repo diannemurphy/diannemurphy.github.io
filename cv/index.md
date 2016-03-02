@@ -77,6 +77,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2013 Splash, Bang, Wallop, Cupola Contemporary Art, Sheffield
 - 2014 Guilty Pleasures, Sweetart, Juno, Shoreditch, London
 - 2015 Saturnalia, Sweetart, Juno, Shoreditch, London
+- 2016 'Handmaid', Sweetart, Selected Exhibition , Hoxton Arches, London
 
 ### Group Exhibitions
 
