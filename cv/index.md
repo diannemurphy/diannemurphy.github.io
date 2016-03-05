@@ -77,7 +77,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2013 Splash, Bang, Wallop, Cupola Contemporary Art, Sheffield
 - 2014 Guilty Pleasures, Sweetart, Juno, Shoreditch, London
 - 2015 Saturnalia, Sweetart, Juno, Shoreditch, London
-- 2016 'Handmaid', Sweetart, Selected Exhibition , Hoxton Arches, London
+- 2016 'Hand maid', Sweetart, Selected Exhibition , Hoxton Arches, London
 
 ### Group Exhibitions
 
@@ -102,7 +102,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - May 2003 – June 2003 Muni Arts Centre,Pontypridd,Wales.
 - April 2006 – June 2006 Muni Arts Centre,Pontypridd,Wales
 
-###Scottish Touring
+### Scottish Touring
 
 - One Woman Exhibition March 1991 Queen’s Hall, Clerk Street, Edinburgh, Scotland.
 - Joint Exhibition July/August 1991 Chambers Institute Museum & Gallery, Peebles,Scotland.
