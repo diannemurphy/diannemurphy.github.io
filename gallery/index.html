@@ -5,18 +5,14 @@ title: Gallery of work
 <div class="posts">
 
 <!--
-  {% assign promoted = (site.posts where: 'promo' , '1' ) %}
+  {% for work in site.data.order %}
 
+	<a class="thumbnail" href="{{work.url}}">
+	<img src="/images/thumbs/{{ work.image }}.jpg" alt="{{ work.medium }}" width="90" height="90">
+	</a>
 
-	{% for blob in promoted limit:5 %}
-		<a class="thumbnail" href="{{ blob.url}}">
-		<img src="/images/thumbs/{{ blob.image }}.jpg" alt="{{ blob.medium }}" width="90" height="90">
-		</a>
 
 	{% endfor %} -->
-
-
-
 
 
 
@@ -45,6 +41,7 @@ title: Gallery of work
 	{% endunless %}
 
 	{% endfor %}
+
 
 
 
