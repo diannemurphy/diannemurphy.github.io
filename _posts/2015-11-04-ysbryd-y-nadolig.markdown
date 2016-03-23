@@ -1,6 +1,5 @@
 ---
 layout: post
-date: "2015-11-27"
 title: "Ysbryd y Nadolig"
 medium: 'Colour Inked Etching'
 ext: .jpg

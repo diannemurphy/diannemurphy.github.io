@@ -2,45 +2,41 @@
 layout: default
 title: Gallery of work
 ---
+
+
 <div class="posts">
 
-<!--
-  {% for work in site.data.order %}
+<!-- {% assign promoted = (site.posts | sort: 'promo', 'last') %}
+{% for item in promoted %}
 
-	<a class="thumbnail" href="{{work.url}}">
-	<img src="/images/thumbs/{{ work.image }}.jpg" alt="{{ work.medium }}" width="90" height="90">
-	</a>
+<a class="thumbnail" href="{{item.url}}">
+<img src="/images/thumbs/{{ item.image }}.jpg" alt="{{ item.medium }}" width="90" height="90">
+</a>
 
+{% endfor %} -->
 
-	{% endfor %} -->
+<!-- {% assign promoted = (site.posts | sort: 'date', 'last') %}
+{% for item in promoted reversed %}
 
+<a class="thumbnail" href="{{item.url}}">
+<img src="/images/thumbs/{{ item.image }}.jpg" alt="{{ item.medium }}" width="90" height="90">
+</a>
 
-
-	{% for image in site.posts %}
-
-	{% if image.promo %}
-
-	<a class="thumbnail" href="{{image.url}}">
-	<img src="/images/thumbs/{{ image.image }}.jpg" alt="{{ image.medium }}" width="90" height="90">
-	</a>
+{% endfor %} -->
 
 
-	{% endif %}
 
-	{% endfor %}
-
-	{% for image in site.posts %}
-
-	{% unless image.promo %}
+  {% for image in site.posts %}
 
 	<a class="thumbnail" href="{{image.url}}">
 	<img src="/images/thumbs/{{ image.image }}.jpg" alt="{{ image.medium }}" width="90" height="90">
 	</a>
 
-
-	{% endunless %}
-
 	{% endfor %}
+
+
+
+
 
 
 

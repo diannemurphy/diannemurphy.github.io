@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "giftie-gie"
-date: "2015-11-27"
 title: "Giftie Gie"
 medium: 'Colour Inked Etching'
 ext: .jpg

@@ -7,7 +7,6 @@ ext: .jpg
 
 caption: "Astroman"
 created: '27 October 2012'
-date: '27 October 2012'
 image: astroman
 tags:
   - childhood

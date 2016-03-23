@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Énigme difficile"
-date: "2015-12-05"
 image: enigme-difficile
 created: 3 December 2015
 medium: 'Colour Inked Etching'

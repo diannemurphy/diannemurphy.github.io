@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Yr Hen Bont"
-date: "2016-02-20"
 image: yr-hen-bont
 created: 20 February 2016
 medium: 'Colour Inked Etching'

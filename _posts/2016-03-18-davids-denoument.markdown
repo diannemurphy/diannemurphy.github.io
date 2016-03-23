@@ -1,12 +1,10 @@
 ---
 layout: post
-date: "2015-11-27"
 title: "David's Denouement"
 medium: 'Colour Inked Etching'
 ext: .jpg
 
 caption: "David's Denouement"
-date: 2015-03-10
 image: davidsdenouement
 tags:
   - German

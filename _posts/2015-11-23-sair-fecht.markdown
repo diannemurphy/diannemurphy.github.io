@@ -1,10 +1,8 @@
 ---
 layout: post
-date: "2015-11-27"
 title: "Sair Fecht"
 medium: 'Colour Inked Etching'
 ext: .jpg
-promo: 1
 
 caption: "Sair Fecht"
 created: 2015-02-28

@@ -1,6 +1,5 @@
 ---
 layout: post
-date: "2015-11-27"
 title: "Axis Mundi's Thread"
 medium: 'Colour Inked Etching'
 ext: .jpg

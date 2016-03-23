@@ -1,6 +1,5 @@
 ---
 layout: post
-date: "2015-11-27"
 title: "Gift for life"
 medium: 'Colour Inked Etching'
 ext: .jpg
