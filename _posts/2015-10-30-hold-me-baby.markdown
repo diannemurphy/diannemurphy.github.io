@@ -20,8 +20,8 @@ sa-price:
 sa-url: http://www.saatchiart.com/art/Hold-me-Baby/19454/834653/view
 
 edition: 100
-width:
-height:
+width: 45
+height: 31
 category: gallery
 
 ---
