@@ -20,8 +20,8 @@ sa-price:
 sa-url: http://www.saatchiart.com/art/Over-There/19454/834654/view
 
 edition: 100
-width:
-height:
+width: 45
+height: 25
 category: gallery
 
 ---

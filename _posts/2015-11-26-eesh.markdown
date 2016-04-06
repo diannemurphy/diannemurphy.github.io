@@ -20,8 +20,8 @@ sa-price:
 sa-url: http://www.saatchiart.com/art/Eesh/19454/834651/view
 
 edition: 100
-width:
-height:
+width: 51
+height: 45
 category: gallery
 
 ---

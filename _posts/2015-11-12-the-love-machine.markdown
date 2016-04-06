@@ -21,7 +21,7 @@ af-subject: abstract and conceptual
 af-style: illustrative
 
 af-url: https://www.artfinder.com/product/the-love-machine/
-sa-price: $220
+sa-price: $70
 sa-url: http://www.saatchiart.com/art/Printmaking-The-Love-Machine/19454/1835529/view
 
 edition: 100
