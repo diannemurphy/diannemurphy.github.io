@@ -30,4 +30,4 @@ category: gallery
 
 ---
 
-Religion stays will you.
+Religion stays with you.
