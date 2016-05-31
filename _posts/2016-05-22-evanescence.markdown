@@ -23,4 +23,4 @@ width: 15
 height: 19.5
 ---
 
-The passing down of an emotional acuity twisted by hurt and revenge. Now it's time for hard work using a clear head.
+The subsuming of self whilst servicing one's family needs. But barbie WAS perfect.
