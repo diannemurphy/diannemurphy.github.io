@@ -21,9 +21,11 @@ tags:
 af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
+af-url: https://www.artfinder.com/product/come-play-with-me-8a02/
 
 sa-price: $250
 sa-url: http://www.saatchiart.com/art/Printmaking-Come-play-with-me/19454/1611566/view
+
 
 edition: 100
 width:
@@ -32,4 +34,4 @@ category: gallery
 
 ---
 
-Growing up is hard.
+The beginning of adulthood is a confusing and difficult time.
