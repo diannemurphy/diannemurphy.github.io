@@ -5,8 +5,7 @@ medium: 'Colour Inked Etching'
 ext: .jpg
 promo: 1
 
-caption:
-created: 1 May 1998
+created: 'reworked 2015'
 image: gift-for-life
 tags:
   - birth
