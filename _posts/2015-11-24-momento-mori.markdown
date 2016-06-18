@@ -29,8 +29,8 @@ sa-price: $180
 sa-url: http://www.saatchiart.com/art/Printmaking-Momento-Mori/19454/2487943/view
 
 edition: 100
-width: 16
-height: 14
+width: 9
+height: 12
 
 ---
 

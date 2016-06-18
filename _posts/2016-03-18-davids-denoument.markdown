@@ -6,6 +6,7 @@ ext: .jpg
 
 caption: "David's Denouement"
 image: davidsdenouement
+created: '2015'
 tags:
   - German
   - Gambling
@@ -29,8 +30,8 @@ sa-price: $180
 sa-url: http://www.saatchiart.com/art/Printmaking-David-s-Denouement/19454/2379802/view
 
 edition: 100
-width: 22
-height: 18.5
+width: 12
+height: 8
 
 ---
 
