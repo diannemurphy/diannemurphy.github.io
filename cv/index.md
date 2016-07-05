@@ -134,7 +134,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 1991 South Glamorgan Collection
 - 1993 Philadelphia Museum of Art, Pennsylvania, USA
 
-###Private Collections
+### Private Collections
 
 USA, Switzerland, Germany, Italy and UK
 
@@ -183,7 +183,7 @@ Youth Cafe, Tredegar. Create 3×9ft banners for bandstand to be displayed during
 
 May 1994 Featured on The Slate, BBC 2 Wales. Arts magazine programme investigation of my art form technique and chosen topic.
 
-##Education
+## Education
 
 ### Degree
 
@@ -203,9 +203,9 @@ Level 3 attained (ongoing)
 
 May 1994 City & Guilds stage II word processing certificate gained
 
-##Workshops
+## Workshops
 
-###Workshops 1992-2003
+### Workshops 1992-2003
 
 - April 1992 6-day print workshop with 5-12 year-olds in National Museum of Wales.
 - May 1992 Instigate and run 3-day T-shirt printing workshop in the Museum of Wales, Cardiff. - 8-colour run (using cut paper stencils).
@@ -349,7 +349,7 @@ May 1994 City & Guilds stage II word processing certificate gained
 - October 2003 Cynon Valley, 1/2 day Silkscreen monoprinting
 - November 2003 Llanharry, Silkscreen monoprint,
 
-###Workshops 2004-2005
+### Workshops 2004-2005
 
 - Jan 2004 Tegfan Resource Centre, elderly dementia, Hanging bannners images used in design of report cover. Hanging banners exhibited.
 - Feb 2004
@@ -383,7 +383,7 @@ May 1994 City & Guilds stage II word processing certificate gained
 	- Cynon Valley Museum Christmas decoration and cracker making workshop.
 - January 05 Tremorfa Elderly with dementia, Silkscreen printing workshop creating cushions, bags and pinnies.
 
-###Workshops 2005-2006
+### Workshops 2005-2006
 
 - Feb 2005 Cynon Valley Museum Heart Shaped cushions
 - March 2005 Padded fabric frames for Easter printed images
