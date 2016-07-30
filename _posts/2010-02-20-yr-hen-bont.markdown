@@ -2,10 +2,10 @@
 layout: post
 title: "Yr Hen Bont"
 image: yr-hen-bont
-created: 20 February 2016
+created: '20 February 2016'
 medium: 'Colour Inked Etching'
 ext: .jpg
-published: false
+
 tags:
   - old bridge pontypridd
   - pontypridd
