@@ -5,7 +5,7 @@ title: "Giftie Gie"
 medium: 'Colour Inked Etching'
 ext: .jpg
 promo: 1
-
+category: gallery
 caption:
 created: '4 February 2015'
 image: giftie-gie

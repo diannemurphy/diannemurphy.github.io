@@ -21,6 +21,7 @@ price: 197
 edition: 150
 width: 15
 height: 19.5
+category: gallery
 ---
 
 The subsuming of self whilst servicing one's family needs. But barbie WAS perfect.

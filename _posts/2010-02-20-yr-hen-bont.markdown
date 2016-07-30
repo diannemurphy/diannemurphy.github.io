@@ -5,7 +5,7 @@ image: yr-hen-bont
 created: '20 February 2016'
 medium: 'Colour Inked Etching'
 ext: .jpg
-
+category: gallery
 tags:
   - old bridge pontypridd
   - pontypridd
