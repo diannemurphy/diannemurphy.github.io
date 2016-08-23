@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Husks"
+image: husks
+created: 23 August 2016
+medium: 'Colour Inked Etching'
+ext: .jpg
+promo: 1
+tags:
+  - whelks
+  - shells
+  - dolls
+  - porcelain
+  - hosts
+  - vehicles
+
+
+af-style: illustrative
+af-url: https://www.artfinder.com/product/husks/
+
+price: 120
+edition: 100
+width: 15
+height: 10
+category: gallery
+---
+
+Outer casings to ride around in.
