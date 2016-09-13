@@ -18,7 +18,7 @@ tags:
 af-subject: still life
 af-style: illustrative
 af-url: https://www.artfinder.com/product/lamore-della-madre/
-
+category: gallery
 price: 197
 edition: 100
 width: 15

@@ -6,6 +6,7 @@ created: 3 December 2015
 medium: 'Colour Inked Etching'
 ext: .jpg
 promo: 1
+category: gallery
 tags:
   - scrabble
   - meaning of life
