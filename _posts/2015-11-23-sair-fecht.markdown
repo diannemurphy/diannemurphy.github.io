@@ -3,7 +3,7 @@ layout: post
 title: "Sair Fecht"
 medium: 'Colour Inked Etching'
 ext: .jpg
-
+category: gallery
 caption: "Sair Fecht"
 created: 2015-02-28
 image: sair-fecht

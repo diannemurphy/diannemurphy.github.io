@@ -23,6 +23,7 @@ price: 197
 edition: 100
 width: 15
 height: 25
+category: gallery
 ---
 
 The passing down of an emotional acuity twisted by hurt and revenge. Now it's time for hard work using a clear head.

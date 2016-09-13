@@ -4,7 +4,7 @@ title: "Momento Mori"
 medium: 'Colour Inked Etching'
 ext: .jpg
 promo: 1
-
+category: gallery
 caption: "Momento Mori"
 image: momento-mori
 tags:

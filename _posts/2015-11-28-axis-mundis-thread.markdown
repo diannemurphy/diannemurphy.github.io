@@ -3,7 +3,7 @@ layout: post
 title: "Axis Mundi's Thread"
 medium: 'Colour Inked Etching'
 ext: .jpg
-
+category: gallery
 caption: "Axis Mundi's Thread"
 created: '29 November 2014'
 image: axis-mundis-thread

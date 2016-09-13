@@ -4,7 +4,7 @@ title: "Gift for life"
 medium: 'Colour Inked Etching'
 ext: .jpg
 promo: 1
-
+category: gallery
 created: 'reworked 2015'
 image: gift-for-life
 tags:

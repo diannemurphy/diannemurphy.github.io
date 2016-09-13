@@ -3,7 +3,7 @@ layout: post
 title: "David's Denouement"
 medium: 'Colour Inked Etching'
 ext: .jpg
-
+category: gallery
 caption: "David's Denouement"
 image: davidsdenouement
 created: '2015'
