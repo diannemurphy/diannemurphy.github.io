@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Sold Out"
+image: sold-out
+created: 09 Sept 2016
+medium: 'Colour Inked Etching'
+ext: .jpg
+promo: 1
+tags:
+  - dolls
+
+
+edition: 100
+width: 25
+height: 39
+category: gallery
+
+---
+
+Female template
