@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Tracks"
+image: tracks
+created: 1989
+ext: .jpg
+promo: 1
+tags:
+  - illustration
+  - louise erdrich
+  - tracks
+  - book cover
+  - books
+  - picador
+  - pan books
+category: gallery
+
+---
+Illustration for the Picador Edition of 'Tracks' By Louise Erdrich
