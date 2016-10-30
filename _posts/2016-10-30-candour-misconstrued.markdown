@@ -23,6 +23,14 @@ width: 39
 height: 25
 category: gallery
 
+af-price: 250
+af-subject: "abstract and conceptual"
+af-style: illustrative
+af-url: https://www.artfinder.com/product/candour-misconstrued/
+af-desc: "An unspoiled nature soiled by salacity"
+
+
+
 ---
 
 An unspoiled nature soiled by salacity
