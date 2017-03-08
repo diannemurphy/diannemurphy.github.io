@@ -2,12 +2,12 @@
 layout: post
 title: "Nous avons la clé"
 image: nous-avons-la-cle
-created: 08 March 2017
+created: 08 Mar 2017
 medium: 'Colour Inked Etching'
 ext: .jpg
 promo: 1
 tags:
-  - individualism
+  - individuation
   - war
   - peace
   - self-analysis
