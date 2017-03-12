@@ -79,6 +79,8 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2015 Saturnalia, Sweetart, Juno, Shoreditch, London
 - 2016 'Hand maid', Sweetart, Selected Exhibition, Hoxton Arches, London
 - 2016 'SHE'. Sweetart, Selected Exhibition, International Art Collaboration, Tanner Street(London), LPM Gallery(USA) and Soa La Gallery(Vietnam)
+- 2017 T'art, Sweetart, Selected Exhibition, Bones and Pearl Studios, London
+
 
 ### Group Exhibitions
 
@@ -166,7 +168,7 @@ Banner-making Project
 - August 1995
 Youth Cafe, Tredegar. Create 3×9ft banners for bandstand to be displayed during the summer festival.Also work with children/youths within cafe to produce art works for walls and cards to take-away.Set of screen equipment left with cafe so work can continue after project finished.
 
-##Representation
+## Representation
 
 ### Illustration
 
