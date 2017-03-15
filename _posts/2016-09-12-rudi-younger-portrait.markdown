@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Portrait of Younger Rudi"
-image: rudi-portrait
-created: 13 Sept 2016
+image: rudi-younger-portrait
+created: 13 Sept 2015
 medium: 'Acrylic on canvas'
 ext: .jpg
 promo: 1
@@ -12,4 +12,4 @@ category: gallery
 
 ---
 
-Portrait of Rudi.
+Portrait of younger Rudi.

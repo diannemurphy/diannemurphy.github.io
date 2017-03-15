@@ -12,7 +12,9 @@ layout: default
 
   <ul class="work-info" itemprop="description">
     <li>{{ page.medium}}</li>
+    {% if page.edition %}
     <li>Edition of {{ page.edition}}</li>
+    {% endif %}
     <li>Created {{ page.created }}</li>
     {% if page.width %}
     <li>{{ page.width }}cm x {{ page.height }}cm</li>
