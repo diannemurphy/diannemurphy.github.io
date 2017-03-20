@@ -2,7 +2,7 @@
 layout: post
 title: "Nous avons la clé"
 image: nous-avons-la-cle
-created: 08 Mar 2017
+created: 17 Mar 2017
 medium: 'Colour Inked Etching'
 ext: .jpg
 promo: 1
@@ -17,12 +17,11 @@ tags:
   - dolls
 
 af-style: illustrative
-af-url: https://www.artfinder.com/product/nous-avons-la-cle/
+af-url: https://www.artfinder.com/manage/dianne-murphy/product/nous-avons-la-cle-88e4/
 
-sa-price: 168
-sa-url: https://www.saatchiart.com/art/Printmaking-Nous-avons-la-cl-Limited-Edition-1-of-100/19454/3470259/view
+sa-price: 354
+sa-url: https://www.saatchiart.com/art/Printmaking-1-Limited-Edition-1-of-100/19454/3493802/view
 
-price: 105
 edition: 100
 width: 35.5
 height: 27
