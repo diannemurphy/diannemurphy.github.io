@@ -80,6 +80,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2016 'Hand maid', Sweetart, Selected Exhibition, Hoxton Arches, London
 - 2016 'SHE'. Sweetart, Selected Exhibition, International Art Collaboration, Tanner Street(London), LPM Gallery(USA) and Soa La Gallery(Vietnam)
 - 2017 T'art, Sweetart, Selected Exhibition, Bones and Pearl Studios, London
+- 2017 3RD GLOBAL PRINT, Invited Printmaker, Duoro, Portugal, 1st Aug - 3oth Sept 2017
 
 
 ### Group Exhibitions
