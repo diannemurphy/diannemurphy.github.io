@@ -1,0 +1,36 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "VisualArtwork",
+  "name": "{{ page.title }}",
+  "image": "{{ site.url }}/images/{{ page.image }}.jpg",
+  "thumbnailUrl": "{{ site.url }}/images/thumbs/{{ page.image }}.jpg",
+  "description": "{{ page.medium }}",
+  "dateCreated": "{{ page.created }}"
+  "artist": [
+    {
+      "@type": "Person",
+      "name": "{{ site.author.name }}",
+      "sameAs": [
+        "{{ site.author.saatchiart }}",
+        "{{ site.author.artfinder }}"
+      ]
+    }
+  ],
+  "width": [
+    {
+      "@type": "Distance",
+      "name": "{{ page.width }}cm"
+    }
+  ],
+  "height": [
+    {
+      "@type": "Distance",
+      "name": "{{ page.height }}cm"
+    }
+  ],
+  "artMedium": "Etching",
+  "artForm": "Print",
+  "artworkSurface": "paper"
+}
+</script>
