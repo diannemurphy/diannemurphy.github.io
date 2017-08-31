@@ -18,6 +18,13 @@ description:      'Dianne Murphy is a printmaker and artist based in Wales - pro
 url:              http://www.diannemurphy.co.uk
 baseurl:
 
+# About/contact
+author:
+  name:              Dianne Murphy
+  url:               http://www.diannemurphy.co.uk
+  email:             dianne@mearso.com
+  saatchiart:        https://www.saatchiart.com/Murphy
+  artfinder:         https://www.artfinder.com/dianne-murphy#/
 # paginate: 5
 # paginate_path: "/gallery/page:num/"
 
