@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Karen"
-image: portrait-Karen
+image: portrait-karen
 created: October 2017
 medium: 'Acrylic on board'
 ext: .jpg
