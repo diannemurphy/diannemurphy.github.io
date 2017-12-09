@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Am fear nach seall roimhe seallaidh e as a dheaigh"
+image: am-fear
+created: "09 December 2017"
+medium: 'Colour Inked Etching'
+ext: .jpg
+promo: 1
+tags:
+  - robot
+
+
+edition: 100
+width: 15
+height: 15
+category: gallery
+---
+
+Blinded by a deluded image, our primative voices can no longer be heard.
