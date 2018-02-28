@@ -2,8 +2,8 @@
 layout: post
 title: "Saturn's 2nd Return (for Wendy)"
 image: saturns-2nd-return
-created: "22 February 2018"
-medium: 'Black and White Inked Etching'
+created: "28 February 2018"
+medium: 'Fabriano Unica Colour Inked Etching'
 ext: .jpg
 promo: 1
 tags:
@@ -22,17 +22,17 @@ tags:
 
 
 edition: 100
-width: 30
-height: 42
+width: 27
+height: 38
 category: gallery
 
 
 af-style: illustrative
-af-url: https://www.artfinder.com/dianne-murphy#/quick-view/saturns-2nd-return-for-wendy
-af-price: 110
+af-url: https://www.artfinder.com/manage/dianne-murphy/product/saturns-2nd-return-for-wendy-130e/
+af-price: 250
 
-sa-price: 110
-sa-url: https://www.saatchiart.com/art/Printmaking-1-Limited-Edition-1-of-100/19454/4096106/view
+sa-price: 344
+sa-url: https://www.saatchiart.com/art/Printmaking-100-Limited-Edition-1-of-100/19454/4109539/view
 
 ---
 
