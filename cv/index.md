@@ -82,7 +82,8 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2017 T'art, Sweetart, Selected Exhibition, Bones and Pearl Studios, London
 - 2017 3RD GLOBAL PRINT, Invited Printmaker, Duoro, Portugal
 - 2017 FEMFEST, Sweetart, Selected Exhibition, Tanner Street, London
-
+- 2018 'Unspoken', Sweetart, Selected Exhibition, The Stash Gallery, London
+- 2018 9th International Printmaking Biennial, Museu do Douro, Portugal
 
 ### Group Exhibitions
 
