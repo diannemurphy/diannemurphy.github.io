@@ -84,6 +84,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2017 FEMFEST, Sweetart, Selected Exhibition, Tanner Street, London
 - 2018 'Unspoken', Sweetart, Selected Exhibition, The Stash Gallery, London
 - 2018 9th International Printmaking Biennial, Museu do Douro, Portugal
+- 2018 'Japan' West Yorkshire Print Workshop, Muirfield, W. Yorks
 
 ### Group Exhibitions
 
