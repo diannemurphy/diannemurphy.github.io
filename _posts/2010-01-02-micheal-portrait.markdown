@@ -12,4 +12,4 @@ category: gallery
 
 ---
 
-Portrait of Michael.
+Sweet Michael aka Karen's Mike.

@@ -12,4 +12,4 @@ category: gallery
 
 ---
 
-Portrait of younger Rudi.
+First go at Rudi.

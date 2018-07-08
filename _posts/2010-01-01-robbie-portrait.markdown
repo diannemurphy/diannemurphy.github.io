@@ -12,4 +12,4 @@ category: gallery
 
 ---
 
-Portrait of Robbie.
+Robbie aka Sweetie

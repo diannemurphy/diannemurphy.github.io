@@ -12,4 +12,4 @@ category: gallery
 
 ---
 
-Portrait of Rudi.
+Rudi aka Toodie
