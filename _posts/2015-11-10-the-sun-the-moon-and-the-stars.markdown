@@ -18,6 +18,7 @@ af-price: 115
 af-url: https://www.artfinder.com/product/the-sun-the-moon-and-the-stars/
 sa-price:
 sa-url:
+a2a-url: http://www.art2arts.co.uk/dianne-murphy/the-sun-the-moon-and-the-stars
 
 edition: 100
 width: 19
