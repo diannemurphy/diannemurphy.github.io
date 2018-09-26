@@ -30,4 +30,4 @@ sa-url: https://www.saatchiart.com/art/Printmaking-Fabriano-Unica-Colour-Inked-E
 
 ---
 
-The birthing of Nietzsche's ubermensch was supposed to be woman's greatest honour. Uberfrau, however, merely sanctifies and moves on,concerned withher responsibilities. Much like the medieval Pelican who heroically pecked her own breast to feedthe starving young, she brings forth each new generation willingly and selflessly by subsuming her own needs in the process.
+The birthing of Nietzsche's ubermensch was supposed to be woman's greatest honour. Uberfrau, however, merely sanctifies and moves on,concerned with her responsibilities. Much like the medieval Pelican who heroically pecked her own breast to feed the starving young, she brings forth each new generation willingly and selflessly, subsuming her own needs in the process.
