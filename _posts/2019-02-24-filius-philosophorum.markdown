@@ -33,4 +33,4 @@ price: 195
 
 ---
 
-Free the female Mercurius and allow her quicksilver intellect, selflessly applied emotional acuity and steadfast maternal love reign to release the alchemist's vision.
+Free the female Mercurius and allow her quicksilver intellect, selflessly applied emotional acuity and steadfast maternal love free reign to realise the alchemist's vision.
