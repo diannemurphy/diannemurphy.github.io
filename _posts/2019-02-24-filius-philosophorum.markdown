@@ -29,7 +29,11 @@ paper-size-h: 40
 category: gallery
 
 price: 195
+af-price:
 
+af-url: https://www.artfinder.com/manage/dianne-murphy/product/filius-philosophorum/
+
+sa-url: [https://www.saatchiart.com/art/Printmaking-Fabriano-Unica-Colour-Inked-Etching-Limited-Edition-1-of-100/19454/4485432/view](https://www.saatchiart.com/art/Printmaking-Filius-Philosophorum-Limited-Edition-of-100/19454/4803963/view)
 
 ---
 
