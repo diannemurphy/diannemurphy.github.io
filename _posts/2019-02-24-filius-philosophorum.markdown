@@ -29,7 +29,7 @@ category: gallery
 price: 195
 af-url: "https://www.artfinder.com/manage/dianne-murphy/product/filius-philosophorum"
 
-sa-url: "https://www.saatchiart.com/art/Printmaking-Fabriano-Unica-Colour-Inked-Etching-Limited-Edition-1-of-100/19454/4485432/view"
+sa-url: "https://www.saatchiart.com/art/Printmaking-Filius-Philosophorum-Limited-Edition-of-100/19454/4803963/view"
 ---
 
 Free the female Mercurius and allow her quicksilver intellect, selflessly applied emotional acuity and steadfast maternal love free reign to realise the alchemist's vision.
