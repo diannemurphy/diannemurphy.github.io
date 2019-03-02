@@ -86,6 +86,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2018 9th International Printmaking Biennial, Museu do Douro, Portugal
 - 2018 'Japan' West Yorkshire Print Workshop, Mirfield, W. Yorks
 - 2018 'A Celebration of Difference', 19th-24th Nov 2018, Nolias Gallery, Bankside, London
+- 2019 Dwell Time, Arts Publication inclusion, Mental Health reflections. Penistone Line, Yorkshire, A1 boarded artwork installation within Station.
 
 ### Group Exhibitions
 
