@@ -27,7 +27,7 @@ height: 15
 category: gallery
 
 af-style: illustrative
-af-url: https://www.artfinder.com/manage/dianne-murphy/product/what-said-zoroaster-5206/
+af-url: 
 af-price: 100
 
 
