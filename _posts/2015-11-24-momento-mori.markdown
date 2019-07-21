@@ -23,7 +23,7 @@ tags:
 
 af-subject: "abstract and conceptual"
 af-style: illustrative
-af-price: 120
+af-price: 275
 af-url: https://www.artfinder.com/product/momento-mori-9ceb/
 a2a-url: http://www.art2arts.co.uk/dianne-murphy/momento-mori
 sa-price: $180
