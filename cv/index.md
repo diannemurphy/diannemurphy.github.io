@@ -89,6 +89,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2019 Dwell Time, Arts Publication inclusion, Mental Health reflections. Penistone Line, Yorkshire, A1 boarded artwork installation within Station. Exhibit at Huddersfield Station July 2019
 - 2019 'Edition 5', Open Printmaking Exhibition, 44AD Artspace, Bath
 - 2019 'Have a H'art', Sweetart, Stash Gallery, Vout-o-Reenees, London
+- 2019 'The Death of Art', Sweetart, Stash Gallery, Vout-o-Reenees, London
 
 ### Group Exhibitions
 
@@ -459,8 +460,7 @@ May 1994 City & Guilds stage II word processing certificate gained
 
 - January/February 2007 Playscheme workers ideas, Penrhiwceiber, Perthcelyn & Miskin
 - February 2007
-	- Perthcelyn, Penrhiwceiber and Miskin after school clubs create lanterns,
-- hats, jackets and flags for Chinese New Year.
+	- Perthcelyn, Penrhiwceiber and Miskin after school clubs create lanterns, hats, jackets and flags for Chinese New Year.
 	- Cynon Valley Museum, Easter T-towels and boxes
 	- Coliseum, Junk Fashion
 	- Partnership, excluded youth, 6 sessions print & craft
