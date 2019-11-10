@@ -90,6 +90,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2019 'Edition 5', Open Printmaking Exhibition, 44AD Artspace, Bath
 - 2019 'Have a H'art', Sweetart, Stash Gallery, Vout-o-Reenees, London
 - 2019 'The Death of Art', Sweetart, Stash Gallery, Vout-o-Reenees, London
+- 2019 The Fronteer Open 2019, 35 Chapel Walk Gallery, Sheffield
 
 ### Group Exhibitions
 
