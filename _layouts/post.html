@@ -5,7 +5,7 @@ layout: default
 {% include JSON-artwork.html %}
 
 <div class="post">
-  <span itemscope itemtype="http://schema.org/Product">
+  <span itemscope itemprop="offers" itemscope itemtype="http://schema.org/Offer">
   <img class="post-thumbnail" src="/images/{{ page.image }}.jpg" alt="{{ page.medium }}" itemprop="image">
   <h3 class="post-title" itemprop="name">{{ page.title }}</h3>
   <p>
@@ -29,10 +29,10 @@ layout: default
 <h4>Buy work from these sites</h4>
   <ul class="external">
     {% if page.af-url %}
-      <li><a href="{{ page.af-url }}">Artfinder</a></li>
+      <li><a href="{{ page.af-url }}" itemprop="url" >Artfinder</a></li>
     {% endif %}
     {% if page.sa-url %}
-      <li><a href="{{ page.sa-url }}">Saatchi Art</a></li>
+      <li><a href="{{ page.sa-url }}" itemprop="url" >Saatchi Art</a></li>
     {% endif %}
     {% if page.sweet-url %}
       <li><a href="{{ page.sweet-url }}">Sweet Art Gallery</a></li>
