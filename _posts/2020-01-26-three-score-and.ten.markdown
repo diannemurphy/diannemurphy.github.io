@@ -20,8 +20,7 @@ paper-size-w: 12
 paper-size-h: 17
 category: gallery
 price: 250
-sa-url: https://www.saatchiart.com/art/Printmaking-Colour-Inked-Etching-Limited-Edition-of-100/19454/6531611/view
-a2a-url: https://www.art2arts.co.uk/dianne-murphy
+sa-url: https://www.saatchiart.com/art/Printmaking-Three-Score-and-Ten-Colour-Inked-Etching-Limited-Edition-of-100/19454/7237751/view
 
 ---
 
