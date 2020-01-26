@@ -2,7 +2,7 @@
 layout: post
 title: "Three Score and Ten"
 image: three.score.and.ten
-created: "AHanuary 2020"
+created: "January 2020"
 medium: 'Fabriano Unica Colour Inked Etching'
 ext: .jpg
 promo: 1
