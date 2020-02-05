@@ -26,4 +26,4 @@ price:
 sa-url: https://www.saatchiart.com/art/Printmaking-Escaping-Maya-s-Web-Limited-Edition-of-100/19454/7271993/view
 ---
 
-Patience and Time are required to see more clearly.
+Patience and Time are required in order to see more clearly.
