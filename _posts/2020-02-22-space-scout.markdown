@@ -25,4 +25,4 @@ price: 250
 sa-url: 
 ---
 
-Trash Mother Earth then travel to find another planet to spoil.
+Trash Mother Earth then go looking for another planet to spoil.
