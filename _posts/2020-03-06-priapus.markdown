@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Priapus"
+image: priapus
+created: "March 2020"
+medium: 'Fabriano Unica Colour Inked Etching'
+ext: .jpg
+promo: 1
+tags:
+  - Road Rage
+  - Toy Robot
+  - Phallic Symbol
+  - Carbound
+  - Priapus
+  - Greek Mythology
+  - Space Patrol
+
+edition: 100
+width: 13
+height: 9
+paper-size-w: 18
+paper-size-h: 14
+category: gallery
+price: 275
+af-url: 
+---
+
+Reliance upon his inflated member didn't make Priapus happy either.
