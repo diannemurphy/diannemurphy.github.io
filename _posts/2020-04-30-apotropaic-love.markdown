@@ -18,8 +18,8 @@ tags:
   - Apotropic
 
 edition: 100
-width: 13
-height: 9
+width: 13.5 
+height: 13.5
 paper-size-w: 18
 paper-size-h: 14
 category: gallery
