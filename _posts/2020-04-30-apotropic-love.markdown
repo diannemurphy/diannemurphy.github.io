@@ -27,3 +27,4 @@ price: 275
 af-url: 
 ---
 
+Knowledge of a freely given love affords stability and protection.
