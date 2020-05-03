@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apotropic Love"
-image: priapus
+image: apotropic-love
 created: "April 2020"
 medium: 'Fabriano Unica Colour Inked Etching'
 ext: .jpg
