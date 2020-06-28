@@ -94,6 +94,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2019/2020 Social Art Award 2019, Online selected exhibition organised by The Institute for Art and Innovation, Berlin. Inclusion in further shortlisted published book.
 - 2020 Dwell Time Edition 2, Arts Publication inclusion, Mental Health reflections.
 - 2020 A - 'Alphabet', Selected online exhibition, part of the 44AD Artspace A-Z Online Exhibition, Bath
+- 2020 'Gesture', Selected online exhibition, 44AD Artspace, Bath
 
 ### Group Exhibitions
 

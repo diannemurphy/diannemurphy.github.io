@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Evolution 2020"
+image: evolution2020
+created: "June 2020"
+medium: 'Fabriano Unica Colour Inked Etching'
+ext: .jpg
+promo: 1
+tags:
+  - Planet Earth
+  - Evolution
+  - British Sign Language
+  - BSL
+  - Hope
+  - Love
+  - Heart
+  - Earth Symbol
+
+edition: 100
+width: 7
+height: 14
+category: gallery
+price: 200
+af-url: 
+---
+
+Equality and Fraternity equals Liberty.
