@@ -31,4 +31,4 @@ sa-url: https://www.saatchiart.com/art/Printmaking-100-Limited-Edition-1-of-100/
 
 ---
 
-Woman creates and instinctually protects via heightened awareness
+Mother Earth/Woman creates and instinctually protects via heightened awareness: mother as primed guardian challenges you to test her. She stares out from within the temenos surrounded by images of fertility and love, safe within an encircling symbol of the goddess.
