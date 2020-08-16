@@ -21,8 +21,10 @@ height: 9
 paper-size-w: 18
 paper-size-h: 14
 category: gallery
-price: 275
+price: 265
+price_usd: 350
 af-url: 
+sa-url: https://www.saatchiart.com/art/Printmaking-Priapus-Colour-Inked-Etching-Limited-Edition-of-100/19454/7880676/view
 ---
 
 Reliance upon his inflated member didn't make Priapus happy either.
