@@ -95,6 +95,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2020 Dwell Time Edition 2, Arts Publication inclusion, Mental Health reflections.
 - 2020 A - 'Alphabet', Selected online exhibition, part of the 44AD Artspace A-Z Online Exhibition, Bath
 - 2020 'Gesture', Selected online exhibition, 44AD Artspace, Bath
+- Sept 2020 Art Hunt London, Sited artwork. Anima Mundi, [Sweet Art](https://www.wearesweetart.com/)
 
 ### Group Exhibitions
 
@@ -444,7 +445,7 @@ May 1994 City & Guilds stage II word processing certificate gained
 	-St.Davidâ€™s Church, Gelliwastad Rd. Taster printing session.
 - August 2006
 	- Cynon Valley, Clocks decoration.
-	- Penrhewceiber, junk Fashion summer workshop
+    - Penrhewceiber, junk Fashion summer workshop
 	- Ferndale Comm School, Youth junk fashion summer workshop
 	- Cynon Valley, Frames, collage and prints.
 	- Mountain Ash YMCA Junk Fashion youth summer workshop

@@ -18,13 +18,16 @@ tags:
 
 
 edition: 100
-width: 20
-height: 22
+width: 10
+height: 10
+paper-size-w: 20
+paper-size-h: 22
 category: gallery
+
 
 af-style: illustrative
 af-url: https://www.artfinder.com/dianne-murphy#/quick-view/anima-mundi-bf03
-af-price: 120
+af-price: 275
 
 sa-price: 344
 sa-url: https://www.saatchiart.com/art/Printmaking-100-Limited-Edition-1-of-100/19454/4155518/view
