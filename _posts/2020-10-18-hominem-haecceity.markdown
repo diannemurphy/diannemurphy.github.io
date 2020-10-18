@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hominem Haecceity"
-image: tsutenkakubilliken
+image: hominem-haecceity
 created: "Oct 2020"
 medium: 'Fabriano Unica Colour Inked Etching'
 ext: .jpg
