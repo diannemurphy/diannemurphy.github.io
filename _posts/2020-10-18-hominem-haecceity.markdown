@@ -24,4 +24,4 @@ a2a-url:
 sa-url: https://www.saatchiart.com/art/Printmaking-Hominem-Haecceity-Colour-Inked-Etching-Limited-Edition-of-100-Limited-Edition-of-100/19454/8005881/view
 ---
 
-Humanity's concept of 'thisness'.
+Humanity's concept of 'thisness': no body is perfect, and we all bear our own version of haecceity.
