@@ -22,7 +22,7 @@ height: 24.5
 paper-size-w: 20
 paper-size-h: 32
 category: gallery
-price: 300
+price: 295
 price_usd: 437
 sa-url: https://www.saatchiart.com/art/Printmaking-Escaping-Maya-s-Web-Limited-Edition-of-100/19454/7271993/view
 ---

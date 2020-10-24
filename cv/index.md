@@ -97,6 +97,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2020 'Gesture', Selected online exhibition, 44AD Artspace, Bath
 - Sept 2020 Art Hunt London, Sited artwork. Anima Mundi, [Sweet Art](https://www.wearesweetart.com/)
 - 2020 'Love', Selected online exhibition, 44AD Artspace, Bath
+- 2020 Dwelltime, Huddersfield Railway Station Banners, Part of Pennistone Line and Northen Line Art Trail
 
 
 ### Group Exhibitions

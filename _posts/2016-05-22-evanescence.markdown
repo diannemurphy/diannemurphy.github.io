@@ -17,7 +17,7 @@ af-style: illustrative
 af-url: https://www.artfinder.com/product/evanescence-5e89/
 sa-url: http://www.saatchiart.com/art/Printmaking-Evanescence-Limited-Edition-1-of-150/19454/3003600/view
 category: gallery
-price: 197
+price: 347
 edition: 150
 width: 15
 height: 19.5
