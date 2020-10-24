@@ -17,12 +17,13 @@ tags:
 
 edition: 100
 width: 13
-height: 9
+height: 8.5
 paper-size-w: 18
 paper-size-h: 14
 category: gallery
-price: 265
+price: 275
 price_usd: 350
+1forart: https://www.1forart.com/shop/prints/priapus/
 af-url: 
 sa-url: https://www.saatchiart.com/art/Printmaking-Priapus-Colour-Inked-Etching-Limited-Edition-of-100/19454/7880676/view
 ---
