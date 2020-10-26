@@ -22,8 +22,8 @@ edition: 100
 width: 39
 height: 25
 category: gallery
-
-af-price: 250
+1forart-url: https://www.1forart.com/shop/prints/candour-misconstrued/
+af-price: 400
 af-subject: "abstract and conceptual"
 af-style: illustrative
 af-url: https://www.artfinder.com/product/candour-misconstrued/

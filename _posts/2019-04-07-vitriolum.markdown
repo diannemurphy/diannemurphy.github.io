@@ -18,7 +18,7 @@ paper-size-w: 18
 paper-size-h: 23
 category: gallery
 price: 295
-
+1forart-url: https://www.1forart.com/shop/prints/vitriolum/
 sa-url: "https://www.saatchiart.com/art/Printmaking-Colour-Inked-Etching-Limited-Edition-of-100/19454/4889396/view"
 
 ---
