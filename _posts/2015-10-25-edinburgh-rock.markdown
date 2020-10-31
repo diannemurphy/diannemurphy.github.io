@@ -16,14 +16,12 @@ tags:
   - edinburgh
   - toy train
   -
-af-price: 50
+af-price: 200
 af-subject: abstract and conceptual
 af-style: illustrative
 af-url: https://www.artfinder.com/product/edinburgh-rock/
-
-sa-price: $100
 sa-url: http://www.saatchiart.com/art/Printmaking-Edinburgh-Rock/19454/1611572/view
-
+1forart-url: https://www.1forart.com/shop/uncategorized/edinburgh-rock/
 edition: 100
 width: 25
 height: 19
