@@ -12,17 +12,14 @@ image: eenie-meenie-miney
 tags:
   - childhood
 
-af-price:
-af-subject: abstract and conceptual
-af-style: illustrative
-af-price:
-sa-price:
-sa-url:
-
 edition: 100
-width:
-height:
+width: 59
+height: 30
+paper-size-w: 68
+paper-size-h: 43
 category: gallery
+price: 400
+1forart-url: https://www.1forart.com/shop/uncategorized/eenie-meenie-miney/
 
 ---
 
