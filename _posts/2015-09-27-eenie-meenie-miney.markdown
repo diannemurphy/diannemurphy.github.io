@@ -19,8 +19,8 @@ paper-size-w: 68
 paper-size-h: 43
 category: gallery
 price: 400
-1forart-url: https://www.1forart.com/shop/uncategorized/eenie-meenie-miney/
+1forart-url: https://www.1forart.com/shop/uncategorized/eenie-meenie-miney/github
 
 ---
 
-And so we learn.
+And so we learn?
