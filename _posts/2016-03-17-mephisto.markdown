@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Mephisto leibt es zu spielen"
+title: "Mephisto liebt es zu spielen"
 medium: 'Colour Inked Etching'
 ext: .jpg
 promo: 1
 category: gallery
 
-caption: "Mephisto leibt es zu spielen"
+caption: "Mephisto liebt es zu spielen"
 created: 2015-04-24
 image: mephisto
 tags:
@@ -27,7 +27,7 @@ af-price: 120
 af-url: https://www.artfinder.com/product/mephisto-leibt-es-zu-spielen/
 
 sa-price: $184
-sa-url: http://www.saatchiart.com/art/Printmaking-Mephisto-leibt-es-zu-speilen/19454/2439391/view
+sb-url: http://www.saatchiart.com/art/Printmaking-Mephisto-leibt-es-zu-speilen/19454/2439391/view
 
 edition: 100
 width: 12
