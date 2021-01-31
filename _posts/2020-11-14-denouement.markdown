@@ -26,7 +26,7 @@ price: 325
 price_usd: 425
 1forart-url: https://www.1forart.com/shop/prints/denouement/
 af-url: https://www.artfinder.com/manage/dianne-murphy/product/denouement-d09c6/
-a2a-url: 
+a2a-url: https://www.art2arts.co.uk/artwork/denouement
 sa-url: https://www.saatchiart.com/art/Printmaking-Denouement-Limited-Edition-of-100/19454/8063594/view
 ---
 

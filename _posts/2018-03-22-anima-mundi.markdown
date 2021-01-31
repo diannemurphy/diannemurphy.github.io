@@ -31,7 +31,7 @@ af-price: 275
 1forart-url: https://www.1forart.com/shop/prints/anima-mundi/
 sa-price: 344
 sa-url: https://www.saatchiart.com/art/Printmaking-100-Limited-Edition-1-of-100/19454/4155518/view
-
+a2a-url: https://www.art2arts.co.uk/artwork/anima-mundi
 ---
 
 Mother Earth/Woman creates and instinctually protects via heightened awareness: mother as primed guardian challenges you to test her. She stares out from within the temenos surrounded by images of fertility and love, safe within an encircling symbol of the goddess.

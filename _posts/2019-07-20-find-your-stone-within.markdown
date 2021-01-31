@@ -22,7 +22,7 @@ paper-size-h: 24
 category: gallery
 price: 275
 sa-url: https://www.saatchiart.com/art/Printmaking-Colour-Hand-Inked-Etching-Limited-Edition-of-100/19454/6381415/view
-a2a-url: https://www.art2arts.co.uk/dianne-murphy
+a2a-url: https://www.art2arts.co.uk/artwork/find-your-stone-within
 
 ---
 
