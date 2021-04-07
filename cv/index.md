@@ -100,6 +100,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2020 Dwelltime, Huddersfield Railway Station Banners, Part of Pennistone Line and Northen Line Art Trail
 - 2020 Social Art Award, 2019 Edition 2 Publication Inclusion.
 - 2021 Hypersensium.com. Artist Feature. "Too Psychic. Too Poetic".
+- 2021 'Resistance', Selected online exhibition, 44AD Artspace, Bath
 
 
 ### Group Exhibitions
