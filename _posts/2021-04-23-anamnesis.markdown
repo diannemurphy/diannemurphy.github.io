@@ -13,7 +13,7 @@ tags:
   - crone
 
 edition: 100
-width: 28
+width: 27
 height: 18
 paper-size-w: 
 paper-size-h: 
@@ -21,9 +21,10 @@ category: gallery
 price: 
 price_usd: 
 1forart-url:
-af-url: 
+af-url: https://www.artfinder.com/manage/dianne-murphy/product/anamnesis-6afe8/
 a2a-url:
-sa-url: 
+sa-url: https://www.saatchiart.com/art/Printmaking-Anamnesis-Limited-Edition-of-100/19454/8431227/view
+1forart-url: https://www.1forart.com/shop/prints/anamnesis/
 ---
 
 Reincarnation: Where have we been?
