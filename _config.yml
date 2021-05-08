@@ -5,8 +5,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-exclude: [bower_components, Gemfile,Gemfile.lock,Gruntfile.js,package.json,README.md,node_modules,Gruntfile.js,'vendor']
-
+exclude: [bower_components, Gemfile,Gemfile.lock,Gruntfile.js,package.json,README.md,node_modules]
 
 # Permalinks
 permalink:        none

@@ -1,7 +1,13 @@
 {
   "name": "diannewebsite",
   "version": "0.1.0",
-  "devDependencies": { },
+  "devDependencies": {
+    "grunt": "^1.0.4",
+    "grunt-contrib-imagemin": "^3.1.0",
+    "grunt-image-resize": "~0.4.0",
+    "grunt-imagemagick": "~0.1.5",
+    "grunt-shell": "~1.1.1"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/diannemurphy/diannemurphy.github.io"
