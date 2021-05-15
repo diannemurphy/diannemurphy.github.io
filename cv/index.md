@@ -101,6 +101,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2020 Social Art Award, 2019 Edition 2 Publication Inclusion.
 - 2021 <a href="https://www.hypersensium.com/dianne-murphy">Hypersensium.com.</a> Artist Feature. "Too Psychic. Too Poetic".
 - 2021 'Resistance', Selected online exhibition, 44AD Artspace, Bath
+- 2021 'Edition 7', Open Printmaking Exhibition, 44AD Artspace, Bath
 
 
 ### Group Exhibitions
