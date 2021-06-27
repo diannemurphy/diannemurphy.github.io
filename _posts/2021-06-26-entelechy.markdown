@@ -7,18 +7,19 @@ medium: 'Fabriano Unica Colour Inked Etching'
 ext: .jpg
 promo: 1
 tags:
-  - triplegoddess
-  - maiden
+  - dolls
+  - caduceus
+  - mercurius
+  - summum bonnum
   - mother
-  - crone
 
 edition: 100
-width: 27
-height: 18
+width: 26
+height: 34
 paper-size-w: 
 paper-size-h: 
 category: gallery
-price: 
+price: 320
 price_usd: 
 1forart-url: https://www.1forart.com/shop/collections/quirky-picks/entelechy/
 af-url: https://www.artfinder.com/manage/dianne-murphy/product/entelechy/
