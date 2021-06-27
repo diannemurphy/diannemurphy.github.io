@@ -20,11 +20,11 @@ paper-size-h:
 category: gallery
 price: 
 price_usd: 
-1forart-url:
-af-url: 
+1forart-url: https://www.1forart.com/shop/collections/quirky-picks/entelechy/
+af-url: https://www.artfinder.com/manage/dianne-murphy/product/entelechy/
 a2a-url: 
-sa-url: 
+sa-url: https://www.saatchiart.com/art/Printmaking-Entelechy-Limited-Edition-of-100/19454/8543461/view
 1forart-url: 
 ---
 
-Summum Bonum. Wholeness brought forth.
+Summum Bonum. Wholeness brought forth with each new generation.
