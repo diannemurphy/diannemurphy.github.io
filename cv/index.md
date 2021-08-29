@@ -103,7 +103,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2021 'Resistance', Selected online exhibition, 44AD Artspace, Bath
 - 2021 'Edition 7', Open Printmaking Exhibition, 44AD Artspace, Bath
 - 2021 'Reborn', Selected Exhibition, The Hive Gallery, Shrewsbury
-
+- 2021/22 Selected for Print International 2021, Ty Pawb, Wrexham
 
 ### Group Exhibitions
 
@@ -114,7 +114,6 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 1994 Turner House Museum and Art Gallery, Penarth.
 - 2000 Contemporary Printmakers selected exhibition, Blackfriars Arts Centre, Boston, Lincs.
 - 2010 ‘Bitten and Pressed’ contemporary printmakers selected exhibition. Aberystwyth Arts Centre.
-
 
 ### One Woman Exhibitions
 
