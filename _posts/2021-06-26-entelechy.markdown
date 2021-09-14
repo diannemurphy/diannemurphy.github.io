@@ -21,7 +21,6 @@ paper-size-h:
 category: gallery
 price: 320
 price_usd: 
-1forart-url: https://www.1forart.com/shop/collections/quirky-picks/entelechy/
 af-url: https://www.artfinder.com/manage/dianne-murphy/product/entelechy/
 a2a-url: https://www.art2arts.co.uk/artwork/entelechy
 sa-url: https://www.saatchiart.com/art/Printmaking-Entelechy-Limited-Edition-of-100/19454/8543461/view

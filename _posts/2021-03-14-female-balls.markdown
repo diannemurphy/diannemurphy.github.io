@@ -20,7 +20,6 @@ paper-size-h:
 category: gallery
 price: 
 price_usd: 
-1forart-url:
 af-url: 
 a2a-url:
 sa-url: 
