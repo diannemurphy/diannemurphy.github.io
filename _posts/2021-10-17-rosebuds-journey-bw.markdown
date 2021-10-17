@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rosebud's Journey"
-image: rosebudsjourney
+image: rosebudsjourneybw
 created: "2021"
 medium: 'Fabriano Unica Colour Inked Etching'
 ext: .jpg
@@ -18,10 +18,10 @@ height: 13
 paper-size-w: 
 paper-size-h: 
 category: gallery
-price: 200
+price: 60
 price_usd: 
-af-url: https://www.artfinder.com/manage/dianne-murphy/product/rosebuds-journey/
-a2a-url: https://www.art2arts.co.uk/artwork/rosebud-s-journey
+af-url: https://www.artfinder.com/v2/product/rosebuds-journey-0e0b3/
+a2a-url: https://www.art2arts.co.uk/artwork/rosebuds-journey
 sa-url:
 ---
 
