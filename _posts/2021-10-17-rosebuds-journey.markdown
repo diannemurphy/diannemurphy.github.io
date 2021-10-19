@@ -3,7 +3,7 @@ layout: post
 title: "Rosebud's Journey"
 image: rosebudsjourney
 created: "2021"
-medium: 'Fabriano Unica Colour Inked Etching'
+medium:  'Colour Inked Etching on Fabriano Rosaspina White'
 ext: .jpg
 promo: 1
 tags:
@@ -25,4 +25,4 @@ a2a-url: https://www.art2arts.co.uk/artwork/rosebud-s-journey
 sa-url:
 ---
 
-We rush headlong towards love/creating family it becomes the life's work.
+We rush headlong towards love/creating family and it becomes the life's work.
