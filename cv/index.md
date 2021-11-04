@@ -105,7 +105,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2021/22 Selected for Print International 2021, Ty Pawb, Wrexham
 - 2021/22 Selected for 'A Modern Bestiary' Water Street Gallery Todmorden
 - 2021 Selected for 'The Time is Now' Exhibition, Project Ability, Trongate 103, Glasgow, Scotland
-- 2021 Selected inclusion in 'Communita III: Digitale Gemeinschaft', Kunsthaus Steffisburg, Steffisburg, Switzerland
+- 2021 Selected inclusion in 'Communitas III: Digitale Gemeinschaft', Kunsthaus Steffisburg, Steffisburg, Switzerland
 
 ### Group Exhibitions
 
