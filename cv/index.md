@@ -106,7 +106,9 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2021/22 Selected for 'A Modern Bestiary' Water Street Gallery Todmorden
 - 2021 Selected for 'The Time is Now' Exhibition, Project Ability, Trongate 103, Glasgow, Scotland
 - 2021 Selected inclusion in 'Communitas III: Digitale Gemeinschaft', Kunsthaus Steffisburg, Steffisburg, Switzerland
-- 2021/22 Flourish Award for excellence in Printmaking. Selected touring exhibition around North of England in 2022 - The World of Glass, Chalon Way E, St Helens from 22nd Jan 2022
+- 2021/22 Flourish Award for excellence in Printmaking. Selected touring exhibition around North of England in 2022
+  - - West Yorkshire Print Workshop, Mirfield, April- May 2022
+  - - Northern Print, Newcastle-upon-Tyne, June - July 2022
 
 ### Group Exhibitions
 
