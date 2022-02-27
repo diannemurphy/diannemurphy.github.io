@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "All In the mind"
-image: all-in.the-,imnd
+image: all-in-the-mind
 created: "2022"
 medium:  'Colour Inked Steel Plate Etching'
 ext: .jpg
