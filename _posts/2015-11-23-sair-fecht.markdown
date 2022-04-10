@@ -20,7 +20,7 @@ tags:
 af-subject: "abstract and conceptual"
 af-style: illustrative
 af-price: 110
-af-url: https://www.artfinder.com/product/giftie-gie/
+af-url: https://www.artfinder.com/product/sair-fecht/
 sa-price: $170
 sa-url: http://www.saatchiart.com/art/Printmaking-Sair-Fecht/19454/2368230/view
 edition: 100
