@@ -109,7 +109,8 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2021/22 Flourish Award for excellence in Printmaking. Selected touring exhibition around North of England in 2022
   - Huddersfield Art Gallery, Huddersfield, 09 April - 29 May 2022
   - Northern Print, Newcastle-upon-Tyne, June - July 2022
-- 2022 April 2022 - Artists for Ukraine Charity Auction, 16 Nicholson St Gallery Glasgow
+- 2022 April - Artists for Ukraine Charity Auction, 16 Nicholson St Gallery Glasgow
+- 2022 May - Edition 8, Open Printmaking Exhibition, 44AD Artspace, Bath
 
 ### Group Exhibitions
 
