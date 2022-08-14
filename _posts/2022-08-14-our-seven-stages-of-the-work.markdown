@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Our Seven Stages of the Work"
+title: "Our Seven Stages of The Work"
 image: OurSevenStatesofTheWork
 created: "2022"
 medium: 'Colour Inked Etching on Fabriano Rosaspina'
