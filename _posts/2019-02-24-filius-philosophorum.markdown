@@ -27,8 +27,7 @@ paper-size-w: 37
 paper-size-h: 40
 category: gallery
 price: 195
-af-url: "https://www.artfinder.com/manage/dianne-murphy/product/filius-philosophorum"
-
+af-url: "https://www.artfinder.com/product/filius-philosophorum-a4d20/"
 sa-url: "https://www.saatchiart.com/art/Printmaking-Filius-Philosophorum-Limited-Edition-of-100/19454/4803963/view"
 ---
 
