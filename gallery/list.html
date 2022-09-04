@@ -1,0 +1,18 @@
+---
+layout: default
+title: List of works
+---
+
+
+<div class="posts">
+<ul>
+
+  {% for artwork in site.posts %}
+	<li>
+	<a href="{{artwork.url}}">{{artwork.title}}</a>  {{ artwork.created }}
+</li>
+	{% endfor %}
+
+</ul>
+
+</div>
