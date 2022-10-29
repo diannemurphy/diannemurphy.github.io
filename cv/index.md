@@ -111,6 +111,8 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - Flourish Award: Northern Print, Newcastle-upon-Tyne, June - July 2022
 - 2022 April - Artists for Ukraine Charity Auction, 16 Nicholson St Gallery Glasgow
 - 2022 May - Edition 8, Open Printmaking Exhibition, 44AD Artspace, Bath
+- 2022 Nov - Jan 2023 Flourish Award, The Point Gallery South Yorks
+- 2022 Nov - Jan 2023 The Darkness and the Light, Water St Gallery, Todmorden
 
 ### Group Exhibitions
 

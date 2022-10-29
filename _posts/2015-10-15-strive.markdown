@@ -22,12 +22,13 @@ tags:
 af-price: 90
 af-subject: abstract and conceptual
 af-style: illustrative
-sa-price: $155
+
+sa-price: £150
 sa-url: http://www.saatchiart.com/art/Printmaking-Strive/19454/834650/view
 
 edition: 100
-width:
-height:
+width: 7.5
+height: 7.5
 category: gallery
 
 ---
