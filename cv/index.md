@@ -113,6 +113,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2022 May - Edition 8, Open Printmaking Exhibition, 44AD Artspace, Bath
 - 2022 Nov - Jan 2023 Flourish Award, The Point Gallery South Yorks
 - 2022 Nov - Jan 2023 The Darkness and the Light, Water St Gallery, Todmorden
+- 2022 Nov - Dec UneARTh 3rd Annual Mutimedia Arts Festival. Artists using their work in service to the regeneration and healing of the Earth.
 
 ### Group Exhibitions
 
