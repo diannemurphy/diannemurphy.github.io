@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Etnocentricity"
+title: "Ethnocentricity"
 image: ethnocentricity
 created: "2023"
 medium: 'Colour Inked Etching on Fabriano Rosaspina'
