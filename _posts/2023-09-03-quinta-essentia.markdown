@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quinta Essentia"
-image: reincarnation
+image: quinta-essentia
 created: "2023"
 medium: 'Colour Inked Etching on Fabriano Rosaspina'
 ext: .jpg
