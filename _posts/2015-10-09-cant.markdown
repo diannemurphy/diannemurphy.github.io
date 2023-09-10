@@ -11,9 +11,10 @@ image: cant
 tags:
   - childhood
 
-af-price: 120
+af-price: 275
 af-subject: abstract and conceptual
 af-style: illustrative
+af-url: https://www.artfinder.com/manage/dianne-murphy/product/cant/
 sa-price:
 sa-url:
 
