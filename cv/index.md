@@ -118,6 +118,8 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2023 May - Edition 9, Open Printmaking Exhibition, 44AD Artspace, Bath
 - 2023 July - Summer Exhibition, Water Street Gallery Todmorden
 - 2023 Sept-Oct - The Turner House Open Exhibition, Penarth
+- 2023 Oct - Artizen Women's Open, Artizen Gallery, Torquay
+- 2023 Nov - Jan 2024 Forbidden Fruit, Water St Gallery, Todmorden
 
 ### Group Exhibitions
 
