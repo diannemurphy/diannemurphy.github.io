@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Quinta Essentia"
-image: quinta-essentia
+title: "Ricercare"
+image: ricercare
 created: "2023"
 medium: 'Colour Inked Etching on Fabriano Rosaspina'
 ext: .jpg
@@ -10,18 +10,16 @@ tags:
 
 
 edition: 100
-width: 23
-height: 20.5
-paper-size-w: 26
-paper-size-h: 30
+width: 18.5
+height: 29
+paper-size-w:
+paper-size-h:
 category: gallery
-price: 325
+price: 320
 price_usd: 
-af-url: https://www.artfinder.com/manage/dianne-murphy/product/quinta-essentia/
-sa-url: https://www.saatchiart.com/studio/art/10879331/overview
+af-url: https://www.artfinder.com/manage/dianne-murphy/product/ricercare/
+sa-url: https://www.saatchiart.com/studio/art/11253051/overview
 a2a-url: 
 
 ---
-
-
-In our power, we are the fifth element: alchemical symbolism depicts the inherent power of women. The image asks people to appreciate the value of a female role in child nurture and bonding and to realise its crucial place within society. The visual language of childhood imagery is employed to, hopefully, connect on a fundamental level and the colours used invoke the feeling of something old and worn.
+The empress holds the orb and sceptre as symbols of her earthly authority. She asks that we search within ourselves so that we may find and accept our individual true beings. Focussing on a restored inner peace offers and opportunity to realise our raison d'etre.
