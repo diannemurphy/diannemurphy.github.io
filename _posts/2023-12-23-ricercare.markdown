@@ -22,4 +22,4 @@ sa-url: https://www.saatchiart.com/studio/art/11253051/overview
 a2a-url: 
 
 ---
-The empress holds the orb and sceptre as symbols of her earthly authority. She asks that we search within ourselves so that we may find and accept our individual true beings. Focussing on a restored inner peace offers and opportunity to realise our raison d'etre.
+The empress holds the orb and sceptre as symbols of her earthly authority. She asks that we search within ourselves so that we may find and accept our individual true beings. Focussing on a resolved inner peace offers an opportunity to realise our raison d'etre.
