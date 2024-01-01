@@ -28,4 +28,6 @@ a2a-url:
 
 ---
 
+Female national dress dolls speak to the indoctrinal nature of formative years interaction with stereotypical presentations and their role in creating expected conformity. 
+
 Russia, America and China follow their ideological paths whilst the planet continues to decay.

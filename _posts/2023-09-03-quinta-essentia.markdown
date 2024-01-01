@@ -23,5 +23,4 @@ a2a-url:
 
 ---
 
-
-In our power, we are the fifth element: alchemical symbolism depicts the inherent power of women. The image asks people to appreciate the value of a female role in child nurture and bonding and to realise its crucial place within society. The visual language of childhood imagery is employed to, hopefully, connect on a fundamental level and the colours used invoke the feeling of something old and worn.
+In our female form we are the fifth element: alchemical symbolism depicts the inherent power of women. She sits astride, and controls, animal force whilst two birds fly around the globe, signifying the act of completion. This image asks the viewer to appreciate the value of a woman’s role in child nurture and bonding and to realise its crucial place within society. The visual language of childhood imagery is employed to, hopefully, connect on a fundamental level and the colours used invoke the feeling of something ancient and enduring.
