@@ -19,7 +19,7 @@ af-price: 115
 af-url: https://www.artfinder.com/product/giftie-gie/
 sa-tags:
 sa-price:
-
+water-url: https://www.waterstreetgallery.co.uk/en/giftie-gie-05.html
 
 edition: 100
 width: 6.5
