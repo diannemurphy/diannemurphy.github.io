@@ -25,6 +25,7 @@ edition: 100
 width: 25
 height: 15
 category: gallery
+water-url: https://www.waterstreetgallery.co.uk/en/our-seven-stages-of-the-work-08.html
 ---
 
 The essential female shadow side explained
