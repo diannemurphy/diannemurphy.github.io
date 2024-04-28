@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Dasein"
+image: dasein
+created: "2024"
+medium: 'Colour Inked Etching on Fabriano Rosaspina'
+ext: .jpg
+promo: 1
+tags:
+
+
+edition: 100
+width: 13
+height: 19
+paper-size-w:
+paper-size-h:
+category: gallery
+price: 
+price_usd: 
+af-url: 
+sa-url: 
+a2a-url: 
+water-url: 
+
+---
+
+As we journey through life our time is finite and travelling alongside our fellow human beings we are carried forwards by the willing hands of others. Acknowledging those who have come before us, and our reliance upon that connection, keeps us anchored and responsive. It's our turn to brave the seas now and make good use of our all too brief window of opportunity. We don't do it alone.
