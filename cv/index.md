@@ -122,6 +122,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2023 Oct - Jan 2024 Forbidden Fruit, Water St Gallery, Todmorden
 - 2024 Mar - Moon Gazers and Star Finders, 44AD Artspace, Bath
 - 2024 May - Open Printmaking Exhibition, 'Voyage & Discovery', 44AD Artspace, Bath
+- 2024 May-July, EOS, The Old Lock Gallery, Cromford, Derbyshire
 
 ### Group Exhibitions
 
