@@ -23,7 +23,7 @@ af-style: illustrative
 af-price:
 
 sa-price:
-sa-url: http://www.saatchiart.com/art/Printmaking-No-More-Bananas/19454/1461971/view
+sa-url: 
 
 edition: 100
 width:
