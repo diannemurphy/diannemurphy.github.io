@@ -1,14 +1,14 @@
 ---
 
 layout: post
-title: 'No More Bananas'
+title: 'Last Gasp'
 medium: 'Colour Inked Etching'
 ext: .jpg
 
-caption: "No More Bananas"
+caption: "Last Gasp"
 created: '26 October 2012'
 
-image: no-more-bananas
+image: lastgasp
 tags:
   - robot
   - tarot
