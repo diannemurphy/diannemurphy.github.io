@@ -125,7 +125,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2024 May-July, EOS, The Old Lock Gallery, Cromford, Derbyshire
 - 2024 June, 'Stance', Sweetart, Art Bypass Gallery, London
 - 2024 June, Good things happen to Bad People, online, Make politics about hope again
-- 2024 June, The Art Hub, Women in Art, Online
+- 2024 June, The Art Hub, Women in Art, [Online](https://www.unique-fine-art.com/collectors)
 
 ### Group Exhibitions
 
