@@ -130,6 +130,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2024 October, 'Where the light gets in', Chilli Studios, The Bottle Works, and the Toffee Factory, Ouseburn, Newcastle-upon-Tyne
 - 2024 Sept- Oct, Gallery Artists 2024, Water St Gallery, Todmorden
 - 2024 Oct-Dec, Mid Wales Arts Winter Exhibition 2024, Mid Wales Arts Centre, Caersws
+- 2024 Nov Save the Hive, Silent Art Auction, The Hive Shrewsbury
 
 ### Group Exhibitions
 
