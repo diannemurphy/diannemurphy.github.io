@@ -6,7 +6,7 @@ created: "2024"
 medium: 'Colour Inked Etching on Fabriano Rosaspina'
 ext: .jpg
 promo: 1
-tags:
+tags: doll
 
 
 edition: 100
