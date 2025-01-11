@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Moksha"
+image: moksha
+created: "2024"
+medium: 'Colour Inked Etching on Fabriano Rosaspina'
+ext: .jpg
+promo: 1
+tags: doll
+
+
+edition: 100
+width: 10
+height: 15
+paper-size-w:
+paper-size-h:
+category: gallery
+price: 
+price_usd: 
+af-url: 
+sa-url: 
+a2a-url: 
+water-url: 
+
+---
+
+Realization dawns incrementally we are at peace.
