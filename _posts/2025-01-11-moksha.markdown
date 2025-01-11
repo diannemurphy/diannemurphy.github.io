@@ -15,7 +15,7 @@ height: 15
 paper-size-w:
 paper-size-h:
 category: gallery
-price: 
+price: 295
 price_usd: 
 af-url: 
 sa-url: 
@@ -24,4 +24,4 @@ water-url:
 
 ---
 
-Realization dawns incrementally we are at peace.
+Realization dawns incrementally until we are at peace.
