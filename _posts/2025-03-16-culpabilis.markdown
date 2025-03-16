@@ -24,4 +24,4 @@ water-url:
 
 ---
 
-Realization dawns incrementally until we are at peace.
+We must work for, and not against, Mother Nature
