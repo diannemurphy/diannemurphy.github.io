@@ -132,6 +132,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2024 Oct-Dec, Mid Wales Arts Winter Exhibition 2024, Mid Wales Arts Centre, Caersws
 - 2024 Nov Save the Hive, Silent Art Auction, The Hive Shrewsbury
 - 2025 May - Edition 11, Open Print Exhibition, 44AD Artspace, Bath
+- 2025 May-July, 'Prints and Printers', Water Street Gallery Todmorden
 
 ### Group Exhibitions
 
