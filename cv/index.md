@@ -131,7 +131,9 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2024 Sept- Oct, Gallery Artists 2024, Water St Gallery, Todmorden
 - 2024 Oct-Dec, Mid Wales Arts Winter Exhibition 2024, Mid Wales Arts Centre, Caersws
 - 2024 Nov Save the Hive, Silent Art Auction, The Hive Shrewsbury
-- 2025 Aug, 'Paper Cosmos', The Artery, The Arch, Worcester
+- 2025 May - Edition 11, Open Print Exhibition, 44AD Artspace, Bath
+- 2025 May-July, 'Prints and Printers', Water Street Gallery Todmorden
+- 2025 May, The Social Art Award 2025 Online gallery, Planetary Healing - Blue Tribes for Ocean Health
 
 ### Group Exhibitions
 
