@@ -14,7 +14,6 @@ tags:
 af-price: 275
 af-subject: abstract and conceptual
 af-style: illustrative
-af-url: https://www.artfinder.com/manage/dianne-murphy/product/cant/
 sa-price:
 sa-url:
 water-url: https://www.waterstreetgallery.co.uk/en/cant.html

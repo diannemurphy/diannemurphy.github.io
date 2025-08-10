@@ -20,7 +20,6 @@ tags:
 af-price: 220
 af-subject: abstract and conceptual
 af-style: illustrative
-af-url: https://www.artfinder.com/product/capt-black/
 
 sa-price: $380
 sa-url: http://www.saatchiart.com/art/Printmaking-Captain-Black-human-convert/19454/1962580/view

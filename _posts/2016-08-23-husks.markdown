@@ -16,7 +16,6 @@ tags:
 
 
 af-style: illustrative
-af-url: https://www.artfinder.com/product/husks/
 
 sa-price: 160
 sa-url: https://www.saatchiart.com/art/Printmaking-Signed-Limited-Edition-1-of-100/19454/3149931/view

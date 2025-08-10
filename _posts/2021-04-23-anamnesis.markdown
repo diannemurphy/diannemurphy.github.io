@@ -20,7 +20,6 @@ paper-size-h:
 category: gallery
 price: 
 price_usd: 
-af-url: https://www.artfinder.com/manage/dianne-murphy/product/anamnesis-6afe8/
 a2a-url: https://www.art2arts.co.uk/artwork/anamnesis
 sa-url: https://www.saatchiart.com/art/Printmaking-Anamnesis-Limited-Edition-of-100/19454/8431227/view
 ---

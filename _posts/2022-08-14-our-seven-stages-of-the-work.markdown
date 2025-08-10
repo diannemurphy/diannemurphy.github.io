@@ -18,7 +18,7 @@ paper-size-h:
 category: gallery
 price: 295
 price_usd: 
-af-url: https://www.artfinder.com/manage/dianne-murphy/product/our-seven-stages-of-the-work/
+af-url: 
 sa-url: https://www.saatchiart.com/art/Printmaking-Our-Seven-Stages-of-the-Work/19454/9578453/view
 a2a-url: https://www.art2arts.co.uk/artwork/our-seven-stages-of-the-work
 water-url: https://www.waterstreetgallery.co.uk/en/our-seven-stages-of-the-work-08.html

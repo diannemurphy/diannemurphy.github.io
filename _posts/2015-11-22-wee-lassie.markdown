@@ -22,8 +22,6 @@ tags:
 af-price: 115
 af-subject: abstract and conceptual
 af-style: illustrative
-
-af-url: https://www.artfinder.com/product/wee-lassie/
 sa-price: $195
 sa-url: http://www.saatchiart.com/art/Printmaking-Wee-Lassie/19454/1608044/view
 

@@ -20,7 +20,7 @@ paper-size-h:
 category: gallery
 price: 60
 price_usd: 
-af-url: https://www.artfinder.com/v2/product/rosebuds-journey-0e0b3/
+af-url: 
 a2a-url: https://www.art2arts.co.uk/artwork/rosebuds-journey
 sa-url:
 ---

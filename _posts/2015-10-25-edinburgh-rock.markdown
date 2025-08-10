@@ -19,7 +19,6 @@ tags:
 af-price: 200
 af-subject: abstract and conceptual
 af-style: illustrative
-af-url: https://www.artfinder.com/product/edinburgh-rock/
 sa-url: http://www.saatchiart.com/art/Printmaking-Edinburgh-Rock/19454/1611572/view
 edition: 100
 width: 25

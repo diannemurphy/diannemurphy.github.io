@@ -26,7 +26,6 @@ category: gallery
 
 
 af-style: illustrative
-af-url: https://www.artfinder.com/dianne-murphy#/quick-view/anima-mundi-bf03
 af-price: 275
 sa-price: 344
 sa-url: https://www.saatchiart.com/art/Printmaking-100-Limited-Edition-1-of-100/19454/4155518/view

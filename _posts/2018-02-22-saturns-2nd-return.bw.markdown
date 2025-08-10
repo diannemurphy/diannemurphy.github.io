@@ -28,7 +28,6 @@ category: gallery
 
 
 af-style: illustrative
-af-url: https://www.artfinder.com/manage/dianne-murphy/product/saturns-2nd-return-for-wendy/
 af-price: 110
 
 sa-price: 110

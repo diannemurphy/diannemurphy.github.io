@@ -17,7 +17,6 @@ tags:
   - compassion
 
 af-style: illustrative
-af-url: https://www.artfinder.com/product/paternoster/
 af-price: 250
 
 sa-price: 354

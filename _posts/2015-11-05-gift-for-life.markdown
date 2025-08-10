@@ -19,7 +19,6 @@ tags:
 af-subject: "abstract and conceptual"
 af-style: illustrative
 af-price: 120
-af-url: https://www.artfinder.com/product/gift-for-life/
 sa-tags:
   - birth
   - talent

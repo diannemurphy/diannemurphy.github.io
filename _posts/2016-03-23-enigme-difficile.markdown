@@ -26,7 +26,6 @@ tags:
 
 af-subject: still life
 af-style: illustrative
-af-url: https://www.artfinder.com/manage/dianne-murphy/product/enigme-difficile/
 sa-url: http://www.saatchiart.com/art/Printmaking-enigme-difficile/19454/2732060/view
 price: 195
 edition: 100

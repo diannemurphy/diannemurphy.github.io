@@ -22,7 +22,6 @@ af-style: illustrative
 
 a2a-url: http://www.art2arts.co.uk/dianne-murphy/the-love-machine
 
-af-url: https://www.artfinder.com/product/the-love-machine/
 sa-price: $70
 sa-url: http://www.saatchiart.com/art/Printmaking-The-Love-Machine/19454/1835529/view
 

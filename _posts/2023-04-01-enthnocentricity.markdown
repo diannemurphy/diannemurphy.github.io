@@ -22,7 +22,7 @@ paper-size-h:
 category: gallery
 price: 450
 price_usd: 
-af-url: https://www.artfinder.com/manage/dianne-murphy/product/ethnocentricity/order-images/
+af-url: 
 sa-url: https://www.saatchiart.com/art/Printmaking-Ethnocentricity/19454/10326473/view
 a2a-url: 
 

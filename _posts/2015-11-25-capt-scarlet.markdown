@@ -20,8 +20,6 @@ af-price:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price: 250
-af-url: https://www.artfinder.com/product/capt-scarlet/
-
 sa-price: $420
 sa-url: http://www.saatchiart.com/art/Printmaking-Captain-Scarlet-indestructable/19454/1962565/view
 

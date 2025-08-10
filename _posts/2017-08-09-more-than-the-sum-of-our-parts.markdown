@@ -15,7 +15,6 @@ tags:
   - individuation
 
 af-style: illustrative
-af-url: https://www.artfinder.com/product/more-than-the-sum-of-our-parts/#/
 af-price: 197
 
 sa-price: 296

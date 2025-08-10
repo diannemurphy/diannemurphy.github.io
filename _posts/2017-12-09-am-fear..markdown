@@ -25,7 +25,6 @@ category: gallery
 
 
 af-style: illustrative
-af-url: https://www.artfinder.com/product/am-fear-nach-seall-roimhe-seallaidh-e-as-a-dheaigh-81a9/#/
 af-price: 150
 
 sa-price: 150

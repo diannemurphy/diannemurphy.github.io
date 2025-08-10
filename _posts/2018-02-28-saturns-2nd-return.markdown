@@ -29,7 +29,6 @@ category: gallery
 
 price: 400
 af-style: illustrative
-af-url: https://www.artfinder.com/manage/dianne-murphy/product/saturns-2nd-return-for-wendy-130e/
 af-price: 250
 
 sa-price: 344

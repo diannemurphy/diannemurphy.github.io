@@ -21,7 +21,6 @@ tags:
 af-subject: abstract and conceptual
 af-style: illustrative
 af-price: 120
-af-url: https://www.artfinder.com/product/astro-man/
 price: 275
 sa-price: $205
 sa-url: http://www.saatchiart.com/art/Printmaking-Astro-Man/19454/1461975/view

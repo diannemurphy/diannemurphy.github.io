@@ -27,7 +27,6 @@ height: 15
 category: gallery
 
 af-style: illustrative
-af-url: https://www.artfinder.com/product/what-said-zoroaster/#/
 af-price: 100
 
 

@@ -17,8 +17,6 @@ af-subject: abstract and conceptual
 af-style: illustrative
 af-price:
 sa-price:
-sa-url: http://www.saatchiart.com/art/Every-day-I-write-the-Book/19454/834649/view
-
 edition: 100
 width:
 height:

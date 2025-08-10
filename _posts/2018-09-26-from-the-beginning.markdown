@@ -24,7 +24,6 @@ category: gallery
 af-price: 2150
 af-subject: People and Portraits
 af-style: illustrative
-af-url: https://www.artfinder.com/manage/dianne-murphy/product/from-the-beginning-ad55/
 
 sa-url: https://www.saatchiart.com/art/Printmaking-Fabriano-Unica-Colour-Inked-Etching-Limited-Edition-1-of-100/19454/4485432/view
 
