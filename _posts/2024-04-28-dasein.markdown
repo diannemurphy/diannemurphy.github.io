@@ -17,7 +17,7 @@ paper-size-h:
 category: gallery
 price: 
 price_usd: 
-af-url: 
+af-url: https://www.artfinder.com/product/dasein-5e185/
 sa-url: 
 a2a-url: 
 water-url: 
