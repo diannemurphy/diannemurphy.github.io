@@ -20,7 +20,7 @@ price_usd:
 af-url: https://www.artfinder.com/product/moksha-34ecb/
 sa-url: 
 a2a-url: 
-water-url: 
+water-url: https://www.waterstreetgallery.co.uk/en/moksha.html
 
 ---
 
