@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rosebud's Journey"
+title: "Rosebud's Journey (black and white)"
 image: rosebudsjourneybw
 created: "2021"
 medium:  'Black and White Inked Etching on Fabriano Rosaspina White'
