@@ -20,7 +20,7 @@ af-price: 130
 af-subject: abstract and conceptual
 af-style: illustrative
 
-a2a-url: http://www.art2arts.co.uk/dianne-murphy/the-love-machine
+a2a-url: hhttps://www.art2arts.co.uk/artwork/the-love-machine
 
 sa-price: $70
 sa-url: http://www.saatchiart.com/art/Printmaking-The-Love-Machine/19454/1835529/view

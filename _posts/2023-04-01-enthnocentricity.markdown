@@ -24,7 +24,7 @@ price: 450
 price_usd: 
 af-url: 
 sa-url: https://www.saatchiart.com/art/Printmaking-Ethnocentricity/19454/10326473/view
-a2a-url: 
+a2a-url: https://www.art2arts.co.uk/artwork/enthrocentricity
 
 ---
 

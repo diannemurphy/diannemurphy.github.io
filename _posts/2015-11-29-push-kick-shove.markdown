@@ -27,7 +27,7 @@ af-price: 275
 af-subject: abstract and conceptual
 af-style: illustrative
 
-a2a-url: http://www.art2arts.co.uk/dianne-murphy/push-kick-and-shove
+a2a-url: http://www.art2arts.co.uk/push-kick-and-shove
 
 sa-price: $450
 sa-url: http://www.saatchiart.com/art/Printmaking-Push-Kick-and-Shove/19454/834646/view

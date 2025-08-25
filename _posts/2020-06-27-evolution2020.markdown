@@ -24,7 +24,7 @@ price: 200
 price_usd: 260
 a2a:url: https://www.art2arts.co.uk/artwork/evolution-2020
 sa-url: https://www.saatchiart.com/art/Printmaking-Evolution-2020-Colour-Inked-Etching-Limited-Edition-of-100/19454/7880709/view
-
+a2a-url: https://www.art2arts.co.uk/artwork/evolution-2020
 
 
 

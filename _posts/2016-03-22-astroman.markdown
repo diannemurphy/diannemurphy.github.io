@@ -25,7 +25,7 @@ price: 275
 sa-price: $205
 sa-url: http://www.saatchiart.com/art/Printmaking-Astro-Man/19454/1461975/view
 
-a2a-url: http://www.art2arts.co.uk/dianne-murphy/astroman
+a2a-url: http://www.art2arts.co.uk/astroman
 
 edition: 100
 width: 18
