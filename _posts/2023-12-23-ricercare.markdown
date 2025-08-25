@@ -21,6 +21,7 @@ af-url: https://www.artfinder.com/manage/dianne-murphy/product/ricercare/
 sa-url: https://www.saatchiart.com/studio/art/11253051/overview
 a2a-url: 
 water-url: https://www.waterstreetgallery.co.uk/en/ricercare-manuscript-style-placing-the-empress.html
+matriark-url: https://matriark.network/l/ricercare/68a86cf7-6d5e-4585-89ba-4950c505c38c
 
 ---
 Alchemical symbolism spoke to a secretive and mainly male order and, throughout the ages, females have also operated within their own uniquely insightful and intuitive networks. Unnoticed and undervalued, even by their own gender base, women have remained the fundamental nurturing power which allows successive societies to function and grow.

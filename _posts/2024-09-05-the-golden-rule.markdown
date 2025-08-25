@@ -20,7 +20,8 @@ price_usd:
 af-url: https://www.artfinder.com/product/the-golden-rule-cfe6f/
 sa-url: https://www.saatchiart.com/en-gb/art/Printmaking-The-Golden-Rule/19454/12056347/view
 a2a-url: 
-water-url: 
+water-url:
+matriark-url: https://matriark.network/l/the-golden-rule/68a86b83-b0e5-44fc-b70f-5031dc0a8bbd
 
 ---
 

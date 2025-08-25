@@ -21,6 +21,7 @@ af-url: https://www.artfinder.com/manage/dianne-murphy/product/quinta-essentia/
 sa-url: https://www.saatchiart.com/studio/art/10879331/overview
 a2a-url: 
 water-url: https://www.waterstreetgallery.co.uk/en/quinta-essentia.html
+matriark-url: https://matriark.network/l/quinta-essentia/68a86c85-c98d-4f0f-8338-58b739e5ab18
 ---
 
 Mercurius rides upon and harnesses animal force whilst two eagles fly, in opposite directions, around the globe to signify strength, freedom and bravery: in our female form we are the fifth element. Cyclical Moon signposts intuition and reproductive ability and the dove affords peace and succour.
