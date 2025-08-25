@@ -15,7 +15,7 @@ tags:
 
 af-style: illustrative
 sa-url: http://www.saatchiart.com/art/Printmaking-Evanescence-Limited-Edition-1-of-150/19454/3003600/view
-a2a-url: https://www.art2arts.co.uk/artwork/evanescence-49540
+a2a-url: https://www.art2arts.co.uk/artwork/evanescence-49548
 category: gallery
 price: 347
 edition: 150
