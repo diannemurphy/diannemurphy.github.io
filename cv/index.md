@@ -135,7 +135,7 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2025 May-July, 'Prints and Printers', Water Street Gallery Todmorden
 - 2025 May, The Social Art Award 2025 Online gallery, Planetary Healing - Blue Tribes for Ocean Health
 - 2025 Aug, 'Paper Cosmos', The Artery, The Arch, Worcester
-- 2024 Sept, 'Hide Me, Steal Me be Nice to Me', ARTE.M Association, Victoria, Gozo, Malta. An investigation of confrontational crossings overcoming barriers.
+- 2025 Sept, 'Hide Me, Steal Me be Nice to Me', ARTE.M Association, Victoria, Gozo, Malta. An investigation of confrontational crossings overcoming barriers.
 
 
 
