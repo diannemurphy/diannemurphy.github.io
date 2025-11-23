@@ -18,11 +18,11 @@ paper-size-h:
 category: gallery
 price: 319
 price_usd: 
-af-url: 
-sa-url: 
+af-url: https://www.artfinder.com/manage/dianne-murphy/product/missing-pieces-8fed9/
+sa-url: https://www.saatchiart.com/en-gb/art/Printmaking-Missing-Pieces/19454/13365179/view
 a2a-url: 
 water-url: 
 
 ---
 
-Can we learn all there is to know about our universe an our place in it. Time is running out.
+Can we learn all there is to know about our universe and our place in it? Time is running out.
