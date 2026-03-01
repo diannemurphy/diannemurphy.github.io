@@ -20,7 +20,7 @@ paper-size-h:
 category: gallery
 price: 
 price_usd: 
-a2a-url-old:https://www.art2arts.co.uk/artwork/anamnesis
+a2a-url: https://www.art2arts.co.uk/artwork/anamnesis
 sa-url: https://www.saatchiart.com/art/Printmaking-Anamnesis-Limited-Edition-of-100/19454/8431227/view
 ---
 

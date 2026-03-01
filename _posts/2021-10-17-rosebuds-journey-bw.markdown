@@ -21,7 +21,7 @@ category: gallery
 price: 60
 price_usd: 
 af-url: 
-a2a-url-old:https://www.art2arts.co.uk/artwork/rosebuds-journey
+a2a-url: https://www.art2arts.co.uk/artwork/rosebuds-journey
 sa-url:
 ---
 

@@ -19,7 +19,7 @@ price: 325
 price_usd: 
 af-url: https://www.artfinder.com/manage/dianne-murphy/product/quinta-essentia/
 sa-url: https://www.saatchiart.com/studio/art/10879331/overview
-a2a-url-old:
+a2a-url: 
 water-url: https://www.waterstreetgallery.co.uk/en/quinta-essentia.html
 matriark-url: https://matriark.network/l/quinta-essentia/68a86c85-c98d-4f0f-8338-58b739e5ab18
 ---

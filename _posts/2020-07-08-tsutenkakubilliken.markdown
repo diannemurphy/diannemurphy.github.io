@@ -24,7 +24,7 @@ paper-size-h: 14
 category: gallery
 price: 275
 price_usd: 360
-a2a-url-old:https://www.art2arts.co.uk/artwork/tsutenkaku-billiken
+a2a-url: https://www.art2arts.co.uk/artwork/tsutenkaku-billiken
 sa-url: https://www.saatchiart.com/art/Printmaking-Tsutenkaku-Billiken-Colour-Inked-Etching-Limited-Edition-of-100/19454/7880742/view
 ---
 

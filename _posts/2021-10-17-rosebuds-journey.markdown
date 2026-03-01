@@ -21,7 +21,7 @@ category: gallery
 price: 200
 price_usd: 
 af-url: 
-a2a-url-old:https://www.art2arts.co.uk/artwork/rosebud-s-journey
+a2a-url: https://www.art2arts.co.uk/artwork/rosebud-s-journey
 sa-url:
 water-url: https://www.waterstreetgallery.co.uk/en/rosebuds-journey.html
 matriark-url: https://matriark.network/l/rosebud-s-journey/68a86676-c080-4964-a674-f71c5c5db7ed

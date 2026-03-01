@@ -27,7 +27,7 @@ category: gallery
 price: 250
 price_usd: 330
 sa-url: https://www.saatchiart.com/art/Printmaking-Space-Scout-Colour-Inked-Etching-Limited-Edition-of-100/19454/7880662/view
-a2a-url-old:https://www.art2arts.co.uk/artwork/space-scout
+a2a-url: https://www.art2arts.co.uk/artwork/space-scout
 ---
 
 Trash Mother Earth then go looking for another planet to spoil.

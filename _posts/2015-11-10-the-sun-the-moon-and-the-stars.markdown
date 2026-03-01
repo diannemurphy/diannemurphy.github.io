@@ -17,7 +17,7 @@ af-style: illustrative
 af-price: 115
 sa-price:
 sa-url:
-a2a-url-old:http://www.art2arts.co.uk/dianne-murphy/the-sun-the-moon-and-the-stars
+a2a-url: http://www.art2arts.co.uk/dianne-murphy/the-sun-the-moon-and-the-stars
 
 edition: 100
 width: 19

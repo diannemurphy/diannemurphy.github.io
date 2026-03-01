@@ -24,7 +24,7 @@ af-style: illustrative
 
 sa-price: $395
 sa-url: http://www.saatchiart.com/art/Printmaking-Sweet-Rewards/19454/1608030/view
-a2a-url-old:https://www.art2arts.co.uk/artwork/sweet-rewards
+a2a-url: https://www.art2arts.co.uk/artwork/sweet-rewards
 edition: 100
 width: 45
 height: 22

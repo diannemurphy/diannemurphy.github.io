@@ -17,10 +17,10 @@ tags:
   - dolls
 
 af-style: illustrative
-a2a-url-old:http://www.art2arts.co.uk/dianne-murphy/nous-avons-la-cle
+a2a-url: http://www.art2arts.co.uk/dianne-murphy/nous-avons-la-cle
 sa-price: 354
 sa-url: https://www.saatchiart.com/art/Printmaking-1-Limited-Edition-1-of-100/19454/3493802/view
-a2a-url-old:https://www.art2arts.co.uk/artwork/nous-avons-la-cle
+a2a-url: https://www.art2arts.co.uk/artwork/nous-avons-la-cle
 edition: 100
 width: 35.5
 height: 27

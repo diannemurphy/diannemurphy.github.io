@@ -19,7 +19,7 @@ price: 295
 price_usd: 
 af-url: https://www.artfinder.com/product/culpabilis/
 sa-url: 
-a2a-url-old:
+a2a-url: 
 water-url: 
 
 ---

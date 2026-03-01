@@ -19,7 +19,7 @@ paper-size-w: 68
 paper-size-h: 43
 category: gallery
 price: 400
-a2a-url-old:https://www.art2arts.co.uk/artwork/eenie-meenie-miney
+a2a-url: https://www.art2arts.co.uk/artwork/eenie-meenie-miney
 
 ---
 
