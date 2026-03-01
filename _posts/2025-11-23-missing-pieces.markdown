@@ -20,7 +20,7 @@ price: 319
 price_usd: 
 af-url: https://www.artfinder.com/manage/dianne-murphy/product/missing-pieces-8fed9/
 sa-url: https://www.saatchiart.com/en-gb/art/Printmaking-Missing-Pieces/19454/13365179/view
-a2a-url: 
+a2a-url-old:
 water-url: 
 
 ---

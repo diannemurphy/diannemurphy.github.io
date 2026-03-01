@@ -28,7 +28,7 @@ price: 200
 price_usd: 
 af-url: 
 sa-url: https://www.saatchiart.com/art/Printmaking-All-In-the-Mind-Limited-Edition-of-100/19454/9099445/view
-a2a-url: https://www.art2arts.co.uk/artwork/all-in-the-mind
+a2a-url-old:https://www.art2arts.co.uk/artwork/all-in-the-mind
 
 ---
 

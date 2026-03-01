@@ -27,7 +27,7 @@ price: 275
 price_usd: 330
 sa-url: https://www.saatchiart.com/art/Printmaking-Apotropic-Love-Colour-Inked-Etching-Limited-Edition-of-100/19454/7880694/view
 af-url: 
-a2a-url: https://www.art2arts.co.uk/artwork/apotropaic-love
+a2a-url-old:https://www.art2arts.co.uk/artwork/apotropaic-love
 ---
 
 Knowledge of a freely given love affords stability and protection.

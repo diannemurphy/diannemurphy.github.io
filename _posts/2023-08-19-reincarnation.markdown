@@ -22,7 +22,7 @@ price:
 price_usd: 
 af-url: 
 sa-url: 
-a2a-url: 
+a2a-url-old:
 
 ---
 

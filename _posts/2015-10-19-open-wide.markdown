@@ -26,7 +26,7 @@ af-style: illustrative
 sa-price: $195
 sa-url: http://www.saatchiart.com/art/Printmaking-Open-Wide/19454/1608068/view
 
-a2a-url: https://www.art2arts.co.uk/artwork/open-wide
+a2a-url-old:https://www.art2arts.co.uk/artwork/open-wide
 
 edition: 100
 width: 31
