@@ -137,6 +137,9 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2025 Aug, 'Paper Cosmos', The Artery, The Arch, Worcester
 - 2025 Sept, 'Hide Me, Steal Me be Nice to Me', ARTE.M Association, Victoria, Gozo, Malta. An investigation of confrontational crossings overcoming barriers.
 - 2025 Oct'25-Feb'26, 'Prayers for Peace', Water Street Gallery Todmorden
+- 2026 Mar, 'Enchantment, Mystery and Illusion', 44AD Artspace, Bath
+- 2026 Mar, Arts By Women, Open Gallery, Halifax
+- 2026 Mar, 'Spring Collection', Water Street Gallery Todmorden
 
 ### Group Exhibitions
 
