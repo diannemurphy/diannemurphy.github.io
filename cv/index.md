@@ -140,6 +140,8 @@ Artist working (through Hafod Housing) within 3 institutions for the elderly aro
 - 2026 Mar, 'Enchantment, Mystery and Illusion', 44AD Artspace, Bath
 - 2026 Mar, Arts By Women, Open Gallery, Halifax
 - 2026 Mar, 'Spring Collection', Water Street Gallery Todmorden
+- 2026 May, 'Edition 12', 44AD Artspace, Bath
+
 
 ### Group Exhibitions
 
