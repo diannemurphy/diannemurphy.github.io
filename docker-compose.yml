@@ -1,11 +1,13 @@
-version: '3.4'
-
 services:
-  site:
-    image: jekyll/jekyll:3.8.6
-    command: jekyll serve --livereload --verbose
+  jekyll:
+    build:
+      context: .
+      dockerfile: Dockerfile
     ports:
-      - 4000:4000
+      - "4500:4500"
     volumes:
-      - .:/srv/jekyll
-      - ./vendor/bundle:/usr/local/bundle
+      - .:/usr/src/app
+      - /usr/src/app/vendor
+    environment:
+      JEKYLL_ENV: development
+    command: bundle exec jekyll serve --host 0.0.0.0 --port 4500 --force_polling

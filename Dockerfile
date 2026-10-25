@@ -1,16 +1,17 @@
-FROM ruby:2.5-slim
+FROM ruby:3.2-alpine
 
-LABEL Name=diannemurphygithub Version=0.0.1
+RUN apk add --no-cache build-base git shared-mime-info
 
-EXPOSE 4000
+WORKDIR /usr/src/app
 
-# throw errors if Gemfile has been modified since Gemfile.lock
-RUN bundle config --global frozen 1
+RUN gem install bundler
 
-WORKDIR /app
-COPY . /app
-
-COPY Gemfile Gemfile.lock ./
+# The asterisk (*) makes Gemfile.lock optional so the build won't fail if it's missing
+COPY Gemfile Gemfile.lock* ./
 RUN bundle install
 
-CMD ["ruby", "diannemurphygithub.rb"]
+COPY . /usr/src/app
+
+EXPOSE 4500
+
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0", "--port", "4500", "--force_polling"]
