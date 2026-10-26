@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Classifications"
-image: classifications
+title: "Classification"
+image: classification
 created: "2026"
 medium: 'Colour Inked Etching on Fabriano Rosaspina'
 ext: .jpg
@@ -21,7 +21,7 @@ price: 325
 price_usd: 
 af-url: https://www.artfinder.com/product/classifications/
 sa-url: https://www.saatchiart.com/en-gb/art/Printmaking-Classifications/19454/14357499/view
-a2a-url: 
+a2a-url: https://www.art2arts.co.uk/artwork/classifications
 water-url: 
 
 ---
